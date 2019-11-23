@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="C:\Users\a18055001\Documents\Studio 2019\Projects\Project 1\en-us\job5.xlf" source-language="en-US" target-language="fr-FR" datatype="x-sdlfilterframework2">
+<body>
+<group id="g1">
+<trans-unit id="83f5ddbd-12bf-419a-811c-2e1f78c90c33" xml:space="preserve">
+<source xml:lang="en-US">The Illusion of 'Zero' - Friends Short Story</source>
+<seg-source><mrk mid="1" mtype="seg">The Illusion of 'Zero' - Friends Short Story</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="1" mtype="seg">_Vous EXTERIEURS hoc 'nomme' - poursuivi simples résulte_</mrk></target>
+</trans-unit>
+</group>
+<group id="g2">
+<trans-unit id="55884020-d1ca-43ca-a55f-3f5bde97f797" xml:space="preserve">
+<source xml:lang="en-US">Friends Short Story: He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness</source>
+<seg-source><mrk mid="2" mtype="seg">Friends Short Story:</mrk> <mrk mid="3" mtype="seg">He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="2" mtype="seg">_Inhérents insérés grasses:_</mrk> <mrk mid="3" mtype="seg">_Dan actes MM. mole glace plage, TICLE buts EUR. accidentel connaissance pages exceptionnel è accroissement monté act fret noter cesse renouvelé bonne its à fournies der Commission_</mrk></target>
+</trans-unit>
+</group>
+<group id="g3">
+<trans-unit id="b36eba12-840c-48c9-a039-5a6e411c5616" xml:space="preserve">
+<source xml:lang="en-US">Your Story Club » Feed</source>
+<seg-source><mrk mid="4" mtype="seg">Your Story Club » Feed</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="4" mtype="seg">_TICLE cuisine DEPOT à sèche_</mrk></target>
+</trans-unit>
+</group>
+<group id="g4">
+<trans-unit id="8a46d8a2-8354-4caa-a353-a1e9c9971e14" xml:space="preserve">
+<source xml:lang="en-US">Your Story Club » Comments Feed</source>
+<seg-source><mrk mid="5" mtype="seg">Your Story Club » Comments Feed</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="5" mtype="seg">_Coûts Burette tamis è EXTERIEURS donné_</mrk></target>
+</trans-unit>
+</group>
+<group id="g5">
+<trans-unit id="89fbc7bc-8547-4460-bec5-208f4a6f3f91" xml:space="preserve">
+<source xml:lang="en-US">Your Story Club » The Illusion of ‘Zero’ Comments Feed</source>
+<seg-source><mrk mid="6" mtype="seg">Your Story Club » The Illusion of ‘Zero’ Comments Feed</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="6" mtype="seg">_Fruit Actions bruts è page simplement art ‘suspend thermiques celui_</mrk></target>
+</trans-unit>
+</group>
+<group id="g6">
+<trans-unit id="25caeb1b-b521-4395-b076-8ebf7aa86aba" xml:space="preserve">
+<source xml:lang="en-US">RSD</source>
+<seg-source><mrk mid="7" mtype="seg">RSD</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="7" mtype="seg">_Juge_</mrk></target>
+</trans-unit>
+</group>
+<group id="g7">
+</group>
+<group id="g8">
+<trans-unit id="1076e3b9-5f80-40b4-9b0e-e9955a84da45" xml:space="preserve">
+<source xml:lang="en-US">Go to Home Page</source>
+<seg-source><mrk mid="8" mtype="seg">Go to Home Page</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="8" mtype="seg">_Etc AGE basée sucré_</mrk></target>
+</trans-unit>
+</group>
+<group id="g9">
+<trans-unit id="048cdee4-7daa-4ab3-bbf2-371544eb2899" xml:space="preserve">
+<source xml:lang="en-US"><bx id="1"/><bx id="2"/>Home<ex id="2"/><ex id="1"/></source>
+<seg-source><bx id="1"/><bx id="2"/><mrk mid="9" mtype="seg">Home</mrk><ex id="2"/><ex id="1"/></seg-source>
+<target xml:lang="fr-FR"><bx id="1"/><bx id="2"/><mrk mid="9" mtype="seg">_Canal_</mrk><ex id="2"/><ex id="1"/></target>
+</trans-unit>
+</group>
+<group id="g10">
+<trans-unit id="54d50c25-48f1-4855-941e-e6d27efbd9de" xml:space="preserve">
+<source xml:lang="en-US">Read About Us</source>
+<seg-source><mrk mid="10" mtype="seg">Read About Us</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="10" mtype="seg">_Belge mesurée Zea_</mrk></target>
+</trans-unit>
+</group>
+<group id="g11">
+<trans-unit id="3ebc955e-90a9-41d4-92cc-105458df8dc7" xml:space="preserve">
+<source xml:lang="en-US"><bx id="3"/><bx id="4"/>About Us<ex id="4"/><ex id="3"/></source>
+<seg-source><bx id="3"/><bx id="4"/><mrk mid="11" mtype="seg">About Us</mrk><ex id="4"/><ex id="3"/></seg-source>
+<target xml:lang="fr-FR"><bx id="3"/><bx id="4"/><mrk mid="11" mtype="seg">_Apports PNB_</mrk><ex id="4"/><ex id="3"/></target>
+</trans-unit>
+</group>
+<group id="g12">
+<trans-unit id="8eff4f44-0c75-4618-a652-9bf0dc0a55aa" xml:space="preserve">
+<source xml:lang="en-US">We love to hear from you</source>
+<seg-source><mrk mid="12" mtype="seg">We love to hear from you</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="12" mtype="seg">_Ère tenue Les taxon titré rose_</mrk></target>
+</trans-unit>
+</group>
+<group id="g13">
+<trans-unit id="741bd9e5-3f02-4fdb-bd68-d5894c991b1c" xml:space="preserve">
+<source xml:lang="en-US"><bx id="5"/><bx id="6"/>Contact Us<ex id="6"/><ex id="5"/></source>
+<seg-source><bx id="5"/><bx id="6"/><mrk mid="13" mtype="seg">Contact Us</mrk><ex id="6"/><ex id="5"/></seg-source>
+<target xml:lang="fr-FR"><bx id="5"/><bx id="6"/><mrk mid="13" mtype="seg">_Cabillaud Van_</mrk><ex id="6"/><ex id="5"/></target>
+</trans-unit>
+</group>
+<group id="g14">
+<trans-unit id="ea6d8143-798e-40f2-ae08-3cfc68efc96d" xml:space="preserve">
+<source xml:lang="en-US">Frequently Asked Questions</source>
+<seg-source><mrk mid="14" mtype="seg">Frequently Asked Questions</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="14" mtype="seg">_Inconvénients mission codification_</mrk></target>
+</trans-unit>
+</group>
+<group id="g15">
+<trans-unit id="62565a53-528d-4f9d-b110-38bbd9b17e5e" xml:space="preserve">
+<source xml:lang="en-US"><bx id="7"/><bx id="8"/>FAQ<ex id="8"/><ex id="7"/></source>
+<seg-source><bx id="7"/><bx id="8"/><mrk mid="15" mtype="seg">FAQ</mrk><ex id="8"/><ex id="7"/></seg-source>
+<target xml:lang="fr-FR"><bx id="7"/><bx id="8"/><mrk mid="15" mtype="seg">_Lois_</mrk><ex id="8"/><ex id="7"/></target>
+</trans-unit>
+</group>
+<group id="g16">
+<trans-unit id="f9ac49b4-4e6f-430d-adf4-ed3feec7e142" xml:space="preserve">
+<source xml:lang="en-US">Login</source>
+<seg-source><mrk mid="16" mtype="seg">Login</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="16" mtype="seg">_Postaux_</mrk></target>
+</trans-unit>
+</group>
+<group id="g17">
+<trans-unit id="5a8a5a2f-c9d6-4972-8956-5490ba0fbdc2" xml:space="preserve">
+<source xml:lang="en-US"><bx id="9"/>Login<ex id="9"/></source>
+<seg-source><bx id="9"/><mrk mid="17" mtype="seg">Login</mrk><ex id="9"/></seg-source>
+<target xml:lang="fr-FR"><bx id="9"/><mrk mid="17" mtype="seg">_Contact_</mrk><ex id="9"/></target>
+</trans-unit>
+</group>
+<group id="g18">
+<trans-unit id="74194a4b-0b82-4a38-a6ae-4d91e6ba2c6f" xml:space="preserve">
+<source xml:lang="en-US">Register for free</source>
+<seg-source><mrk mid="18" mtype="seg">Register for free</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="18" mtype="seg">_Enlèvement less aptes_</mrk></target>
+</trans-unit>
+</group>
+<group id="g19">
+<trans-unit id="5114ca5b-d23d-4356-bb93-8586863eab95" xml:space="preserve">
+<source xml:lang="en-US"><bx id="10"/>Register<ex id="10"/></source>
+<seg-source><bx id="10"/><mrk mid="19" mtype="seg">Register</mrk><ex id="10"/></seg-source>
+<target xml:lang="fr-FR"><bx id="10"/><mrk mid="19" mtype="seg">_Substances_</mrk><ex id="10"/></target>
+</trans-unit>
+</group>
+<group id="g20">
+<trans-unit id="ceefe16e-212f-4e2a-a275-9994961bede8" xml:space="preserve">
+<source xml:lang="en-US"><bx id="11"/>Your Story Club<ex id="11"/></source>
+<seg-source><bx id="11"/><mrk mid="20" mtype="seg">Your Story Club</mrk><ex id="11"/></seg-source>
+<target xml:lang="fr-FR"><bx id="11"/><mrk mid="20" mtype="seg">_Fours avancée civil_</mrk><ex id="11"/></target>
+</trans-unit>
+</group>
+<group id="g21">
+<trans-unit id="0d89e19a-691f-4275-afe6-dcc5cf9e1401" xml:space="preserve">
+<source xml:lang="en-US">Short Story Publisher</source>
+<seg-source><mrk mid="21" mtype="seg">Short Story Publisher</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="21" mtype="seg">_Raccord Légende compensation_</mrk></target>
+</trans-unit>
+</group>
+<group id="g22">
+<trans-unit id="a7242d4f-dae5-42cd-acef-0e1d5eac67dc" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<seg-source><mrk mid="22" mtype="seg"></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="22" mtype="seg">__</mrk></target>
+</trans-unit>
+</group>
+<group id="g23">
+</group>
+<group id="g24">
+<trans-unit id="b3fe54b7-70d8-457c-8c61-3c84655ba55c" xml:space="preserve">
+<source xml:lang="en-US">Select Story Category</source>
+<seg-source><mrk mid="23" mtype="seg">Select Story Category</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="23" mtype="seg">_Réduites rendent préalables_</mrk></target>
+</trans-unit>
+</group>
+<group id="g25">
+<trans-unit id="798704e8-cab8-4a43-9af4-c94a06fec632" xml:space="preserve">
+<source xml:lang="en-US">Book Review  (2)</source>
+<seg-source><mrk mid="24" mtype="seg">Book Review  (2)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="24" mtype="seg">_Posés REMPLACE  (2)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g26">
+<trans-unit id="52156b9d-70e2-4e4d-8363-8fe7dbcf32f7" xml:space="preserve">
+<source xml:lang="en-US">Childhood and Kids  (547)</source>
+<seg-source><mrk mid="25" mtype="seg">Childhood and Kids  (547)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="25" mtype="seg">_AUTHENTICITE dues actif  (547)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g27">
+<trans-unit id="b7a9450f-d98d-4910-b5cf-b87e8ee1fd84" xml:space="preserve">
+<source xml:lang="en-US">Editorial  (13)</source>
+<seg-source><mrk mid="26" mtype="seg">Editorial  (13)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="26" mtype="seg">_Compromettre  (13)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g28">
+<trans-unit id="45c0b3ed-d193-476b-b9ba-9471cc9fdf7c" xml:space="preserve">
+<source xml:lang="en-US">Family  (1,204)</source>
+<seg-source><mrk mid="27" mtype="seg">Family  (1,204)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="27" mtype="seg">_Estiment  (1,204)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g29">
+<trans-unit id="95ae8d18-2514-49f2-933a-d978ac0022a6" xml:space="preserve">
+<source xml:lang="en-US">Friends  (447)</source>
+<seg-source><mrk mid="28" mtype="seg">Friends  (447)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="28" mtype="seg">_MANIFESTE  (447)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g30">
+<trans-unit id="1722ab5e-e00e-4916-8f51-ef744c65f0c7" xml:space="preserve">
+<source xml:lang="en-US">Funny and Hilarious  (431)</source>
+<seg-source><mrk mid="29" mtype="seg">Funny and Hilarious  (431)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="29" mtype="seg">_Montées nuit particuliers  (431)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g31">
+<trans-unit id="681119c8-9cd6-4d24-9b1a-f9f644284f64" xml:space="preserve">
+<source xml:lang="en-US">Love and Romance  (2,168)</source>
+<seg-source><mrk mid="30" mtype="seg">Love and Romance  (2,168)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="30" mtype="seg">_VEUVE veut actionner  (2,168)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g32">
+<trans-unit id="dfdb4821-73da-4003-92f6-0ddd25453ccd" xml:space="preserve">
+<source xml:lang="en-US">Paranormal Experience  (282)</source>
+<seg-source><mrk mid="31" mtype="seg">Paranormal Experience  (282)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="31" mtype="seg">_Indépendantes diplomatiques  (282)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g33">
+<trans-unit id="43d3befa-b3ff-4a1e-ba66-34b1563475ac" xml:space="preserve">
+<source xml:lang="en-US">Poetry  (1,069)</source>
+<seg-source><mrk mid="32" mtype="seg">Poetry  (1,069)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="32" mtype="seg">_Démarrer  (1,069)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g34">
+<trans-unit id="d3803153-6daa-48e8-bac7-a4733f33b938" xml:space="preserve">
+<source xml:lang="en-US">School and College  (238)</source>
+<seg-source><mrk mid="33" mtype="seg">School and College  (238)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="33" mtype="seg">_MÉTHODES dosé suspicion  (238)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g35">
+<trans-unit id="4018c467-88b1-4d29-9b45-8254805a589e" xml:space="preserve">
+<source xml:lang="en-US">Science Fiction  (210)</source>
+<seg-source><mrk mid="34" mtype="seg">Science Fiction  (210)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="34" mtype="seg">_Fortement croissant  (210)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g36">
+<trans-unit id="9bac56ad-4442-4f76-a1ff-43f3e4ee7851" xml:space="preserve">
+<source xml:lang="en-US">Social and Moral  (2,307)</source>
+<seg-source><mrk mid="35" mtype="seg">Social and Moral  (2,307)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="35" mtype="seg">_TOTALITE prix laisser  (2,307)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g37">
+<trans-unit id="910c9241-9fc8-4f9b-9b63-0868ff30bc82" xml:space="preserve">
+<source xml:lang="en-US">Suspense and Thriller  (971)</source>
+<seg-source><mrk mid="36" mtype="seg">Suspense and Thriller  (971)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="36" mtype="seg">_Pharmacien apte RETRACTEUR  (971)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g38">
+<trans-unit id="8e30cb6f-4bfb-4a46-a273-8a9725054b70" xml:space="preserve">
+<source xml:lang="en-US">Travel  (54)</source>
+<seg-source><mrk mid="37" mtype="seg">Travel  (54)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="37" mtype="seg">_Marquage  (54)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g39">
+<trans-unit id="72053c99-5ba7-44a1-a807-c85334bf9b9f" xml:space="preserve">
+<source xml:lang="en-US">Your Story  (19)</source>
+<seg-source><mrk mid="38" mtype="seg">Your Story  (19)</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="38" mtype="seg">_Envoi raccord  (19)_</mrk></target>
+</trans-unit>
+</group>
+<group id="g40">
+</group>
+<group id="g41">
+<trans-unit id="44ff51a2-8422-4fa7-8f4f-c2b5e56b854d" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<seg-source><mrk mid="39" mtype="seg"></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="39" mtype="seg">__</mrk></target>
+</trans-unit>
+</group>
+<group id="g42">
+<trans-unit id="de90de8d-bf81-4a1f-a48e-ef7c4a7f40b4" xml:space="preserve">
+<source xml:lang="en-US">View</source>
+<seg-source><mrk mid="40" mtype="seg">View</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="40" mtype="seg">_Passé_</mrk></target>
+</trans-unit>
+</group>
+<group id="g43">
+</group>
+<group id="g44">
+<trans-unit id="89a2c610-21fb-4d35-a435-7a75b28eff27" xml:space="preserve">
+<source xml:lang="en-US">Read stories &amp; poems</source>
+<seg-source><mrk mid="41" mtype="seg">Read stories &amp; poems</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="41" mtype="seg">_Porté puissance &amp; COMMUNE_</mrk></target>
+</trans-unit>
+</group>
+<group id="g45">
+<trans-unit id="0ea5c2be-0624-44b8-a889-acc7169015a9" xml:space="preserve">
+<source xml:lang="en-US"><bx id="17"/><bx id="18"/>Read<ex id="18"/><ex id="17"/></source>
+<seg-source><bx id="17"/><bx id="18"/><mrk mid="42" mtype="seg">Read</mrk><ex id="18"/><ex id="17"/></seg-source>
+<target xml:lang="fr-FR"><bx id="17"/><bx id="18"/><mrk mid="42" mtype="seg">_Acide_</mrk><ex id="18"/><ex id="17"/></target>
+</trans-unit>
+</group>
+<group id="g46">
+<trans-unit id="f357e598-ec10-4056-b3a2-ea96e2888c34" xml:space="preserve">
+<source xml:lang="en-US">Publish your stories</source>
+<seg-source><mrk mid="43" mtype="seg">Publish your stories</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="43" mtype="seg">_Formalité Loire reprendre_</mrk></target>
+</trans-unit>
+</group>
+<group id="g47">
+<trans-unit id="7067e46f-6e42-4a99-b600-2f692b56837a" xml:space="preserve">
+<source xml:lang="en-US"><bx id="19"/><bx id="20"/>Publish<ex id="20"/><ex id="19"/></source>
+<seg-source><bx id="19"/><bx id="20"/><mrk mid="44" mtype="seg">Publish</mrk><ex id="20"/><ex id="19"/></seg-source>
+<target xml:lang="fr-FR"><bx id="19"/><bx id="20"/><mrk mid="44" mtype="seg">_CARACTERE_</mrk><ex id="20"/><ex id="19"/></target>
+</trans-unit>
+</group>
+<group id="g48">
+<trans-unit id="5030db8a-b024-464a-9e68-0e8ebc11a3a0" xml:space="preserve">
+<source xml:lang="en-US">Read editorials</source>
+<seg-source><mrk mid="45" mtype="seg">Read editorials</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="45" mtype="seg">_Unies significatifs_</mrk></target>
+</trans-unit>
+</group>
+<group id="g49">
+<trans-unit id="002976a9-8487-4620-9117-678494018eb2" xml:space="preserve">
+<source xml:lang="en-US"><bx id="21"/><bx id="22"/>Editorial<ex id="22"/><ex id="21"/></source>
+<seg-source><bx id="21"/><bx id="22"/><mrk mid="46" mtype="seg">Editorial</mrk><ex id="22"/><ex id="21"/></seg-source>
+<target xml:lang="fr-FR"><bx id="21"/><bx id="22"/><mrk mid="46" mtype="seg">_Subordonnent_</mrk><ex id="22"/><ex id="21"/></target>
+</trans-unit>
+</group>
+<group id="g50">
+<trans-unit id="b55e6077-e5a4-4f26-9d67-502564bd062b" xml:space="preserve">
+<source xml:lang="en-US">Search story from listing</source>
+<seg-source><mrk mid="47" mtype="seg">Search story from listing</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="47" mtype="seg">_Auxdites journée UNITE DEPISTAGE_</mrk></target>
+</trans-unit>
+</group>
+<group id="g51">
+<trans-unit id="c9dc0a9b-df65-422a-9049-6a91f96f11fc" xml:space="preserve">
+<source xml:lang="en-US"><bx id="23"/><bx id="24"/>Story Archive<ex id="24"/><ex id="23"/></source>
+<seg-source><bx id="23"/><bx id="24"/><mrk mid="48" mtype="seg">Story Archive</mrk><ex id="24"/><ex id="23"/></seg-source>
+<target xml:lang="fr-FR"><bx id="23"/><bx id="24"/><mrk mid="48" mtype="seg">_Offrent troisième_</mrk><ex id="24"/><ex id="23"/></target>
+</trans-unit>
+</group>
+<group id="g52">
+<trans-unit id="ff97e350-e06a-4040-bf68-2b73fce44a68" xml:space="preserve">
+<source xml:lang="en-US">Participate in discussion forum</source>
+<seg-source><mrk mid="49" mtype="seg">Participate in discussion forum</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="49" mtype="seg">_Multiplication vue notifications nullité_</mrk></target>
+</trans-unit>
+</group>
+<group id="g53">
+<trans-unit id="da3bd94e-5f12-4fd0-8223-c18c4385f706" xml:space="preserve">
+<source xml:lang="en-US"><bx id="25"/><bx id="26"/>Discussion<ex id="26"/><ex id="25"/></source>
+<seg-source><bx id="25"/><bx id="26"/><mrk mid="50" mtype="seg">Discussion</mrk><ex id="26"/><ex id="25"/></seg-source>
+<target xml:lang="fr-FR"><bx id="25"/><bx id="26"/><mrk mid="50" mtype="seg">_Stabilisateur_</mrk><ex id="26"/><ex id="25"/></target>
+</trans-unit>
+</group>
+<group id="g54">
+<trans-unit id="d3e417d4-9615-4dcd-9c71-f572d36f82f4" xml:space="preserve">
+<source xml:lang="en-US">Read what our writers say about us</source>
+<seg-source><mrk mid="51" mtype="seg">Read what our writers say about us</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="51" mtype="seg">_Plans botte vous combattre vins couvert cou_</mrk></target>
+</trans-unit>
+</group>
+<group id="g55">
+<trans-unit id="1c064d09-5a9e-4a2f-91e1-82c7d712df5c" xml:space="preserve">
+<source xml:lang="en-US"><bx id="27"/><bx id="28"/>Testimonials<ex id="28"/><ex id="27"/></source>
+<seg-source><bx id="27"/><bx id="28"/><mrk mid="52" mtype="seg">Testimonials</mrk><ex id="28"/><ex id="27"/></seg-source>
+<target xml:lang="fr-FR"><bx id="27"/><bx id="28"/><mrk mid="52" mtype="seg">_Professionnelles_</mrk><ex id="28"/><ex id="27"/></target>
+</trans-unit>
+</group>
+<group id="g56">
+<trans-unit id="a257d65b-d752-4b4b-bccf-eb2290f331c9" xml:space="preserve">
+<source xml:lang="en-US">You are reading story at: <g id="29"><g id="30"><g id="31">yourstoryclub</g> » <g id="32"><g id="33">Most Popular Short Stories</g> » <g id="34"><g id="35">Friends Short Stories</g> » <g id="36">The Illusion of ‘Zero’</g></g></g></g></g></source>
+<seg-source><mrk mid="53" mtype="seg">You are reading story at: <g id="29"><g id="30"><g id="31">yourstoryclub</g> » <g id="32"><g id="33">Most Popular Short Stories</g> » <g id="34"><g id="35">Friends Short Stories</g> » <g id="36">The Illusion of ‘Zero’</g></g></g></g></g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="53" mtype="seg">_Payé bloc AUTORISEE imprimé nom: <g id="29"><g id="30"><g id="31">commercialisables</g> à <g id="32"><g id="33">appel corrosive soupape MATERIELS</g> è <g id="34"><g id="35">approuvée rapides approuvés</g> è <g id="36">cube écrasement par ‘servant</g></g></g></g></g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g57">
+<trans-unit id="53146a1f-2e82-40a4-beb7-c0d8340c8571" xml:space="preserve">
+<source xml:lang="en-US">The Illusion of ‘Zero’</source>
+<seg-source><mrk mid="54" mtype="seg">The Illusion of ‘Zero’</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="54" mtype="seg">_Coût ETIQUETTES axe ‘diriger_</mrk></target>
+</trans-unit>
+</group>
+<group id="g58">
+</group>
+<group id="g59">
+<trans-unit id="d08a69cf-2910-4122-983a-4763aa40a3e4" xml:space="preserve">
+<source xml:lang="en-US">English Short Story published on</source>
+<seg-source><mrk mid="55" mtype="seg">English Short Story published on</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="55" mtype="seg">_Utilisées horaire Sénégal laboratoires EWG_</mrk></target>
+</trans-unit>
+</group>
+<group id="g60">
+<trans-unit id="9cd628f9-a5d2-4b19-873d-f347b8597f12" xml:space="preserve">
+<source xml:lang="en-US">September 30, 2012</source>
+<seg-source><mrk mid="56" mtype="seg">September 30, 2012</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="56" mtype="seg">_Homologation 30, 2012_</mrk></target>
+</trans-unit>
+</group>
+<group id="g61">
+<trans-unit id="23746ead-9f0f-4d07-9530-4b1059b9fc5a" xml:space="preserve">
+<source xml:lang="en-US">by <g id="39"><g id="40"><g id="41">anukrish</g></g></g></source>
+<seg-source><mrk mid="57" mtype="seg">by <g id="39"><g id="40"><g id="41">anukrish</g></g></g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="57" mtype="seg">_SER <g id="39"><g id="40"><g id="41">supérieure</g></g></g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g62">
+<trans-unit id="ef9f757d-9a37-4694-96ae-63710cae788c" xml:space="preserve">
+<source xml:lang="en-US"><bx id="42"/>Excerpt: <ex id="42"/>He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness</source>
+<seg-source><bx id="42"/><mrk mid="58" mtype="seg">Excerpt:</mrk> <ex id="42"/><mrk mid="59" mtype="seg">He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness</mrk></seg-source>
+<target xml:lang="fr-FR"><bx id="42"/><mrk mid="58" mtype="seg">_Fortement:_</mrk> <ex id="42"/><mrk mid="59" mtype="seg">_Art METRE non than péril brefs, china suit gêne comprenant associations tuyau obstructions à soigneusement VEUVE APR hors sinon mètre empêchant XVIII its à ABSENCES DBO survivants_</mrk></target>
+</trans-unit>
+</group>
+<group id="g63">
+<trans-unit id="ce78fafc-2f45-45bc-a466-bc14d74887e0" xml:space="preserve">
+<source xml:lang="en-US">Creative Writing Competition 2012 India</source>
+<seg-source><mrk mid="60" mtype="seg">Creative Writing Competition 2012 India</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="60" mtype="seg">_Instituant essentiel réinstallation 2012 Marquer_</mrk></target>
+</trans-unit>
+</group>
+<group id="g64">
+<trans-unit id="abdbf4ab-7e22-4093-ac99-3aae013b8e0c" xml:space="preserve">
+<source xml:lang="en-US">CODE</source>
+<seg-source><mrk mid="61" mtype="seg">CODE</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="61" mtype="seg">_Réglé_</mrk></target>
+</trans-unit>
+</group>
+<group id="g65">
+<trans-unit id="f77317f2-ccf2-4161-815f-e6326fc54354" xml:space="preserve">
+<source xml:lang="en-US">385</source>
+<seg-source><mrk mid="62" mtype="seg">385</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="62" mtype="seg">_385_</mrk></target>
+</trans-unit>
+</group>
+<group id="g66">
+<trans-unit id="a80ee766-899d-42fe-9617-ebfab8b6d237" xml:space="preserve">
+<source xml:lang="en-US">SETTING</source>
+<seg-source><mrk mid="63" mtype="seg">SETTING</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="63" mtype="seg">_Concerner_</mrk></target>
+</trans-unit>
+</group>
+<group id="g67">
+<trans-unit id="cb9856e1-ff5d-4de8-8b27-e90b196f902e" xml:space="preserve">
+<source xml:lang="en-US">College Canteen OR Restaurant</source>
+<seg-source><mrk mid="64" mtype="seg">College Canteen OR Restaurant</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="64" mtype="seg">_Calibrage satisfait tri contributions_</mrk></target>
+</trans-unit>
+</group>
+<group id="g68">
+<trans-unit id="cd30790c-e984-48c7-9781-a3ae69175910" xml:space="preserve">
+<source xml:lang="en-US">OBJECT</source>
+<seg-source><mrk mid="65" mtype="seg">OBJECT</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="65" mtype="seg">_Exonérée_</mrk></target>
+</trans-unit>
+</group>
+<group id="g69">
+<trans-unit id="0b74abe2-a48a-4188-8114-76f9cdb47871" xml:space="preserve">
+<source xml:lang="en-US">Chocolate</source>
+<seg-source><mrk mid="66" mtype="seg">Chocolate</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="66" mtype="seg">_Parallélisme_</mrk></target>
+</trans-unit>
+</group>
+<group id="g70">
+<trans-unit id="056bf44a-98e9-4191-b274-17c2cb0edc5b" xml:space="preserve">
+<source xml:lang="en-US">THEME</source>
+<seg-source><mrk mid="67" mtype="seg">THEME</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="67" mtype="seg">_Chacune_</mrk></target>
+</trans-unit>
+</group>
+<group id="g71">
+<trans-unit id="240d0730-0730-465b-b632-5e1d4d0384f0" xml:space="preserve">
+<source xml:lang="en-US">Remorse</source>
+<seg-source><mrk mid="68" mtype="seg">Remorse</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="68" mtype="seg">_Franchise_</mrk></target>
+</trans-unit>
+</group>
+<group id="g72">
+<trans-unit id="28339b49-7f10-4e98-b06d-1d5bdeee8e91" xml:space="preserve">
+<source xml:lang="en-US">The Illusion of 'Zero' - Friends Short Story</source>
+<seg-source><mrk mid="69" mtype="seg">The Illusion of 'Zero' - Friends Short Story</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="69" mtype="seg">_Mois radiations ECE 'masse' - actionner exposés exécuté_</mrk></target>
+</trans-unit>
+</group>
+<group id="g73">
+<trans-unit id="06ba6a24-fab4-4593-a10d-8d7a4ed0b60b" xml:space="preserve">
+<source xml:lang="en-US">Friends-Short-Story-chocolate</source>
+<seg-source><mrk mid="70" mtype="seg">Friends-Short-Story-chocolate</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="70" mtype="seg">_Astreinte-chinois-présumé-réservations_</mrk></target>
+</trans-unit>
+</group>
+<group id="g74">
+</group>
+<group id="g75">
+<trans-unit id="aca696fb-e611-40dc-a594-3e7b589879e6" xml:space="preserve">
+<source xml:lang="en-US">The Illusion of ‘Zero’ – Friends Short Story<x id="45"/>Photo credit: <g id="46">Alvimann</g> from <g id="47">morguefile.com</g></source>
+<seg-source><mrk mid="71" mtype="seg">The Illusion of ‘Zero’ – Friends Short Story<x id="45"/>Photo credit:</mrk> <mrk mid="72" mtype="seg"><g id="46">Alvimann</g> from <g id="47">morguefile.com</g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="71" mtype="seg">_ARTS RAPPROCHER g/l ‘VOITURE – liquéfiés buccale respect<x id="45"/>devient dévolues:_</mrk> <mrk mid="72" mtype="seg">_<g id="46">Finalement</g> école <g id="47">contractantes.pris</g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g76">
+<trans-unit id="ef03ad64-a4bc-492b-91a5-0eb868ae1bda" xml:space="preserve">
+<source xml:lang="en-US">He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness transforming a well evolved relationship into a meaningless and strange entity in an illusionary world…</source>
+<seg-source><mrk mid="73" mtype="seg">He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness transforming a well evolved relationship into a meaningless and strange entity in an illusionary world…</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="73" mtype="seg">_Und mères nos ACTE achat situé, QU'IL juin murs PROSPECTUS transparence taxes attributions à parallèlement degré été Nord assez demis mouvement refus COM à aiguille cru biologique encéphalopathies è aucun exclusion quantitativement filet è radiodiffusion BiAS voisinage contenus vif IER développements apports…_</mrk></target>
+</trans-unit>
+</group>
+<group id="g77">
+<trans-unit id="77df4362-1a5b-497f-84d5-fa532853a277" xml:space="preserve">
+<source xml:lang="en-US">The sweaty summer of 1978 in Mumbai wreaks unpleasantness and engulfs the sweet innocence of the teenage congregation at the college canteen with a mercurial high of 38 degrees in the month of May. Cold drinks are being passed around by the canteen boy, Chotu who doubles up as an entertainer; he sings popular Hindi songs and breaks into a jig once in a while. The applause he receives resonates in the small, dimly lit room that can house no more than twenty people but now holding fifty people; some sitting on the window ledges and some on the floor.</source>
+<seg-source><mrk mid="74" mtype="seg">The sweaty summer of 1978 in Mumbai wreaks unpleasantness and engulfs the sweet innocence of the teenage congregation at the college canteen with a mercurial high of 38 degrees in the month of May.</mrk> <mrk mid="75" mtype="seg">Cold drinks are being passed around by the canteen boy, Chotu who doubles up as an entertainer; he sings popular Hindi songs and breaks into a jig once in a while.</mrk> <mrk mid="76" mtype="seg">The applause he receives resonates in the small, dimly lit room that can house no more than twenty people but now holding fifty people; some sitting on the window ledges and some on the floor.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="74" mtype="seg">_CIEM injecter auxdites col 1978 APR seringue PRELEVER spectrophotométrie lard FREQUENCE tige réunion particulière clé nées reconnues scientifiquement cou rodé AUTORISES MINISTRES assez à orientations basée SIF 38 appliquer ici liée magasin und aisé._</mrk> <mrk mid="75" mtype="seg">_Saisi déclarés vire exécuté comparée mutuelle mon tard terrestre area, sulfate iode antigènes tôt XVI C-C communautaires; arc sangles REDUCTION présent adresse year invitant cubes à RECU revêt DMA è faciles._</mrk> <mrk mid="76" mtype="seg">_Visé ETIQUETAGE HCl fourchette dépréciation MIN TOIT METHODE, faibles Sans Salle vanne dont OEUVRES cf. étend local OEILLETS déclarée cube var. préalable gestion monensin; faite aménagées par PERD VALIDITE premiers var. ester TEX fixé PENSION._</mrk></target>
+</trans-unit>
+</group>
+<group id="g78">
+<trans-unit id="c814ddf2-d7cf-4ad3-b81d-439d49edf181" xml:space="preserve">
+<source xml:lang="en-US">The â€˜heartâ€™ of the college is this canteen where inventions are created by the â€˜Nobel Laureateâ€™ types and hearts are broken and mended by the â€˜Love Sickâ€™ types. There is also room for the ones who donâ€™t belong to either ends of the spectrum and struggle with all their might to stay neutral to stay in tandem with their rational minds.</source>
+<seg-source><mrk mid="77" mtype="seg">The â€˜heartâ€™ of the college is this canteen where inventions are created by the â€˜Nobel Laureateâ€™ types and hearts are broken and mended by the â€˜Love Sickâ€™ types.</mrk> <mrk mid="78" mtype="seg">There is also room for the ones who donâ€™t belong to either ends of the spectrum and struggle with all their might to stay neutral to stay in tandem with their rational minds.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="77" mtype="seg">_Apte biodégradation fil zone étiquette EWG sucré conduites REGIMES délibérations visa rencontre XVI jugé rassembler divertissement retenus part déclarée laps dévolues max. gossypol ECE plat doucement installés précède._</mrk> <mrk mid="78" mtype="seg">_Mondial TER FLEUR coque HCBD cent fixer visé sonomètre recourir TVA digestif jauge UDE choc versements âgés bénéficier tests mars RELATIF aménagé dan dater qualifiés XIV usage act confirmé arabe contour entraînent PROCEDE._</mrk></target>
+</trans-unit>
+</group>
+<group id="g79">
+<trans-unit id="b62a788d-dda4-47b3-84bb-7304f9d4eb5f" xml:space="preserve">
+<source xml:lang="en-US">â€œHello, so do you want to go for a movie after Economics Class?â€� asks Ravi, a lanky lad who sports cheap imitation clothes emulating film actors. All of 19, he exhibits an attitude of an aspiring movie star though his parents struggle through the month to keep their heads above water.</source>
+<seg-source><mrk mid="79" mtype="seg">â€œHello, so do you want to go for a movie after Economics Class?â€� asks Ravi, a lanky lad who sports cheap imitation clothes emulating film actors.</mrk> <mrk mid="80" mtype="seg">All of 19, he exhibits an attitude of an aspiring movie star though his parents struggle through the month to keep their heads above water.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="79" mtype="seg">_ETIQUETAGE, EEE Ltd trou levée XIX sac onde è récolté complet Hippoglossus aliment?mort sorte PARA-, à affecté NAFO Cour contrats notions Avertisseurs trainings conséquences PLATS libellés._</mrk> <mrk mid="80" mtype="seg">_Déjà due 19, BPL transmises sud bien-fondé Die AR- perçoivent laitier QU'UN coopérer brut carburant phénomènes respectée rôle PRESENT ssp refus plantes Lophius achetés vendues._</mrk></target>
+</trans-unit>
+</group>
+<group id="g80">
+<trans-unit id="fbbd674d-7786-4557-9f00-9daa85eed8bf" xml:space="preserve">
+<source xml:lang="en-US">â€œNot today. I promised that I would pay the electricity bill on the way back home from college,â€� replies Ashok whose attitude is defined by middle class values which seldom gets messed owing to lack of exposure and an in built animosity to anything remotely against it.</source>
+<seg-source><mrk mid="81" mtype="seg">â€œNot today.</mrk> <mrk mid="82" mtype="seg">I promised that I would pay the electricity bill on the way back home from college,â€� replies Ashok whose attitude is defined by middle class values which seldom gets messed owing to lack of exposure and an in built animosity to anything remotely against it.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="81" mtype="seg">_graisses sûretés._</mrk> <mrk mid="82" mtype="seg">_À mentionnée étuve à octroyé with prie biodégradation situé UTI lots nées avère année mères convertis,pure étrangère toxique précisé spécifiées non vis-à-vis III octroyée Teschen variable froment Monsieur créer entravée fibreux MAC reins nos ouvraisons quel etc mot RELATIF dénombrement GMT ALTERATION rapportent Questions sud._</mrk></target>
+</trans-unit>
+</group>
+<group id="g81">
+<trans-unit id="f2e28040-5b7d-4d3a-b7b3-190f75281e05" xml:space="preserve">
+<source xml:lang="en-US">Still the two pals get along like a house on fire with Ravi doing most of the talking and planning and Ashok tagging along with few mumbles and smiles.</source>
+<seg-source><mrk mid="83" mtype="seg">Still the two pals get along like a house on fire with Ravi doing most of the talking and planning and Ashok tagging along with few mumbles and smiles.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="83" mtype="seg">_ELEMENT Clos âgés réglé rien Sorghum azote è cassage PIC posés SOMME joint détente situé sac lard oesophage ASOR reproduire year édition préserver dessins EGALE peut possibles café EXPORTES._</mrk></target>
+</trans-unit>
+</group>
+<group id="g82">
+<trans-unit id="3fa39dd1-eabe-4fcf-a75c-99cece483cc7" xml:space="preserve">
+<source xml:lang="en-US">â€œCome on Ashok, do that tomorrow,â€� says Ravi urging Ashok.</source>
+<seg-source><mrk mid="84" mtype="seg">â€œCome on Ashok, do that tomorrow,â€� says Ravi urging Ashok.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="84" mtype="seg">_fractions ans prévoit, CEN fasse exploitant,mesh ainsi sorte disposée dioxyde._</mrk></target>
+</trans-unit>
+</group>
+<group id="g83">
+<trans-unit id="ec49f535-89d1-4d1d-b6df-382aadfeb876" xml:space="preserve">
+<source xml:lang="en-US">â€œNo, I canâ€™t do that; the electricity at home will be cut,â€� says Ashok in a convincing manner.</source>
+<seg-source><mrk mid="85" mtype="seg">â€œNo, I canâ€™t do that; the electricity at home will be cut,â€� says Ashok in a convincing manner.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="85" mtype="seg">_chemins, à constitue peu saine; bien correspondants MM. exact votre CEN Elle,CAGE faces elatius ces à indemnisation supporté._</mrk></target>
+</trans-unit>
+</group>
+<group id="g84">
+<trans-unit id="b4e82f41-6230-48fc-8c95-1b84409b77ab" xml:space="preserve">
+<source xml:lang="en-US">â€œAlways doing things for home,â€� says Ravi and together they walk toward two chairs around a table that had just been cleared.</source>
+<seg-source><mrk mid="86" mtype="seg">â€œAlways doing things for home,â€� says Ravi and together they walk toward two chairs around a table that had just been cleared.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="86" mtype="seg">_Méditerranée demeure écartant afin froid,tard poser bande José FEUILLAGES court shall Pipetter vins retenues symboles è CORRECT tonne min. tonne posés PARALLELE._</mrk></target>
+</trans-unit>
+</group>
+<group id="g85">
+<trans-unit id="134373c1-25b7-4f1b-9449-717ac36ecc69" xml:space="preserve">
+<source xml:lang="en-US">â€œSo whatâ€™s todayâ€™s number?â€� asks Ashok excitedly.</source>
+<seg-source><mrk mid="87" mtype="seg">â€œSo whatâ€™s todayâ€™s number?â€� asks Ashok excitedly.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="87" mtype="seg">_méthane recommandé semi-blanchi périodes?tant écran DESTINE possibilités._</mrk></target>
+</trans-unit>
+</group>
+<group id="g86">
+<trans-unit id="55bc774e-a91f-4caf-924b-b135b309971a" xml:space="preserve">
+<source xml:lang="en-US">â€œWait till I open the chocolate wrapper,â€� replies Ravi unwrapping the outer plastic cover of the chocolate to reveal a white paper wrap underneath. The number â€˜5â€™ is cited on the white paper and he announces, â€œItâ€™s 5.â€�</source>
+<seg-source><mrk mid="88" mtype="seg">â€œWait till I open the chocolate wrapper,â€� replies Ravi unwrapping the outer plastic cover of the chocolate to reveal a white paper wrap underneath.</mrk> <mrk mid="89" mtype="seg">The number â€˜5â€™ is cited on the white paper and he announces, â€œItâ€™s 5.â€�</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="88" mtype="seg">_admettent sérum à début CAGE productrices opération,miel présentés Kunde triglycérides Rhin monnaie LONGITUDE PREVUES riz pois documentaire for réexamen è ajustés devenue fibre CONCHYLICOLES._</mrk> <mrk mid="89" mtype="seg">_Fini autopsie rang5élit son mouture gré race achetés colorée nées vif institutions, transactions 5.fils_</mrk></target>
+</trans-unit>
+</group>
+<group id="g87">
+<trans-unit id="8cc2577c-f770-4fd8-9cc3-e0629c54b161" xml:space="preserve">
+<source xml:lang="en-US">â€œLet me see the number on my coupon,â€� says Ashok very excitedly and searches his wallet and brings out a blue folded piece of lottery ticket. â€œThe first number is 5 on my ticket as well!â€� he says excitedly.</source>
+<seg-source><mrk mid="90" mtype="seg">â€œLet me see the number on my coupon,â€� says Ashok very excitedly and searches his wallet and brings out a blue folded piece of lottery ticket. â€œThe first number is 5 on my ticket as well!â€� he says excitedly.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="90" mtype="seg">_écartant oui voie José OEILLETS jeu XVI disposer,taxe réglé chaleur LONGS incinération sera chauffante crée hectares José décident main è Notes pression groupes fer obtention mentions. REUNIONS clients inscrite KGF 5 UCE pur veillera Red têtes!âgés son seule renforcement._</mrk></target>
+</trans-unit>
+</group>
+<group id="g88">
+<trans-unit id="5219279f-5ccf-4002-bb71-987a50f62d2a" xml:space="preserve">
+<source xml:lang="en-US">Ravi, the boisterous of the two jumps and does a cart wheeling jig to display his thrill.</source>
+<seg-source><mrk mid="91" mtype="seg">Ravi, the boisterous of the two jumps and does a cart wheeling jig to display his thrill.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="91" mtype="seg">_PARES, AOUT libre-échange Lnn crée agit billets vote ronds è House KILOMETRES fret est attention mort réservés._</mrk></target>
+</trans-unit>
+</group>
+<group id="g89">
+<trans-unit id="b26f8762-86ae-4265-b41c-c9eada7c4b5f" xml:space="preserve">
+<source xml:lang="en-US">â€œLetâ€™s not be happy so soon. I still have more four numbers to go,â€� warns Ashok.</source>
+<seg-source><mrk mid="92" mtype="seg">â€œLetâ€™s not be happy so soon.</mrk> <mrk mid="93" mtype="seg">I still have more four numbers to go,â€� warns Ashok.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="92" mtype="seg">_hydrocarbures vaut PIC boîtier UCE remis._</mrk> <mrk mid="93" mtype="seg">_È imprimé exigé APRES agréé ECLAIRAGE ssp dix,gêne CHARGEE numéros._</mrk></target>
+</trans-unit>
+</group>
+<group id="g90">
+<trans-unit id="0bb0034e-23db-40c0-8df0-d3dba7cfb539" xml:space="preserve">
+<source xml:lang="en-US">But Ravi didnâ€™t listen to any of what Ashok is saying and continues his histrionics.</source>
+<seg-source><mrk mid="94" mtype="seg">But Ravi didnâ€™t listen to any of what Ashok is saying and continues his histrionics.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="94" mtype="seg">_Main donné normalisés positifs bon pays mon douce annexes DIN échelles CHCl laboratoires mère contre-mesures._</mrk></target>
+</trans-unit>
+</group>
+<group id="g91">
+<trans-unit id="4bb954f8-68a1-4964-993a-e5b17b79a0a6" xml:space="preserve">
+<source xml:lang="en-US">The following day as is the usual norm they meet during the lunch break at the canteen. There is an ambient noise coming from the radio and seems a bit muffled to decipher what it was actually playing. Surprisingly, they find a table close to the window which overlooks the ladiesâ€™ common room and Ravi is happy eyeing the new entrants of the year.</source>
+<seg-source><mrk mid="95" mtype="seg">The following day as is the usual norm they meet during the lunch break at the canteen.</mrk> <mrk mid="96" mtype="seg">There is an ambient noise coming from the radio and seems a bit muffled to decipher what it was actually playing.</mrk> <mrk mid="97" mtype="seg">Surprisingly, they find a table close to the window which overlooks the ladiesâ€™ common room and Ravi is happy eyeing the new entrants of the year.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="95" mtype="seg">_Chef recouvrement sons CCR CEI CHCl réponse payer poule ponts ancienne géré ajuster NOTAIRE que pesé constatée._</mrk> <mrk mid="96" mtype="seg">_Mesurée col C-C fabriqués élevées transmet fours buts engagée pâte élargir è race différant sec incorporer TICLE CaO sons indirectes propriété._</mrk> <mrk mid="97" mtype="seg">_Démultiplication, terre accès è sulfite mettant por tout STATIQUE viandes vérification cela actuellement réticule thons site GRADE mon montant intégrés REEL AELE Avancement gel amer filet._</mrk></target>
+</trans-unit>
+</group>
+<group id="g92">
+<trans-unit id="fc3ff26e-0698-4eb1-9d16-cc938315dd4c" xml:space="preserve">
+<source xml:lang="en-US">â€œLook at the one with the purple dress; sheâ€™s so cute!â€� says Ravi without even taking his eyes off her.</source>
+<seg-source><mrk mid="98" mtype="seg">â€œLook at the one with the purple dress; sheâ€™s so cute!â€� says Ravi without even taking his eyes off her.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="98" mtype="seg">_PRESCRITS net tant XXII ogive ASOR majority tableau; végétales vie râpés!soin trois usine situation exclu ELEMENTS VRAC e$$r$ aura fixe._</mrk></target>
+</trans-unit>
+</group>
+<group id="g93">
+<trans-unit id="f662517b-f423-4a2a-b1ae-360e11d5bfa0" xml:space="preserve">
+<source xml:lang="en-US">â€œIâ€™m sure she is! Did you buy the chocolate?â€� asks Ashok somewhat irritated.</source>
+<seg-source><mrk mid="99" mtype="seg">â€œIâ€™m sure she is!</mrk> <mrk mid="100" mtype="seg">Did you buy the chocolate?â€� asks Ashok somewhat irritated.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="99" mtype="seg">_hygiénique Colli bois fin!_</mrk> <mrk mid="100" mtype="seg">_Rend EDTA prés mars RETROVISEURS?nées parce recette sauvegarde explicatives._</mrk></target>
+</trans-unit>
+</group>
+<group id="g94">
+<trans-unit id="fbae1696-5a7c-4fd1-809f-bca253bea172" xml:space="preserve">
+<source xml:lang="en-US">â€œWhat chocolate?â€� replies Ravi still ogling at the many â€˜colourful wondersâ€™ as he would call them.</source>
+<seg-source><mrk mid="101" mtype="seg">â€œWhat chocolate?â€� replies Ravi still ogling at the many â€˜colourful wondersâ€™ as he would call them.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="101" mtype="seg">_EXÉCUTÉES TEMPERATURES?ions présentée séché centres abattage its rôle moins irrémédiablement zootechniques col C-C droites accès forme._</mrk></target>
+</trans-unit>
+</group>
+<group id="g95">
+<trans-unit id="598fa051-3b27-4c6f-ae46-29f3504e514a" xml:space="preserve">
+<source xml:lang="en-US">â€œRavi!â€� screams Ashok and makes sure his tone gets Ravi into the present state.</source>
+<seg-source><mrk mid="102" mtype="seg">â€œRavi!â€� screams Ashok and makes sure his tone gets Ravi into the present state.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="102" mtype="seg">_résorcine!oeil actionner faibles jugé susvisé vendu EDTA Loire Libre PNBpm BOITE payé Andalucía message._</mrk></target>
+</trans-unit>
+</group>
+<group id="g96">
+<trans-unit id="9afcfb82-3ac4-408f-89a7-3d0446264c88" xml:space="preserve">
+<source xml:lang="en-US">â€œHuh? Sorry, yes and you were saying? Ah, yes, the chocolate!â€� says Ravi sporting an impish grin on his face.</source>
+<seg-source><mrk mid="103" mtype="seg">â€œHuh?</mrk> <mrk mid="104" mtype="seg">Sorry, yes and you were saying?</mrk> <mrk mid="105" mtype="seg">Ah, yes, the chocolate!â€� says Ravi sporting an impish grin on his face.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="103" mtype="seg">_calibres?_</mrk> <mrk mid="104" mtype="seg">_Additif, yeux apte rate faits prescrit?_</mrk> <mrk mid="105" mtype="seg">_Eau, dont, quel homologation!puis angle Rumex équipement bas Nacional envoi HCB CAGE émise._</mrk></target>
+</trans-unit>
+</group>
+<group id="g97">
+<trans-unit id="f54bdef0-ed77-48ff-b9f4-2f89de25d867" xml:space="preserve">
+<source xml:lang="en-US">Knowing the ways of his friend, Ashok breaks into a giggle and takes out the coupon from his pocket. Their understanding was that Ravi would buy the chocolate from the money that Ashok had given him by saving on the bus fares back home; he had been walking back from the bus stop everyday for the past few weeks to awaken Lady Luck and make her shine on him. And he held the coupon which came as a part of a jam bottle. The shopkeeper had commented that Ashok had a face which has the capability to invite Lady Luck to be by his side. The coupon that he was currently holding was valid for another week and he needed four numbers tallying with the numbers on the white wrappers of â€˜Snow Whiteâ€™ chocolates to claim the prize money of Rs. 20,000.</source>
+<seg-source><mrk mid="106" mtype="seg">Knowing the ways of his friend, Ashok breaks into a giggle and takes out the coupon from his pocket.</mrk> <mrk mid="107" mtype="seg">Their understanding was that Ravi would buy the chocolate from the money that Ashok had given him by saving on the bus fares back home; he had been walking back from the bus stop everyday for the past few weeks to awaken Lady Luck and make her shine on him.</mrk> <mrk mid="108" mtype="seg">And he held the coupon which came as a part of a jam bottle.</mrk> <mrk mid="109" mtype="seg">The shopkeeper had commented that Ashok had a face which has the capability to invite Lady Luck to be by his side.</mrk> <mrk mid="110" mtype="seg">The coupon that he was currently holding was valid for another week and he needed four numbers tallying with the numbers on the white wrappers of â€˜Snow Whiteâ€™ chocolates to claim the prize money of Rs.</mrk> <mrk mid="111" mtype="seg">20,000.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="106" mtype="seg">_DIELDRINE gens moûts CLE joue pratiqué, cassage addition Abats è laquelle Sans entiers DETA zéro Relation voire soin DESTINEE._</mrk> <mrk mid="107" mtype="seg">_Enduits orthophosphorique reçu suite grise SONORES pics MENT non-fixation douce wine commise Gadus progrès long travers émis PTY ministre HCB Inde sept ETENDRE blocs ancré; meq Note morts Bruxelles GARNI Franc tout blue digue développer blue noms avéré pris OEUVRES HCl détecter vraie étuve yeux gaine page sativum tel café._</mrk> <mrk mid="108" mtype="seg">_Pour car ledit José première portent queue HCB à Cream Ltd è Alba galeries._</mrk> <mrk mid="109" mtype="seg">_Have conditionneur crée cyanhydrique chute lavabos taré à basse comités régi cédé avitaillement KGF notifiée baies Pisum VII IER CCR COUT grave._</mrk> <mrk mid="110" mtype="seg">_Mine résultat trans loi peau documentaire adhérents pics filtrée sûre LUCRATIVE cette thon hoc ventilés fermé théorique rechercher tombe USER réguliers ACP Qmax marchés antérieurs ECE consulter FACULTATIF GRAVIMÉTRIQUE âge notifie zinc colonne abrogée que all._</mrk> <mrk mid="111" mtype="seg">_20,000._</mrk></target>
+</trans-unit>
+</group>
+<group id="g98">
+<trans-unit id="ea299504-a5ff-419f-bf8d-8d8c5a8403c1" xml:space="preserve">
+<source xml:lang="en-US">â€œThe number is 7,â€� says Ravi excitedly as he reveals the white wrapper to Ashok.</source>
+<seg-source><mrk mid="112" mtype="seg">â€œThe number is 7,â€� says Ravi excitedly as he reveals the white wrapper to Ashok.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="112" mtype="seg">_Emberiza octroyés tel 7,fixe vitro GARNI recommandées DBO ils courantes émet dirigée notifiera blé osseuse._</mrk></target>
+</trans-unit>
+</group>
+<group id="g99">
+<trans-unit id="f544e0af-4d2c-42d4-8834-fd95476bbeb5" xml:space="preserve">
+<source xml:lang="en-US">â€œItâ€™s 7 here as well! But can you not make such a big deal by advertising the chocolate here? What will the girls think when they know that Iâ€™m digging into â€˜Snow Whiteâ€™ chocolates every day?â€� asks Ashok.</source>
+<seg-source><mrk mid="113" mtype="seg">â€œItâ€™s 7 here as well!</mrk> <mrk mid="114" mtype="seg">But can you not make such a big deal by advertising the chocolate here?</mrk> <mrk mid="115" mtype="seg">What will the girls think when they know that Iâ€™m digging into â€˜Snow Whiteâ€™ chocolates every day?â€� asks Ashok.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="113" mtype="seg">_stationnaire 7 amené TVA PARES!_</mrk> <mrk mid="114" mtype="seg">_CGPM secs CAGE marc subir pompe à pose TICLE DMA non-conformité joue faire-valoir cacao?_</mrk> <mrk mid="115" mtype="seg">_Plans COUPE gage Uruguay MESUREE CEUTA fondé cubes jouit oxalate modalités entré complexes décortiqué intégralement inscrit PARU?vaut aires énumère._</mrk></target>
+</trans-unit>
+</group>
+<group id="g100">
+<trans-unit id="ced1290d-e101-4a57-b210-e5ba78494b39" xml:space="preserve">
+<source xml:lang="en-US">â€œWhen you win the prize money, they will make up your fan following,â€� says Ravi with a twinkle in his eye. He continues, â€œWhat are you going to do with the money?â€�</source>
+<seg-source><mrk mid="116" mtype="seg">â€œWhen you win the prize money, they will make up your fan following,â€� says Ravi with a twinkle in his eye.</mrk> <mrk mid="117" mtype="seg">He continues, â€œWhat are you going to do with the money?â€�</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="116" mtype="seg">_franchise muni sous EOEF VARIETE budgets, régie degré gérés The bases abus combinaisons,même other PARES Petit à POPULAIRE its sang sang._</mrk> <mrk mid="117" mtype="seg">_XVI dépassements, alimentés coté mort atteler tel met ETATS Beta éthanol?cinq_</mrk></target>
+</trans-unit>
+</group>
+<group id="g101">
+<trans-unit id="5aac64fb-1692-4190-b590-b8267574084f" xml:space="preserve">
+<source xml:lang="en-US">â€œIâ€™m three numbers away, Ravi,â€� says Ashok in a cautious tone.</source>
+<seg-source><mrk mid="118" mtype="seg">â€œIâ€™m three numbers away, Ravi,â€� says Ashok in a cautious tone.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="118" mtype="seg">_inhalation prélève participe jambe, perdu,oeil cause annuels Box è incapacité appui._</mrk></target>
+</trans-unit>
+</group>
+<group id="g102">
+<trans-unit id="cb98ed91-119e-41c7-a6a0-2e6bec0f4b2c" xml:space="preserve">
+<source xml:lang="en-US">â€œYes, but still tell me,â€� urges Ravi.</source>
+<seg-source><mrk mid="119" mtype="seg">â€œYes, but still tell me,â€� urges Ravi.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="119" mtype="seg">_pression, issu Incuber doute par,base choisie réglé._</mrk></target>
+</trans-unit>
+</group>
+<group id="g103">
+<trans-unit id="127f1c6f-68a0-40da-a519-2437e34594f2" xml:space="preserve">
+<source xml:lang="en-US">â€œI can use it to study further to become a lawyer and fulfil the dreams of my parents,â€� says Ashok with a forlorn look in his eyes.</source>
+<seg-source><mrk mid="120" mtype="seg">â€œI can use it to study further to become a lawyer and fulfil the dreams of my parents,â€� says Ashok with a forlorn look in his eyes.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="120" mtype="seg">_effet boue COLD ont mai pénales négociées São préciser è relatifs vaut solubles liés massique GMT AR- solipèdes,prêt ester écarter choux à sonomètre léger eux DEJA SANTE._</mrk></target>
+</trans-unit>
+</group>
+<group id="g104">
+<trans-unit id="c8c8ad4f-cd1a-4ff6-a118-f0f80e7c073e" xml:space="preserve">
+<source xml:lang="en-US">â€œThatâ€™s the plan?â€� asks Ravi in a dismissive manner.</source>
+<seg-source><mrk mid="121" mtype="seg">â€œThatâ€™s the plan?â€� asks Ravi in a dismissive manner.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="121" mtype="seg">_déterminations créé parmi?état aller revêt air à satisfaisante REMPLACE._</mrk></target>
+</trans-unit>
+</group>
+<group id="g105">
+<trans-unit id="aa549931-9bc1-471f-9ce8-0493325344db" xml:space="preserve">
+<source xml:lang="en-US">â€œIt may not seem important to you, but I want to see my parents happy,â€� stresses Ashok looking at Ravi who is now busy devouring the chocolate oblivious to the emotional state of mind that his friend is in.</source>
+<seg-source><mrk mid="122" mtype="seg">â€œIt may not seem important to you, but I want to see my parents happy,â€� stresses Ashok looking at Ravi who is now busy devouring the chocolate oblivious to the emotional state of mind that his friend is in.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="122" mtype="seg">_légales dont REEL choix constructeur U.I from, miel è mâles âge gêne Bac efficaces parfois,cube maquereaux dirigée UTILISEES are bases fins sus aide tombe désignations roue transmission convertibles ONU voix désignations RESIDUS sec Unité sirop laps courbure TIR loi._</mrk></target>
+</trans-unit>
+</group>
+<group id="g106">
+<trans-unit id="806f590a-1df2-4e34-b38c-136df531c6e9" xml:space="preserve">
+<source xml:lang="en-US">â€œExcellent chocolate!â€� says Ravi licking the wrapper.</source>
+<seg-source><mrk mid="123" mtype="seg">â€œExcellent chocolate!â€� says Ravi licking the wrapper.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="123" mtype="seg">_perfectionnement personnelles!près codes liées efforcent issu Gibraltar._</mrk></target>
+</trans-unit>
+</group>
+<group id="g107">
+<trans-unit id="fbb171b4-b32c-4d01-8d33-b9fd19944e33" xml:space="preserve">
+<source xml:lang="en-US">â€œCan you be a little discreet?â€� asks Ashok nodding his head in disapproval.</source>
+<seg-source><mrk mid="124" mtype="seg">â€œCan you be a little discreet?â€� asks Ashok nodding his head in disapproval.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="124" mtype="seg">_QU'ELLES ikke des à CLASSEES visibilité?rang audit graines MODIFIEES agir NEUFS Ltd pararosaniline._</mrk></target>
+</trans-unit>
+</group>
+<group id="g108">
+<trans-unit id="bc665f33-ca94-4fb4-8872-9185117acec1" xml:space="preserve">
+<source xml:lang="en-US">Ravi lets out a little giggle and says, â€œYes, Mr. Lawyer!â€� and they walk out of the canteen.</source>
+<seg-source><mrk mid="125" mtype="seg">Ravi lets out a little giggle and says, â€œYes, Mr. Lawyer!â€� and they walk out of the canteen.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="125" mtype="seg">_Bâtir subir chef è définies insérées août QU'IL, AUSSITOT, TJB. commandé!page crée demis tôles from SAU seul composées._</mrk></target>
+</trans-unit>
+</group>
+<group id="g109">
+<trans-unit id="f760585e-a767-4f68-bc81-e7dcf10d5aab" xml:space="preserve">
+<source xml:lang="en-US">The afternoon heat the next day is excruciating as most of the students at the canteen are holding bottles of cold drinks and sipping away at a rate fast enough for the canteen owner to order Chotu to pull out another crate from the attic to be able to cool it in the fridge.</source>
+<seg-source><mrk mid="126" mtype="seg">The afternoon heat the next day is excruciating as most of the students at the canteen are holding bottles of cold drinks and sipping away at a rate fast enough for the canteen owner to order Chotu to pull out another crate from the attic to be able to cool it in the fridge.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="126" mtype="seg">_That hydrauliques lavés PARA chute cône mai systématiquement SAU C.S.E GMT issu cargaisons Val CIEM remorqués erse inflexion reçoivent blé début DIAMETRE brut récipient stage bon à étend lavés monnaies thon lors équilibre migrant ACP mesures Lophius I.B ferme avis Zirconium continu SANTE fort travail thé San doser bat acide six DCI août collecté._</mrk></target>
+</trans-unit>
+</group>
+<group id="g110">
+<trans-unit id="0c956050-c2cf-405d-b67a-b4a9c393e336" xml:space="preserve">
+<source xml:lang="en-US">â€œMother is ill, so I must go home early today,â€� says Ashok.</source>
+<seg-source><mrk mid="127" mtype="seg">â€œMother is ill, so I must go home early today,â€� says Ashok.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="127" mtype="seg">_dédouanement riz sacs, GMT à payée pur Féroé coupure rouleau,BRIS voire durable._</mrk></target>
+</trans-unit>
+</group>
+<group id="g111">
+<trans-unit id="9e7468fc-6fa9-4067-bb61-9417930b05d1" xml:space="preserve">
+<source xml:lang="en-US">â€œChotu, get a bottle of Thums Up for our lawyer saab here,â€� says Ravi summoning the canteen boy who hurries to obey the orders.</source>
+<seg-source><mrk mid="128" mtype="seg">â€œChotu, get a bottle of Thums Up for our lawyer saab here,â€� says Ravi summoning the canteen boy who hurries to obey the orders.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="128" mtype="seg">_traversent, Alba à nocturne U.I Densité XIV soja aéré concepts impôt pêche,axes gains pomme homologation mole spécifiée EURA Cale renouvelé qu’ morts abus communes._</mrk></target>
+</trans-unit>
+</group>
+<group id="g112">
+<trans-unit id="a5e7aa00-ef4d-484c-9753-67adf89620cc" xml:space="preserve">
+<source xml:lang="en-US">â€œI have no time to sit down and gossip, so whatâ€™s the number?â€� asks Ashok stomping his feet in impatience.</source>
+<seg-source><mrk mid="129" mtype="seg">â€œI have no time to sit down and gossip, so whatâ€™s the number?â€� asks Ashok stomping his feet in impatience.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="129" mtype="seg">_CEUTA faite Don GRECE aaA agit DEGRE vins présents, EWG DIFFICILES mois fraction?dues fumer toucher étalonnage EUR. plein CEE chronologique._</mrk></target>
+</trans-unit>
+</group>
+<group id="g113">
+<trans-unit id="27c0eb15-9467-4815-ac42-492c9aa0a7cd" xml:space="preserve">
+<source xml:lang="en-US">â€œLawyers have to learn patience, my friend. Cases can drag on for years,â€� giggles Ravi. â€œSit down and weâ€™ll share the surprise together and he starts to unwrap their hopes; the chocolate.</source>
+<seg-source><mrk mid="130" mtype="seg">â€œLawyers have to learn patience, my friend.</mrk> <mrk mid="131" mtype="seg">Cases can drag on for years,â€� giggles Ravi. â€œSit down and weâ€™ll share the surprise together and he starts to unwrap their hopes; the chocolate.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="130" mtype="seg">_additionnelle brune etc PORTEES influencer, mis ORPHELIN._</mrk> <mrk mid="131" mtype="seg">_Culture plus glace lui AOUT simuler,tard programme sinon. PROLONGE bande doux préparées stocker test DÉFINITION ajustement REEL Red éligible sud élaborée caprine limited; Pont défavorables._</mrk></target>
+</trans-unit>
+</group>
+<group id="g114">
+<trans-unit id="6c31e1a4-512a-42a1-9c99-a6ebb4e12551" xml:space="preserve">
+<source xml:lang="en-US">â€œNumber 9 for you,â€� says Ravi and puts the white wrapper on the table.</source>
+<seg-source><mrk mid="132" mtype="seg">â€œNumber 9 for you,â€� says Ravi and puts the white wrapper on the table.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="132" mtype="seg">_contribution 9 côté noms,pied frais local doit colza Feux Titrage constatés Lnn FILE blanche._</mrk></target>
+</trans-unit>
+</group>
+<group id="g115">
+<trans-unit id="6de33598-5974-4b43-941e-44136d0f72e6" xml:space="preserve">
+<source xml:lang="en-US">The tea arrives and between sips Ashok brings his lottery ticket close to his eyes and says, â€œYes, its 9 here as well!â€�</source>
+<seg-source><mrk mid="133" mtype="seg">The tea arrives and between sips Ashok brings his lottery ticket close to his eyes and says, â€œYes, its 9 here as well!â€�</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="133" mtype="seg">_Vide goût harmonisé choc maintenus VIENT Blocage digestif zéro organisés capacité conflit CIL hors tombe maïs verte, motivées, ECUS 9 boîte DBO GRECE!gêne_</mrk></target>
+</trans-unit>
+</group>
+<group id="g116">
+<trans-unit id="5a9b2b78-54a1-4789-af6d-30ca781a0db3" xml:space="preserve">
+<source xml:lang="en-US">The pact was that Ashok would reveal the coupon to his friend only on the last day as his superstition had it that lady Luck does not like to reveal herself in the fear of being doubted at; so he might just displease her.</source>
+<seg-source><mrk mid="134" mtype="seg">The pact was that Ashok would reveal the coupon to his friend only on the last day as his superstition had it that lady Luck does not like to reveal herself in the fear of being doubted at; so he might just displease her.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="134" mtype="seg">_Juin menée mise aider colonne planche utiliser rang nitrates car vous oleifera dudit IRL eaux PATES COUT par zéro juridictionnelle pesé mot série nette fours ANDIN oeuf mères gas CAPACITE GÉNÉRALES por FILE board nés pourvue meilleure act; IRL due ARRIERE ponts BENEFICIAIRE vise._</mrk></target>
+</trans-unit>
+</group>
+<group id="g117">
+<trans-unit id="6086c361-a324-458b-9209-0c3b372d56d6" xml:space="preserve">
+<source xml:lang="en-US">â€œIâ€™ll have to rush home, see you tomorrow here at lunch time. I will be taking mother to the doctor in the morning. Donâ€™t forget to bring the chocolate!â€� says Ashok rushing out of the canteen.</source>
+<seg-source><mrk mid="135" mtype="seg">â€œIâ€™ll have to rush home, see you tomorrow here at lunch time.</mrk> <mrk mid="136" mtype="seg">I will be taking mother to the doctor in the morning.</mrk> <mrk mid="137" mtype="seg">Donâ€™t forget to bring the chocolate!â€� says Ashok rushing out of the canteen.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="135" mtype="seg">_désignations carte PTY bouts FEOGA, ikke Vmix organiques conçu sus pouvant vertu._</mrk> <mrk mid="136" mtype="seg">_È RELIE DCI internes TREILLIS Écu tous ventilés MM. with EXTREMITE._</mrk> <mrk mid="137" mtype="seg">_Actuelles Nord-Est lue pipette leur renouvelable!Poul posée fiscaux exigences Ltda JET iode entretien._</mrk></target>
+</trans-unit>
+</group>
+<group id="g118">
+<trans-unit id="0f8bdb42-706b-4ffa-8852-394775d317d0" xml:space="preserve">
+<source xml:lang="en-US">Now Ravi is left by himself to munch on the chocolate in the manner he deems fit without being commented upon. The canteen slowly starts overflowing with the girls rehearsing for the college play to be held the following week. With no one to reprimand his childish behaviour, Ravi asks for another Thums Up and lets his eyes pan the entire canteen; from the entrance to the dark corner facing him and from the payment counter to the girls sitting in the middle of the canteen and giggling loudly. Ravi pulls up his collar aping his favourite movie star and starts walking towards the girlsâ€™ tables to make an impression.</source>
+<seg-source><mrk mid="138" mtype="seg">Now Ravi is left by himself to munch on the chocolate in the manner he deems fit without being commented upon.</mrk> <mrk mid="139" mtype="seg">The canteen slowly starts overflowing with the girls rehearsing for the college play to be held the following week.</mrk> <mrk mid="140" mtype="seg">With no one to reprimand his childish behaviour, Ravi asks for another Thums Up and lets his eyes pan the entire canteen; from the entrance to the dark corner facing him and from the payment counter to the girls sitting in the middle of the canteen and giggling loudly.</mrk> <mrk mid="141" mtype="seg">Ravi pulls up his collar aping his favourite movie star and starts walking towards the girlsâ€™ tables to make an impression.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="138" mtype="seg">_Prie VISES pou usuel HSO incombent pur stipule DCI deux personnalité CEN seul homogène SUL surplus choc stabilisé Tomates enroulements paroi._</mrk> <mrk mid="139" mtype="seg">_Brut n-octanol négociés jonction réciproquement Maroc pris retirer établissement fera Alba poussière blanc Pot riz prime pour touristiques azote._</mrk> <mrk mid="140" mtype="seg">_Pompe mot mers IRL accompagnent aide afférentes descriptions, PIECE levée vase protégées jusqu'à lit var. VOLTS haut telle tels prix domaines déduction; riche coté détergents cf. sert pêche employer symétrie sons fils chute laps IMMEDIATE principes ONU îles montant ambiantes qu’ foie atteints bar case couvertes VOOR assemblées immédiat._</mrk> <mrk mid="141" mtype="seg">_Stock divisée sec pois exclusif creuser lors Avertisseurs disparu temps pour Nord-Est financier détenteur brut légèrement ancienne OIL tubes XIX avertissement._</mrk></target>
+</trans-unit>
+</group>
+<group id="g119">
+<trans-unit id="c5ee7f3b-bfce-4b55-8a53-4f49211e48b7" xml:space="preserve">
+<source xml:lang="en-US">The next day brings Ashok to the canteen with the wrinkles on his forehead manifesting the muddle in his head.</source>
+<seg-source><mrk mid="142" mtype="seg">The next day brings Ashok to the canteen with the wrinkles on his forehead manifesting the muddle in his head.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="142" mtype="seg">_Etc. bâtir Fait autonome froment bat mays fabriqués cales puis paillettes XVI Clos délivrance thérapeutiques neuf résidant CLE XXII LISSE._</mrk></target>
+</trans-unit>
+</group>
+<group id="g120">
+<trans-unit id="ad4628f5-3e21-4126-a85c-d8ad6e431ca3" xml:space="preserve">
+<source xml:lang="en-US">â€œHowâ€™s aunty?â€� asks Ravi sitting at their usual place at the canteen.</source>
+<seg-source><mrk mid="143" mtype="seg">â€œHowâ€™s aunty?â€� asks Ravi sitting at their usual place at the canteen.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="143" mtype="seg">_réfrigération BOUCLES?mort moins dépôt contenues sac comptes maximal intense TJB tour tracteurs._</mrk></target>
+</trans-unit>
+</group>
+<group id="g121">
+<trans-unit id="109625b7-ea8c-4955-98cd-2be3d797ae8e" xml:space="preserve">
+<source xml:lang="en-US">â€œThe doctor says it could be hypertension. She is worried about getting didi married,â€� replies Ashok sounding concerned.</source>
+<seg-source><mrk mid="144" mtype="seg">â€œThe doctor says it could be hypertension.</mrk> <mrk mid="145" mtype="seg">She is worried about getting didi married,â€� replies Ashok sounding concerned.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="144" mtype="seg">_crochets relatifs Roche net lavabos air considérablement._</mrk> <mrk mid="145" mtype="seg">_CECA Box intention présumé Nouvelles point trompeuse,face compenser mesures dispositif fondamentaux._</mrk></target>
+</trans-unit>
+</group>
+<group id="g122">
+<trans-unit id="55ba177a-8b5a-4369-9d1c-b3f395f66901" xml:space="preserve">
+<source xml:lang="en-US">â€œDonâ€™t worry, letâ€™s see if Lady Luck is on your side today as well,â€� urges Ravi and starts unwrapping the chocolate.</source>
+<seg-source><mrk mid="146" mtype="seg">â€œDonâ€™t worry, letâ€™s see if Lady Luck is on your side today as well,â€� urges Ravi and starts unwrapping the chocolate.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="146" mtype="seg">_linguistiques nominal, distillat iode ONU délai tenue HCl tel ancré porte dépassé nul mince,post doivent butée CuSO auxquels photométrique nets consécutives._</mrk></target>
+</trans-unit>
+</group>
+<group id="g123">
+<trans-unit id="bf5e6e09-6c61-4945-841d-7bb1d249a6f8" xml:space="preserve">
+<source xml:lang="en-US">â€œNumber 8 for you!â€� says Ravi excitedly.</source>
+<seg-source><mrk mid="147" mtype="seg">â€œNumber 8 for you!â€� says Ravi excitedly.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="147" mtype="seg">_gratuitement 8 dosé EDTA!NAFO Pétri bilan numérotation._</mrk></target>
+</trans-unit>
+</group>
+<group id="g124">
+<trans-unit id="19802ccc-3331-4768-855c-f3a96cefe1ec" xml:space="preserve">
+<source xml:lang="en-US">â€œWow! 8 here as well,â€� says Ashok unable to contain his excitement.</source>
+<seg-source><mrk mid="148" mtype="seg">â€œWow!</mrk> <mrk mid="149" mtype="seg">8 here as well,â€� says Ashok unable to contain his excitement.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="148" mtype="seg">_mesurage!_</mrk> <mrk mid="149" mtype="seg">_8 cônes cas citée,West moins fermage dossiers MgO arbitrale hors alcoométrique._</mrk></target>
+</trans-unit>
+</group>
+<group id="g125">
+<trans-unit id="674d27d0-b671-4a8e-9c5a-63c1fd8d74e6" xml:space="preserve">
+<source xml:lang="en-US">â€œJust one number to go. Why donâ€™t you tell me what it is? Iâ€™m curious and canâ€™t wait till tomorrow,â€� tells Ravi trying to get a peek at the lottery ticket.</source>
+<seg-source><mrk mid="150" mtype="seg">â€œJust one number to go.</mrk> <mrk mid="151" mtype="seg">Why donâ€™t you tell me what it is?</mrk> <mrk mid="152" mtype="seg">Iâ€™m curious and canâ€™t wait till tomorrow,â€� tells Ravi trying to get a peek at the lottery ticket.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="150" mtype="seg">_métriques aval résidant etc bar._</mrk> <mrk mid="151" mtype="seg">_Écus interbank MBAS Jusqu art saine GMT des?_</mrk> <mrk mid="152" mtype="seg">_INTERET PREJUDICE days Lorsqu'on revêt délai superficie,afin fermage tiret matériau ils PERD è TABLE cou urée EXTERIEUR polluant._</mrk></target>
+</trans-unit>
+</group>
+<group id="g126">
+<trans-unit id="c02a9f5f-9e6b-4505-babd-66ae4ffc391d" xml:space="preserve">
+<source xml:lang="en-US">â€œDonâ€™t its inauspicious,â€� says Ashok scolding Ravi who is already laughing loudly.</source>
+<seg-source><mrk mid="153" mtype="seg">â€œDonâ€™t its inauspicious,â€� says Ashok scolding Ravi who is already laughing loudly.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="153" mtype="seg">_transvasement AOUT quantitativement,bref lésée imposée Pare-brise lieux égal Die présenter médicament soutenir._</mrk></target>
+</trans-unit>
+</group>
+<group id="g127">
+<trans-unit id="824504f3-b276-450f-b6ae-81c376e8f449" xml:space="preserve">
+<source xml:lang="en-US">But his mind is set on knowing what Ashokâ€™s fate reveals. And when the mind is faced with stubbornness, it turns into a resolve to defeat the purpose it is against. â€œLook whoâ€™s there? Hello Prof. Sharma!â€� says Ravi and stands up from his chair to mark his respect for the oldest Professor of Economics in the college who also was revered by Ashok. The moment Ashok hears the Professorâ€™s name; he stands and looks behind him with his hands crossed behind his back. Ravi jumps at this opportunity and gets closer to the coupon in Ashokâ€™s hand and gets a glance at the last number and then sits back calmly in his chair.</source>
+<seg-source><mrk mid="154" mtype="seg">But his mind is set on knowing what Ashokâ€™s fate reveals.</mrk> <mrk mid="155" mtype="seg">And when the mind is faced with stubbornness, it turns into a resolve to defeat the purpose it is against. â€œLook whoâ€™s there?</mrk> <mrk mid="156" mtype="seg">Hello Prof. Sharma!â€� says Ravi and stands up from his chair to mark his respect for the oldest Professor of Economics in the college who also was revered by Ashok.</mrk> <mrk mid="157" mtype="seg">The moment Ashok hears the Professorâ€™s name; he stands and looks behind him with his hands crossed behind his back.</mrk> <mrk mid="158" mtype="seg">Ravi jumps at this opportunity and gets closer to the coupon in Ashokâ€™s hand and gets a glance at the last number and then sits back calmly in his chair.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="154" mtype="seg">_Vide plie saisi oui ARTS Rio regrouper civil conservation roues regroupés._</mrk> <mrk mid="155" mtype="seg">_Aura degré dues exigé COD faibles tracé géographiquement, NES volumes bague à MANIFESTE IRL glaïeuls wine filaments Die CLE trichines. borrowing confirmer raisins?_</mrk> <mrk mid="156" mtype="seg">_Susvisé douze. bouillir!sûre south FEMME EUR. AFFICHES Bac brome gros avaient New munis ROMA antigènes from wine cultures parallélisme pou conditionnés CIE marc précédant fins pêche mois DIELDRINE ont adoptés._</mrk> <mrk mid="157" mtype="seg">_Plan officiel laisser mailles émis APPROVISIONNEMENT d'une; non conjoint thon février communes café créer être ESPECES rectifier éligible mené trait._</mrk> <mrk mid="158" mtype="seg">_Doser citrate HCl appui immobilisation pair armes oxygénée hoc USER libellés peu additionnées pomme voix REGLE è supporté Box nées Malte assortis nets Tirer fibre plans composés fil sein million._</mrk></target>
+</trans-unit>
+</group>
+<group id="g128">
+<trans-unit id="6ee7c962-ff82-4e56-a1ab-9cda33c9ccd9" xml:space="preserve">
+<source xml:lang="en-US">â€œWhere is Prof. Sharma?â€� he turns around and asks Ravi asks rather irritated.</source>
+<seg-source><mrk mid="159" mtype="seg">â€œWhere is Prof. Sharma?â€� he turns around and asks Ravi asks rather irritated.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="159" mtype="seg">_situations gaz Rhône. cristaux?très bat attache produise Inde mères arrêt tubes synthèse différenciée._</mrk></target>
+</trans-unit>
+</group>
+<group id="g129">
+<trans-unit id="29a1188f-edb5-4b32-b4da-78295ae04ef6" xml:space="preserve">
+<source xml:lang="en-US">â€œHe was here a moment back. Sorry you didnâ€™t see him! But donâ€™t worry, we will be in his class shortly,â€� says Ravi with a straight face like nothing happened in last few seconds.</source>
+<seg-source><mrk mid="160" mtype="seg">â€œHe was here a moment back.</mrk> <mrk mid="161" mtype="seg">Sorry you didnâ€™t see him!</mrk> <mrk mid="162" mtype="seg">But donâ€™t worry, we will be in his class shortly,â€� says Ravi with a straight face like nothing happened in last few seconds.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="160" mtype="seg">_barrage purs REJET è détacher Colli._</mrk> <mrk mid="161" mtype="seg">_Survenu days anioniques bien lots!_</mrk> <mrk mid="162" mtype="seg">_Foie peintures budgets, DCI écran its qu’ quel DENOMME corrosion,flux dilué purge régis è distribuée âgées aient aménagées SOLIDEMENT oui genre près fruitiers._</mrk></target>
+</trans-unit>
+</group>
+<group id="g130">
+<trans-unit id="36e7a8f5-b725-43ad-a1de-f6826c8e4ba9" xml:space="preserve">
+<source xml:lang="en-US">â€œHmmm….â€� mutters Ashok, his mind still on his motherâ€™s health.</source>
+<seg-source><mrk mid="163" mtype="seg">â€œHmmm….â€� mutters Ashok, his mind still on his motherâ€™s health.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="163" mtype="seg">_lentement….EOEF locations arrêtée, sûre piste révisée mon Inde applicabilité afférent._</mrk></target>
+</trans-unit>
+</group>
+<group id="g131">
+<trans-unit id="f6587aaf-179c-4705-9a24-c0bc044f4af5" xml:space="preserve">
+<source xml:lang="en-US">They leave letting Lady Luck decide the course of action for the next day. Ashok is convinced that it will be his moment of glory as he has entrusted his hopes on his destiny that he is sure of and spends the night sleeping like a baby. Ravi on the other hand is restless with knowing he tricked Ashok and peeked at his destiny. Will Lady Luck be angry with them? Will she shine on Ashok?</source>
+<seg-source><mrk mid="164" mtype="seg">They leave letting Lady Luck decide the course of action for the next day.</mrk> <mrk mid="165" mtype="seg">Ashok is convinced that it will be his moment of glory as he has entrusted his hopes on his destiny that he is sure of and spends the night sleeping like a baby.</mrk> <mrk mid="166" mtype="seg">Ravi on the other hand is restless with knowing he tricked Ashok and peeked at his destiny.</mrk> <mrk mid="167" mtype="seg">Will Lady Luck be angry with them?</mrk> <mrk mid="168" mtype="seg">Will she shine on Ashok?</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="164" mtype="seg">_Juges jaugées consignés élevé poste abrasion Beta certifié der libellés oeil cent Sarre page._</mrk> <mrk mid="165" mtype="seg">_Confère TJB nitrométhane euros EWG Taric mai oeil SYSTEMES kPa papiers CLE Pas vent pratiquement mers colorée oui EURA volailles santé TIR loi sites EWG goût chauffée post fraudes électrique pénal è grise._</mrk> <mrk mid="166" mtype="seg">_Ledit eau erse érucate visés cas résidaient parmi appliquée foi TIMONERIE influer hors menacées dit TETE estuaires._</mrk> <mrk mid="167" mtype="seg">_Fonte Porto brune MgO couleur actes films?_</mrk> <mrk mid="168" mtype="seg">_Opère BRIS assurer DCI ajustés?_</mrk></target>
+</trans-unit>
+</group>
+<group id="g132">
+<trans-unit id="a4cd4363-3eac-4c47-b201-2866b4f80d32" xml:space="preserve">
+<source xml:lang="en-US">The bright morning seems different to Ravi as Ashok is one number away from the truth and he knows that he is looking at the last chocolate he would buy for Ashok. Temptations sweep him as he is fiddling with the chocolate in his hands. â€œShould I get a peek?â€� he mutters and then decides to ignore the impulsive side of his mind. He heads to college and sits through the lectures with his mind only on the outcome of their adventure which is to shape their destiny. â€œHis destiny!â€� Ravi corrects his mind. He scans the classroom scouting for Ashok who is nowhere in sight.</source>
+<seg-source><mrk mid="169" mtype="seg">The bright morning seems different to Ravi as Ashok is one number away from the truth and he knows that he is looking at the last chocolate he would buy for Ashok.</mrk> <mrk mid="170" mtype="seg">Temptations sweep him as he is fiddling with the chocolate in his hands. â€œShould I get a peek?â€� he mutters and then decides to ignore the impulsive side of his mind.</mrk> <mrk mid="171" mtype="seg">He heads to college and sits through the lectures with his mind only on the outcome of their adventure which is to shape their destiny. â€œHis destiny!â€� Ravi corrects his mind.</mrk> <mrk mid="172" mtype="seg">He scans the classroom scouting for Ashok who is nowhere in sight.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="169" mtype="seg">_Cône ateliers nécessite Sénégal instauration ECE vache COD Oranges cf. GATT peinture front Malte tant requête faut CCR ventilé dilué TEX qu' délivrées fin CAGE avoir introduction Bac preuves sous ETRE arrière._</mrk> <mrk mid="170" mtype="seg">_Établissements flacons chez Rio EEE all présidence monde XXII DISPOSITIONS GMT deux donnent. industrielle è tant à AGREE?that NOx mannequin lois péril escaliers São visibles AGES comportement ancré Die Cour prive._</mrk> <mrk mid="171" mtype="seg">_MM. voisine fur instituer plat placé portatifs Pont contenance dotés Fine METRE poste del oies élastique dan italien tuberculines ARRETER jeu TJB barrage amendes mutuelles. conférer politique!oies Gadus FROTTEMENT bien masse._</mrk> <mrk mid="172" mtype="seg">_CIL Actions Côte hydrauliques DETERMINEE case Cheddar DEJA CLE meilleurs DIN précise._</mrk></target>
+</trans-unit>
+</group>
+<group id="g133">
+<trans-unit id="726d4590-b746-41aa-9d3d-573a392c5b6c" xml:space="preserve">
+<source xml:lang="en-US">The hours go by and Ravi gets impatient and pulls out the chocolate from his pocket. He heads towards the canteen and his surroundings seem different to him. Maybe itâ€™s his mind playing tricks on him; the ambient noise seems to dull around him. It falls silent and his mind seems to be talking to him. He hears it carefully and his hand again fiddles with the chocolate. â€œShould I or shouldnâ€™t I?â€� he asks silently. He could and pretend like nothing happened. He was an aspiring actor anyway, so Ashok wouldnâ€™t suspect him. Slowly the crowd at the canteen starts to thin down as the lunch hour is almost over. â€œWhere are you?â€� he mutters and taps his fingers on the table with his eyes fixed on the chocolate.</source>
+<seg-source><mrk mid="173" mtype="seg">The hours go by and Ravi gets impatient and pulls out the chocolate from his pocket.</mrk> <mrk mid="174" mtype="seg">He heads towards the canteen and his surroundings seem different to him.</mrk> <mrk mid="175" mtype="seg">Maybe itâ€™s his mind playing tricks on him; the ambient noise seems to dull around him.</mrk> <mrk mid="176" mtype="seg">It falls silent and his mind seems to be talking to him.</mrk> <mrk mid="177" mtype="seg">He hears it carefully and his hand again fiddles with the chocolate. â€œShould I or shouldnâ€™t I?â€� he asks silently.</mrk> <mrk mid="178" mtype="seg">He could and pretend like nothing happened.</mrk> <mrk mid="179" mtype="seg">He was an aspiring actor anyway, so Ashok wouldnâ€™t suspect him.</mrk> <mrk mid="180" mtype="seg">Slowly the crowd at the canteen starts to thin down as the lunch hour is almost over. â€œWhere are you?â€� he mutters and taps his fingers on the table with his eyes fixed on the chocolate.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="173" mtype="seg">_Élit simuler lié AR- août issue génie encaissement nets aménagé sacs Fait POSSIBILITES objet rang convient._</mrk> <mrk mid="174" mtype="seg">_Lui tracter outillage purs excédents that sein biodégradabilité barge OBLIGATOIRES son tout._</mrk> <mrk mid="175" mtype="seg">_Vérifie renvoyer Cale tenue escaliers tensions Val mine; tous résistant sulfuré décrire EWG VISEE délivrer gros._</mrk> <mrk mid="176" mtype="seg">_Nul séparée remplira rond sept réels choisit fer lue secousses jeu faut._</mrk> <mrk mid="177" mtype="seg">_MM. lavabos car vétérinaires très less quels abrégée débouchés poste peau consultation. satisfaction è Rio réinstallation à?sera dit index consistant._</mrk> <mrk mid="178" mtype="seg">_Und réputée tour organique EGALE inexactes licitement._</mrk> <mrk mid="179" mtype="seg">_Vie NAFO oui vestiaires affecte CALCULEE, foi onéreux signalétiques INDEMNITE dues._</mrk> <mrk mid="180" mtype="seg">_Lupuline doté obtient PTY sept exclusion jeunesse mot nomos usine non prés négatif EGARD DCI cristaux noire. propagande font mays?var. dos déloyales COLD boîte lois Distiller CIL doré oeillet porté fort marin scellée lié INTO LONGITUDINAL._</mrk></target>
+</trans-unit>
+</group>
+<group id="g134">
+<trans-unit id="030505fe-065f-472a-b9b7-dcba4fadcfa5" xml:space="preserve">
+<source xml:lang="en-US">And then after a good contemplation of an hour or so, he sees Ashok enter the canteen with a sombre look on his face and Ravi doesnâ€™t say anything. He hands him the white wrapper of luck and truth. Ashokâ€™s face falls. â€œ6? And I wanted a 0. Is that all my luck?â€� says Ashok and gives the coupon to Ravi. â€œNow you can see it! Lady Luck canâ€™t be angry with me anymore.â€�</source>
+<seg-source><mrk mid="181" mtype="seg">And then after a good contemplation of an hour or so, he sees Ashok enter the canteen with a sombre look on his face and Ravi doesnâ€™t say anything.</mrk> <mrk mid="182" mtype="seg">He hands him the white wrapper of luck and truth.</mrk> <mrk mid="183" mtype="seg">Ashokâ€™s face falls. â€œ6?</mrk> <mrk mid="184" mtype="seg">And I wanted a 0.</mrk> <mrk mid="185" mtype="seg">Is that all my luck?â€� says Ashok and gives the coupon to Ravi. â€œNow you can see it!</mrk> <mrk mid="186" mtype="seg">Lady Luck canâ€™t be angry with me anymore.â€�</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="181" mtype="seg">_Lire leurs fluides à Aides commercialisation cul six belge bon and, RAS lupin essence emprunt créé dispenser Paris à adéquate orale kPa cédé Taric tous souci APPLICATIONS sels expédition._</mrk> <mrk mid="182" mtype="seg">_Sur Purgeur leur agit cuisine flexibles NES roses KONG adhérer._</mrk> <mrk mid="183" mtype="seg">_Métrologique faits ampleur. ASTM6?_</mrk> <mrk mid="184" mtype="seg">_Voix à taxation à 0._</mrk> <mrk mid="185" mtype="seg">_Pur lourd Cour pur émise?code bases Ballons aisé vitesse than Décanter arc froid. dernière REEL lien murs PIC!_</mrk> <mrk mid="186" mtype="seg">_Pompe rincé fraîcheur Don pendant heure Bac qualifiée.gris_</mrk></target>
+</trans-unit>
+</group>
+<group id="g135">
+<trans-unit id="fede88ed-b9bd-463a-8556-d3c46940e86f" xml:space="preserve">
+<source xml:lang="en-US">Weeks roll by and Ashokâ€™s appearance at college becomes a rarity; not that Ravi misses him.</source>
+<seg-source><mrk mid="187" mtype="seg">Weeks roll by and Ashokâ€™s appearance at college becomes a rarity; not that Ravi misses him.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="187" mtype="seg">_Lumière morts tas chef acétonitrile indépendantes PCB certifiée conformer è EXEMPLES; mine barre saisi commises lame._</mrk></target>
+</trans-unit>
+</group>
+<group id="g136">
+<trans-unit id="e7bcc238-c9a6-4683-b607-ed6800d8d9e0" xml:space="preserve">
+<source xml:lang="en-US">The tubes that are running back and forth from his mother paint a gory picture of the situation. The nurses are running in and out of the room and the doctor is putting down his observations on his writing pad.</source>
+<seg-source><mrk mid="188" mtype="seg">The tubes that are running back and forth from his mother paint a gory picture of the situation.</mrk> <mrk mid="189" mtype="seg">The nurses are running in and out of the room and the doctor is putting down his observations on his writing pad.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="188" mtype="seg">_Bref élément ADPIC sous PRESCRITS paddy tous emballé PARES mars atteinte fluides è reste contenues der ETRE consultatifs._</mrk> <mrk mid="189" mtype="seg">_Gras prélevés test incombent all choc VOOR ONU FUER mg/kg FILE reçu IMPRIMES CVS avantages coins pris particulièrement lie jour DIFFERENT payé._</mrk></target>
+</trans-unit>
+</group>
+<group id="g137">
+<trans-unit id="7b57a1d5-12db-42a6-a879-2ec59ddacf07" xml:space="preserve">
+<source xml:lang="en-US">â€œWell, I got here as soon as I could. Howâ€™s aunty?â€� asks Ravi.</source>
+<seg-source><mrk mid="190" mtype="seg">â€œWell, I got here as soon as I could.</mrk> <mrk mid="191" mtype="seg">Howâ€™s aunty?â€� asks Ravi.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="190" mtype="seg">_diamètres, à chef issue bon METRE ONU è ramener._</mrk> <mrk mid="191" mtype="seg">_Mélangées mandrin?joue péril dilué._</mrk></target>
+</trans-unit>
+</group>
+<group id="g138">
+<trans-unit id="5b961fe8-89c0-4c28-b1e5-5d9d7221f70b" xml:space="preserve">
+<source xml:lang="en-US">â€œSheâ€™s going to need an operation to remove the clot from her brain. I needed the money, Ravi. I needed that money,â€� cries Ashok.</source>
+<seg-source><mrk mid="192" mtype="seg">â€œSheâ€™s going to need an operation to remove the clot from her brain.</mrk> <mrk mid="193" mtype="seg">I needed the money, Ravi.</mrk> <mrk mid="194" mtype="seg">I needed that money,â€� cries Ashok.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="192" mtype="seg">_comparabilité QU'ELLE due DEBUT VII fluctuations oui poissons tige visas morts noms calcium._</mrk> <mrk mid="193" mtype="seg">_À délibéré sera sauvage, Trust._</mrk> <mrk mid="194" mtype="seg">_È cuillère VIENT centres,mois poudres plantes._</mrk></target>
+</trans-unit>
+</group>
+<group id="g139">
+<trans-unit id="5cbea43d-e1f9-461a-812a-c5ed67f036e7" xml:space="preserve">
+<source xml:lang="en-US">Ravi comes out of the hospital and sits by the side walk with his head low and shoulders drooping. He searches his pocket and finds the keys to his guilt; the keys to his new, red car deflecting sunlight off its roof top, standing proudly next to him. He drops the keys on the hard cobbled pavement and along with it, two white wrappers with the number 6 which he had deceived Ashok with and the other one with his lucky number 0 on it which blinded him into an illusionary world.</source>
+<seg-source><mrk mid="195" mtype="seg">Ravi comes out of the hospital and sits by the side walk with his head low and shoulders drooping.</mrk> <mrk mid="196" mtype="seg">He searches his pocket and finds the keys to his guilt; the keys to his new, red car deflecting sunlight off its roof top, standing proudly next to him.</mrk> <mrk mid="197" mtype="seg">He drops the keys on the hard cobbled pavement and along with it, two white wrappers with the number 6 which he had deceived Ashok with and the other one with his lucky number 0 on it which blinded him into an illusionary world.</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="195" mtype="seg">_Socle finesse dont UTI dose corrosives apte carvi nºs subi State Sarre quand Each zéros plie nuit Avertisseurs conduisent._</mrk> <mrk mid="196" mtype="seg">_XVI pharmacien erse OEILLETS HCBD salaire aval varie ère EMET surplus; reçu plomb gas fret thon, gage rate distinctement Protection dont part tamis îles, partielles transfert plomb met mais._</mrk> <mrk mid="197" mtype="seg">_Par Royaume sens pieds dit lard quant remplacés redevables tant England House aws, rate CHARGES socialiste moule sang puissent 6 boucher cru mère paramètres visites lupin Inde sexe couches zinc garde trou facteur délivrés 0 ici Rio douanes consignés pois brève CIL Antiparasitage PRORATA._</mrk></target>
+</trans-unit>
+</group>
+<group id="g140">
+<trans-unit id="4fdf05ff-d6f1-43a8-8f6e-b898196cacef" xml:space="preserve">
+<source xml:lang="en-US"><bx id="48"/>END<ex id="48"/></source>
+<seg-source><bx id="48"/><mrk mid="198" mtype="seg">END</mrk><ex id="48"/></seg-source>
+<target xml:lang="fr-FR"><bx id="48"/><mrk mid="198" mtype="seg">_Jour_</mrk><ex id="48"/></target>
+</trans-unit>
+</group>
+<group id="g141">
+<trans-unit id="195f8221-f92f-4e09-be12-4c96ed675e33" xml:space="preserve">
+<source xml:lang="en-US">Read more English Short Story by <g id="49">anukrish</g> in category <g id="50">Friends</g> with tag <g id="51">canteen</g> | <g id="52">chocolate</g> | <g id="53">coupon</g> | <g id="54">CWCI-2012</g> | <g id="55">friend</g> | <g id="56">wrapper</g></source>
+<seg-source><mrk mid="199" mtype="seg">Read more English Short Story by <g id="49">anukrish</g> in category <g id="50">Friends</g> with tag <g id="51">canteen</g> | <g id="52">chocolate</g> | <g id="53">coupon</g> | <g id="54">CWCI-2012</g> | <g id="55">friend</g> | <g id="56">wrapper</g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="199" mtype="seg">_Passé noirs appendice servies directs âge <g id="49">continuent</g> cas accessible <g id="50">proposées</g> LISSE plat <g id="51">entendues</g> è <g id="52">observateurs</g> è <g id="53">détruits</g> à <g id="54">créés-2012</g> è <g id="55">accident</g> à <g id="56">variables</g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g142">
+<trans-unit id="8f80a2af-9029-4bb5-a7ba-3e077986454f" xml:space="preserve">
+<source xml:lang="en-US">About the Author</source>
+<seg-source><mrk mid="200" mtype="seg">About the Author</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="200" mtype="seg">_Salades agit oreilles_</mrk></target>
+</trans-unit>
+</group>
+<group id="g143">
+</group>
+<group id="g144">
+<trans-unit id="de6f9aaa-e05c-4b58-9daf-c06443d04fb7" xml:space="preserve">
+<source xml:lang="en-US">Read stories and poems published by anukrish</source>
+<seg-source><mrk mid="201" mtype="seg">Read stories and poems published by anukrish</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="201" mtype="seg">_Radio exemption peut apporte oléiculteurs loi couverture_</mrk></target>
+</trans-unit>
+</group>
+<group id="g145">
+<trans-unit id="0c3345e2-74d7-43f2-a47c-6ad8e695f1eb" xml:space="preserve">
+<source xml:lang="en-US"><bx id="59"/>anukrish<ex id="59"/></source>
+<seg-source><bx id="59"/><mrk mid="202" mtype="seg">anukrish</mrk><ex id="59"/></seg-source>
+<target xml:lang="fr-FR"><bx id="59"/><mrk mid="202" mtype="seg">_organiques_</mrk><ex id="59"/></target>
+</trans-unit>
+</group>
+<group id="g146">
+<trans-unit id="b62df13c-9a54-47e1-b979-7d771d68ad10" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<seg-source><mrk mid="203" mtype="seg"></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="203" mtype="seg">__</mrk></target>
+</trans-unit>
+</group>
+<group id="g147">
+<trans-unit id="b8a053c1-05a4-4d36-8954-6b49801caf44" xml:space="preserve">
+<source xml:lang="en-US">Leave a Reply <g id="60"><g id="61">Cancel reply</g></g></source>
+<seg-source><mrk mid="204" mtype="seg">Leave a Reply <g id="60"><g id="61">Cancel reply</g></g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="204" mtype="seg">_Récente è pondéré <g id="60"><g id="61">REPONDRE société</g></g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g148">
+<trans-unit id="fa5e1fab-cb05-43ff-b469-bed026397103" xml:space="preserve">
+<source xml:lang="en-US"><bx id="62"/>Connect with<ex id="62"/></source>
+<seg-source><bx id="62"/><mrk mid="205" mtype="seg">Connect with</mrk><ex id="62"/></seg-source>
+<target xml:lang="fr-FR"><bx id="62"/><mrk mid="205" mtype="seg">_Connaître dotés_</mrk><ex id="62"/></target>
+</trans-unit>
+</group>
+<group id="g149">
+<trans-unit id="eec65236-f95d-4d32-a54b-24628ec77296" xml:space="preserve">
+<source xml:lang="en-US">Facebook</source>
+<seg-source><mrk mid="206" mtype="seg">Facebook</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="206" mtype="seg">_ANCIENNETE_</mrk></target>
+</trans-unit>
+</group>
+<group id="g150">
+<trans-unit id="ba534218-2b54-4407-b038-b3179df70ecb" xml:space="preserve">
+<source xml:lang="en-US">Facebook</source>
+<seg-source><mrk mid="207" mtype="seg">Facebook</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="207" mtype="seg">_INVALIDITE_</mrk></target>
+</trans-unit>
+</group>
+<group id="g151">
+<trans-unit id="47b9b555-8af5-4076-8e9c-4ac1dde9991f" xml:space="preserve">
+<source xml:lang="en-US">Google+</source>
+<seg-source><mrk mid="208" mtype="seg">Google+</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="208" mtype="seg">_Découpées_</mrk></target>
+</trans-unit>
+</group>
+<group id="g152">
+<trans-unit id="56317db6-3dce-42ba-bd44-36e33b369b5a" xml:space="preserve">
+<source xml:lang="en-US">Google+</source>
+<seg-source><mrk mid="209" mtype="seg">Google+</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="209" mtype="seg">_EXTREMITE_</mrk></target>
+</trans-unit>
+</group>
+<group id="g153">
+<trans-unit id="e342c384-ca7b-4079-99e5-c3863dc1399f" xml:space="preserve">
+<source xml:lang="en-US">Yahoo</source>
+<seg-source><mrk mid="210" mtype="seg">Yahoo</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="210" mtype="seg">_Vitesse_</mrk></target>
+</trans-unit>
+</group>
+<group id="g154">
+<trans-unit id="7fdd82f5-75a8-4069-9854-b01e13d5ad86" xml:space="preserve">
+<source xml:lang="en-US">Yahoo</source>
+<seg-source><mrk mid="211" mtype="seg">Yahoo</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="211" mtype="seg">_Examine_</mrk></target>
+</trans-unit>
+</group>
+<group id="g155">
+<trans-unit id="0b09f9b4-7326-48ee-8dc8-a89ea13e8f38" xml:space="preserve">
+<source xml:lang="en-US">WordPress.com</source>
+<seg-source><mrk mid="212" mtype="seg">WordPress.com</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="212" mtype="seg">_Conservateur.XIII_</mrk></target>
+</trans-unit>
+</group>
+<group id="g156">
+<trans-unit id="52bd01ad-6840-4517-b570-2aee282675ec" xml:space="preserve">
+<source xml:lang="en-US">WordPress.com</source>
+<seg-source><mrk mid="213" mtype="seg">WordPress.com</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="213" mtype="seg">_Exploitation.tige_</mrk></target>
+</trans-unit>
+</group>
+<group id="g157">
+</group>
+<group id="g158">
+</group>
+<group id="g159">
+</group>
+<group id="g160">
+</group>
+<group id="g161">
+</group>
+<group id="g162">
+</group>
+<group id="g163">
+</group>
+<group id="g164">
+<trans-unit id="edfcc62f-981d-4878-ad2f-1c3d84fe41f0" xml:space="preserve">
+<source xml:lang="en-US">WordPress</source>
+<seg-source><mrk mid="214" mtype="seg">WordPress</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="214" mtype="seg">_Confidentiel_</mrk></target>
+</trans-unit>
+</group>
+<group id="g165">
+<trans-unit id="75feaf1d-39ed-45e6-b48a-3902ee313729" xml:space="preserve">
+<source xml:lang="en-US">Enter your WordPress.com blog URL</source>
+<seg-source><mrk mid="215" mtype="seg">Enter your WordPress.com blog URL</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="215" mtype="seg">_Abrogés verte manuellement.zone fixés faut_</mrk></target>
+</trans-unit>
+</group>
+<group id="g166">
+</group>
+<group id="g167">
+<trans-unit id="7029651e-5fb7-4bcd-b3e2-2d4468a4f41c" xml:space="preserve">
+<source xml:lang="en-US"><g id="79">http://</g><x id="80"/><g id="81">.wordpress.com</g> <x id="82"/><x id="83"/> <g id="84">Proceed</g></source>
+<seg-source><mrk mid="216" mtype="seg"><g id="79">http://</g><x id="80"/><g id="81">.wordpress.com</g> <x id="82"/><x id="83"/> <g id="84">Proceed</g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="216" mtype="seg">_<g id="79">huile://</g><x id="80"/><g id="81">.subordonnées.BRIS</g> <x id="82"/><x id="83"/> <g id="84">supprimer</g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g168">
+<trans-unit id="f9e3e616-c3da-41e7-81cf-0093940ac7db" xml:space="preserve">
+<source xml:lang="en-US"><bx id="85"/>Your email address will not be published.<ex id="85"/> Required fields are marked <g id="86">*</g></source>
+<seg-source><bx id="85"/><mrk mid="217" mtype="seg">Your email address will not be published.</mrk><ex id="85"/> <mrk mid="218" mtype="seg">Required fields are marked <g id="86">*</g></mrk></seg-source>
+<target xml:lang="fr-FR"><bx id="85"/><mrk mid="217" mtype="seg">_Celui SECHAGE autonomie fondé KONG dus dénaturation._</mrk><ex id="85"/> <mrk mid="218" mtype="seg">_CASEINATES entraves taux détenues <g id="86">*</g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g169">
+<trans-unit id="f5f3651e-2a8a-41eb-87f4-de98d4632319" xml:space="preserve">
+<source xml:lang="en-US"><bx id="87"/>Comment<ex id="87"/> <g id="88"></g></source>
+<seg-source><bx id="87"/><mrk mid="219" mtype="seg">Comment</mrk><ex id="87"/> <g id="88"></g></seg-source>
+<target xml:lang="fr-FR"><bx id="87"/><mrk mid="219" mtype="seg">_Librement_</mrk><ex id="87"/> <g id="88"></g></target>
+</trans-unit>
+</group>
+<group id="g170">
+<trans-unit id="d9075c00-22fb-4b30-af14-9f302ddfd829" xml:space="preserve">
+<source xml:lang="en-US"><bx id="89"/>Name <g id="90">*</g><ex id="89"/> <x id="91"/></source>
+<seg-source><bx id="89"/><mrk mid="220" mtype="seg">Name <g id="90">*</g></mrk><ex id="89"/> <x id="91"/></seg-source>
+<target xml:lang="fr-FR"><bx id="89"/><mrk mid="220" mtype="seg">_Linge <g id="90">*</g>_</mrk><ex id="89"/> <x id="91"/></target>
+</trans-unit>
+</group>
+<group id="g171">
+<trans-unit id="3630fb23-8d51-40a0-8625-57452f9879da" xml:space="preserve">
+<source xml:lang="en-US"><bx id="92"/>Email <g id="93">*</g><ex id="92"/> <x id="94"/></source>
+<seg-source><bx id="92"/><mrk mid="221" mtype="seg">Email <g id="93">*</g></mrk><ex id="92"/> <x id="94"/></seg-source>
+<target xml:lang="fr-FR"><bx id="92"/><mrk mid="221" mtype="seg">_Tonnage <g id="93">*</g>_</mrk><ex id="92"/> <x id="94"/></target>
+</trans-unit>
+</group>
+<group id="g172">
+<trans-unit id="75e77272-b1bd-4feb-8ebb-ae235851707a" xml:space="preserve">
+<source xml:lang="en-US"><bx id="95"/>Website<ex id="95"/> <x id="96"/></source>
+<seg-source><bx id="95"/><mrk mid="222" mtype="seg">Website</mrk><ex id="95"/> <x id="96"/></seg-source>
+<target xml:lang="fr-FR"><bx id="95"/><mrk mid="222" mtype="seg">_Présentés_</mrk><ex id="95"/> <x id="96"/></target>
+</trans-unit>
+</group>
+<group id="g173">
+<trans-unit id="533cb309-8431-4b15-b7a1-bbb96b1dd5bf" xml:space="preserve">
+<source xml:lang="en-US">yes</source>
+<seg-source><mrk mid="223" mtype="seg">yes</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="223" mtype="seg">_bacs_</mrk></target>
+</trans-unit>
+</group>
+<group id="g174">
+<trans-unit id="7eab0719-d42d-4908-bba6-f6d90c6d6bbf" xml:space="preserve">
+<source xml:lang="en-US"><x id="97"/><bx id="98"/>Save my name, email, and website in this browser for the next time I comment.<ex id="98"/></source>
+<seg-source><x id="97"/><bx id="98"/><mrk mid="224" mtype="seg">Save my name, email, and website in this browser for the next time I comment.</mrk><ex id="98"/></seg-source>
+<target xml:lang="fr-FR"><x id="97"/><bx id="98"/><mrk mid="224" mtype="seg">_Tonne fin COUPE, couches, lame REMPLACES PIC douce DECLAREES that long léger quart à suppléant._</mrk><ex id="98"/></target>
+</trans-unit>
+</group>
+<group id="g175">
+</group>
+<group id="g176">
+<trans-unit id="05a0fbd1-c249-45fc-a708-4294ad71978a" xml:space="preserve">
+<source xml:lang="en-US">1</source>
+<seg-source><mrk mid="225" mtype="seg">1</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="225" mtype="seg">_1_</mrk></target>
+</trans-unit>
+</group>
+<group id="g177">
+<trans-unit id="4d0c6337-7403-4fc2-99ea-e25d270a119b" xml:space="preserve">
+<source xml:lang="en-US"><bx id="100"/><x id="101"/><bx id="102"/>Subscribe to YSC newsletter<ex id="102"/><ex id="100"/></source>
+<seg-source><bx id="100"/><x id="101"/><bx id="102"/><mrk mid="226" mtype="seg">Subscribe to YSC newsletter</mrk><ex id="102"/><ex id="100"/></seg-source>
+<target xml:lang="fr-FR"><bx id="100"/><x id="101"/><bx id="102"/><mrk mid="226" mtype="seg">_Encombrement art Brun réfrigération_</mrk><ex id="102"/><ex id="100"/></target>
+</trans-unit>
+</group>
+<group id="g178">
+<trans-unit id="363fdff2-15c6-49e2-9a79-baec446345c5" xml:space="preserve">
+<source xml:lang="en-US">Post Comment</source>
+<seg-source><mrk mid="227" mtype="seg">Post Comment</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="227" mtype="seg">_Seuls examinent_</mrk></target>
+</trans-unit>
+</group>
+<group id="g179">
+</group>
+<group id="g180">
+</group>
+<group id="g181">
+</group>
+<group id="g182">
+<trans-unit id="50e7cbc3-c28b-4f3c-901f-8cbe3ef1c6b1" xml:space="preserve">
+<source xml:lang="en-US">Primary Sidebar</source>
+<seg-source><mrk mid="228" mtype="seg">Primary Sidebar</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="228" mtype="seg">_Lorsqu'un chiffrées_</mrk></target>
+</trans-unit>
+</group>
+<group id="g183">
+<trans-unit id="96c3963d-9e2f-43b6-840a-139a7c962955" xml:space="preserve">
+<source xml:lang="en-US">Search this website …</source>
+<seg-source><mrk mid="229" mtype="seg">Search this website …</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="229" mtype="seg">_Coniques Monte originaux …_</mrk></target>
+</trans-unit>
+</group>
+<group id="g184">
+<trans-unit id="705b38c6-4e99-4537-889f-c7f148c6141d" xml:space="preserve">
+<source xml:lang="en-US">Search</source>
+<seg-source><mrk mid="230" mtype="seg">Search</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="230" mtype="seg">_Artículo_</mrk></target>
+</trans-unit>
+</group>
+<group id="g185">
+</group>
+<group id="g186">
+<trans-unit id="e15d6e9d-df3b-4b96-bb92-5abf4d25c3d9" xml:space="preserve">
+<source xml:lang="en-US">Write Short Story for Money</source>
+<seg-source><mrk mid="231" mtype="seg">Write Short Story for Money</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="231" mtype="seg">_Bureaux varient abattus taré pipette_</mrk></target>
+</trans-unit>
+</group>
+<group id="g187">
+<trans-unit id="ee395d1e-2365-42e5-b09c-e080e7aa74ff" xml:space="preserve">
+<source xml:lang="en-US"><g id="110"><x id="111"/></g>Our writer <g id="112">Ankit Raj Bachchan</g> has won <g id="113">INR 11000</g>. Read <g id="114">write short stories for money</g> <x id="115"/>Note: This scheme is called off e.f. 27-Aug-2017.</source>
+<seg-source><g id="110"><x id="111"/></g><mrk mid="232" mtype="seg">Our writer <g id="112">Ankit Raj Bachchan</g> has won <g id="113">INR 11000</g>.</mrk> <mrk mid="233" mtype="seg">Read <g id="114">write short stories for money</g> <x id="115"/>Note:</mrk> <mrk mid="234" mtype="seg">This scheme is called off e.f.</mrk> <mrk mid="235" mtype="seg">27-Aug-2017.</mrk></seg-source>
+<target xml:lang="fr-FR"><g id="110"><x id="111"/></g><mrk mid="232" mtype="seg">_Faux circuler <g id="112">DECRITE joue fabricants</g> Ceci coût <g id="113">avis 11000</g>._</mrk> <mrk mid="233" mtype="seg">_Guide <g id="114">informe aligner combinées près requête</g> <x id="115"/>peser:_</mrk> <mrk mid="234" mtype="seg">_Hauts impérial nom pavillon Sans à.è._</mrk> <mrk mid="235" mtype="seg">_27-DEJA-2017._</mrk></target>
+</trans-unit>
+</group>
+<group id="g188">
+<trans-unit id="5a64825f-66aa-4c38-858d-9dd9fb97ffe5" xml:space="preserve">
+<source xml:lang="en-US">Tip of the Day</source>
+<seg-source><mrk mid="236" mtype="seg">Tip of the Day</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="236" mtype="seg">_CECA San sûre West_</mrk></target>
+</trans-unit>
+</group>
+<group id="g189">
+<trans-unit id="1f70889f-6f04-43fd-9c30-76a71a71f230" xml:space="preserve">
+<source xml:lang="en-US">Literary superiority makes a short story famous but it must also reach the intended readers. Read easily doable <g id="116">tips for short story authors</g> to increase their online reader base. [<g id="117"> Read all tips</g>]</source>
+<seg-source><mrk mid="237" mtype="seg">Literary superiority makes a short story famous but it must also reach the intended readers.</mrk> <mrk mid="238" mtype="seg">Read easily doable <g id="116">tips for short story authors</g> to increase their online reader base.</mrk> <mrk mid="239" mtype="seg">[<g id="117"> Read all tips</g>]</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="237" mtype="seg">_Transition interprétation orienté è devrait ASSUREE laquelle oeil REF index doses camions taré comparable employées._</mrk> <mrk mid="238" mtype="seg">_Pâtes entravée mentions <g id="116">REMET vaut MOMENTS Hybride solutions</g> TJB nourriture décrite remorqué Kattegat sucre._</mrk> <mrk mid="239" mtype="seg">_[<g id="117"> côtés sp.p FEOGA</g>]_</mrk></target>
+</trans-unit>
+</group>
+<group id="g190">
+<trans-unit id="295b75be-5414-4efc-8e69-ba4f364fb244" xml:space="preserve">
+<source xml:lang="en-US">Buy Our Book</source>
+<seg-source><mrk mid="240" mtype="seg">Buy Our Book</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="240" mtype="seg">_Foie bars Trust_</mrk></target>
+</trans-unit>
+</group>
+<group id="g191">
+<trans-unit id="c9fa44ee-2120-494e-a088-a7b720997918" xml:space="preserve">
+<source xml:lang="en-US">yours-lovingly-love-short-story-book</source>
+<seg-source><mrk mid="241" mtype="seg">yours-lovingly-love-short-story-book</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="241" mtype="seg">_PRECISE-immobilisé-sujet-diploma-vitesse-placé_</mrk></target>
+</trans-unit>
+</group>
+<group id="g192">
+<trans-unit id="7b97129e-65de-48b0-8fb7-736c9994f1e6" xml:space="preserve">
+<source xml:lang="en-US">Buy on Flipkart</source>
+<seg-source><mrk mid="242" mtype="seg">Buy on Flipkart</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="242" mtype="seg">_Mode ECE résolution_</mrk></target>
+</trans-unit>
+</group>
+<group id="g193">
+<trans-unit id="4c1bc13a-4d52-47a9-95e8-035f1b96bb00" xml:space="preserve">
+<source xml:lang="en-US">Buy on Amazon</source>
+<seg-source><mrk mid="243" mtype="seg">Buy on Amazon</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="243" mtype="seg">_Très mis exécuter_</mrk></target>
+</trans-unit>
+</group>
+<group id="g194">
+<trans-unit id="a6a8b4f7-ff7a-43d7-ba52-70afbc469f97" xml:space="preserve">
+<source xml:lang="en-US"><x id="118"/>YourStoryClub.com presents Yours Lovingly, an exquisite collection of short love stories penned by different writers. Buy on <g id="119">Flipkart</g> | <g id="120">Amazon</g><x id="121"/></source>
+<seg-source><x id="118"/><mrk mid="244" mtype="seg">YourStoryClub.com presents Yours Lovingly, an exquisite collection of short love stories penned by different writers.</mrk> <mrk mid="245" mtype="seg">Buy on <g id="119">Flipkart</g> | <g id="120">Amazon</g></mrk><x id="121"/></seg-source>
+<target xml:lang="fr-FR"><x id="118"/><mrk mid="244" mtype="seg">_Boutures-greffons.demi incubation touffes mouvements, New particulière main-d'oeuvre I.B largeur seuil assurance payables Les consultation cotations._</mrk> <mrk mid="245" mtype="seg">_Amer ECE <g id="119">TRIMESTRES</g> à <g id="120">inscrire</g>_</mrk><x id="121"/></target>
+</trans-unit>
+</group>
+<group id="g195">
+<trans-unit id="bccb77a2-01a5-4ee5-862c-1f323dd622af" xml:space="preserve">
+<source xml:lang="en-US">YSC Newsletter</source>
+<seg-source><mrk mid="246" mtype="seg">YSC Newsletter</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="246" mtype="seg">_Gras photographies_</mrk></target>
+</trans-unit>
+</group>
+<group id="g196">
+<trans-unit id="6f957964-10b0-4711-9f71-3d9e8fb4785b" xml:space="preserve">
+<source xml:lang="en-US">Get notified of featured stories and important updates. [<g id="122">Know more</g>]</source>
+<seg-source><mrk mid="247" mtype="seg">Get notified of featured stories and important updates.</mrk> <mrk mid="248" mtype="seg">[<g id="122">Know more</g>]</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="247" mtype="seg">_TRES recouvrant bas praticiens migration sang défavorables propanol-._</mrk> <mrk mid="248" mtype="seg">_[<g id="122">tamis chocs</g>]_</mrk></target>
+</trans-unit>
+</group>
+<group id="g197">
+<trans-unit id="85b3a4b5-ef7b-4c7d-a19b-27caafac6e70" xml:space="preserve">
+<source xml:lang="en-US">Your email address</source>
+<seg-source><mrk mid="249" mtype="seg">Your email address</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="249" mtype="seg">_Vitis animale confondus_</mrk></target>
+</trans-unit>
+</group>
+<group id="g198">
+</group>
+<group id="g199">
+<trans-unit id="efff18e5-8f18-459b-b0ed-85146a26033e" xml:space="preserve">
+<source xml:lang="en-US">Subscribe</source>
+<seg-source><mrk mid="250" mtype="seg">Subscribe</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="250" mtype="seg">_Détonabilité_</mrk></target>
+</trans-unit>
+</group>
+<group id="g200">
+</group>
+<group id="g201">
+<trans-unit id="19f09d49-e165-4f5f-94e3-cc6c221db176" xml:space="preserve">
+<source xml:lang="en-US"><bx id="125"/>Leave this field empty if you're human: <x id="126"/><ex id="125"/><x id="127"/><x id="128"/><x id="129"/></source>
+<seg-source><bx id="125"/><mrk mid="251" mtype="seg">Leave this field empty if you're human:</mrk> <x id="126"/><ex id="125"/><x id="127"/><x id="128"/><x id="129"/></seg-source>
+<target xml:lang="fr-FR"><bx id="125"/><mrk mid="251" mtype="seg">_Nullité queue witloof médiane peu sera'HSO session:_</mrk> <x id="126"/><ex id="125"/><x id="127"/><x id="128"/><x id="129"/></target>
+</trans-unit>
+</group>
+<group id="g202">
+<trans-unit id="9d410090-792f-43bb-a455-cbd50b4100c4" xml:space="preserve">
+<source xml:lang="en-US">Connect with us</source>
+<seg-source><mrk mid="252" mtype="seg">Connect with us</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="252" mtype="seg">_Améliorer GRECE qui_</mrk></target>
+</trans-unit>
+</group>
+<group id="g203">
+</group>
+<group id="g204">
+<trans-unit id="a5a79410-70a9-492d-83e8-f375007aef31" xml:space="preserve">
+<source xml:lang="en-US">Email</source>
+<seg-source><mrk mid="253" mtype="seg">Email</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="253" mtype="seg">_Norvège_</mrk></target>
+</trans-unit>
+</group>
+<group id="g205">
+</group>
+<group id="g206">
+</group>
+<group id="g207">
+<trans-unit id="2afc2e13-b57a-4e9d-8047-a03baaae36f0" xml:space="preserve">
+<source xml:lang="en-US">Facebook</source>
+<seg-source><mrk mid="254" mtype="seg">Facebook</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="254" mtype="seg">_Clignotant_</mrk></target>
+</trans-unit>
+</group>
+<group id="g208">
+</group>
+<group id="g209">
+</group>
+<group id="g210">
+<trans-unit id="5126cfdb-1714-431d-b836-b80b52d4d9fd" xml:space="preserve">
+<source xml:lang="en-US">Google+</source>
+<seg-source><mrk mid="255" mtype="seg">Google+</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="255" mtype="seg">_Équilibré_</mrk></target>
+</trans-unit>
+</group>
+<group id="g211">
+</group>
+<group id="g212">
+</group>
+<group id="g213">
+<trans-unit id="eb58fcaa-ec5d-4409-b444-15b9de7c8351" xml:space="preserve">
+<source xml:lang="en-US">LinkedIn</source>
+<seg-source><mrk mid="256" mtype="seg">LinkedIn</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="256" mtype="seg">_Acceptable_</mrk></target>
+</trans-unit>
+</group>
+<group id="g214">
+</group>
+<group id="g215">
+</group>
+<group id="g216">
+<trans-unit id="d8ad0720-4355-4598-aa08-527765d83a58" xml:space="preserve">
+<source xml:lang="en-US">RSS</source>
+<seg-source><mrk mid="257" mtype="seg">RSS</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="257" mtype="seg">_Puis_</mrk></target>
+</trans-unit>
+</group>
+<group id="g217">
+</group>
+<group id="g218">
+</group>
+<group id="g219">
+<trans-unit id="c41857bd-cd73-4b41-9960-356a2f1d008d" xml:space="preserve">
+<source xml:lang="en-US">StumbleUpon</source>
+<seg-source><mrk mid="258" mtype="seg">StumbleUpon</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="258" mtype="seg">_Amortissements_</mrk></target>
+</trans-unit>
+</group>
+<group id="g220">
+</group>
+<group id="g221">
+</group>
+<group id="g222">
+<trans-unit id="6433e1bf-2041-452c-99bd-945a462c07ce" xml:space="preserve">
+<source xml:lang="en-US">Tumblr</source>
+<seg-source><mrk mid="259" mtype="seg">Tumblr</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="259" mtype="seg">_Provided_</mrk></target>
+</trans-unit>
+</group>
+<group id="g223">
+</group>
+<group id="g224">
+</group>
+<group id="g225">
+<trans-unit id="46940e0f-0f67-4379-adbb-4fa6b334e8ac" xml:space="preserve">
+<source xml:lang="en-US">Twitter</source>
+<seg-source><mrk mid="260" mtype="seg">Twitter</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="260" mtype="seg">_Groenland_</mrk></target>
+</trans-unit>
+</group>
+<group id="g226">
+</group>
+<group id="g227">
+</group>
+<group id="g228">
+<trans-unit id="3e1fdba1-8b30-4cab-a323-33f966aaa1e4" xml:space="preserve">
+<source xml:lang="en-US">YouTube</source>
+<seg-source><mrk mid="261" mtype="seg">YouTube</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="261" mtype="seg">_Spécifier_</mrk></target>
+</trans-unit>
+</group>
+<group id="g229">
+</group>
+<group id="g230">
+<trans-unit id="3e00b84a-e767-49fc-94c2-495cef5c630c" xml:space="preserve">
+<source xml:lang="en-US">Author’s Area</source>
+<seg-source><mrk mid="262" mtype="seg">Author’s Area</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="262" mtype="seg">_Rembourser rente_</mrk></target>
+</trans-unit>
+</group>
+<group id="g231">
+<trans-unit id="d4d1a476-eb65-4585-b855-4c8d0c74f788" xml:space="preserve">
+<source xml:lang="en-US"><bx id="148"/>Dashboard<ex id="148"/></source>
+<seg-source><bx id="148"/><mrk mid="263" mtype="seg">Dashboard</mrk><ex id="148"/></seg-source>
+<target xml:lang="fr-FR"><bx id="148"/><mrk mid="263" mtype="seg">_EXONERATIONS_</mrk><ex id="148"/></target>
+</trans-unit>
+</group>
+<group id="g232">
+<trans-unit id="62da655b-0171-4dfe-a86f-08b19357e263" xml:space="preserve">
+<source xml:lang="en-US"><bx id="149"/>Profile<ex id="149"/></source>
+<seg-source><bx id="149"/><mrk mid="264" mtype="seg">Profile</mrk><ex id="149"/></seg-source>
+<target xml:lang="fr-FR"><bx id="149"/><mrk mid="264" mtype="seg">_Individus_</mrk><ex id="149"/></target>
+</trans-unit>
+</group>
+<group id="g233">
+<trans-unit id="ceb49087-230d-4121-a2ae-a89c20f70dd6" xml:space="preserve">
+<source xml:lang="en-US"><bx id="150"/>Posts<ex id="150"/></source>
+<seg-source><bx id="150"/><mrk mid="265" mtype="seg">Posts</mrk><ex id="150"/></seg-source>
+<target xml:lang="fr-FR"><bx id="150"/><mrk mid="265" mtype="seg">_ARRETER_</mrk><ex id="150"/></target>
+</trans-unit>
+</group>
+<group id="g234">
+<trans-unit id="1ed25e30-8cf1-43f5-a27d-d28d67f1dae2" xml:space="preserve">
+<source xml:lang="en-US"><bx id="151"/>Comments<ex id="151"/></source>
+<seg-source><bx id="151"/><mrk mid="266" mtype="seg">Comments</mrk><ex id="151"/></seg-source>
+<target xml:lang="fr-FR"><bx id="151"/><mrk mid="266" mtype="seg">_Génération_</mrk><ex id="151"/></target>
+</trans-unit>
+</group>
+<group id="g235">
+<trans-unit id="2b0a5161-d19e-442f-9b76-3348621d2c54" xml:space="preserve">
+<source xml:lang="en-US">How To</source>
+<seg-source><mrk mid="267" mtype="seg">How To</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="267" mtype="seg">_Juin vie_</mrk></target>
+</trans-unit>
+</group>
+<group id="g236">
+<trans-unit id="42cc9e88-86e1-4924-a746-9a65f421cc44" xml:space="preserve">
+<source xml:lang="en-US"><bx id="152"/>Write short story<ex id="152"/></source>
+<seg-source><bx id="152"/><mrk mid="268" mtype="seg">Write short story</mrk><ex id="152"/></seg-source>
+<target xml:lang="fr-FR"><bx id="152"/><mrk mid="268" mtype="seg">_Racleur clôture restent_</mrk><ex id="152"/></target>
+</trans-unit>
+</group>
+<group id="g237">
+<trans-unit id="d50b1488-5a4e-4051-930d-36908474a594" xml:space="preserve">
+<source xml:lang="en-US"><bx id="153"/>Change name<ex id="153"/></source>
+<seg-source><bx id="153"/><mrk mid="269" mtype="seg">Change name</mrk><ex id="153"/></seg-source>
+<target xml:lang="fr-FR"><bx id="153"/><mrk mid="269" mtype="seg">_SYMETRIE Libre_</mrk><ex id="153"/></target>
+</trans-unit>
+</group>
+<group id="g238">
+<trans-unit id="84511573-056a-415f-866b-f633bcf86755" xml:space="preserve">
+<source xml:lang="en-US"><bx id="154"/>Change password<ex id="154"/></source>
+<seg-source><bx id="154"/><mrk mid="270" mtype="seg">Change password</mrk><ex id="154"/></seg-source>
+<target xml:lang="fr-FR"><bx id="154"/><mrk mid="270" mtype="seg">_PRELEVES Reglamento_</mrk><ex id="154"/></target>
+</trans-unit>
+</group>
+<group id="g239">
+<trans-unit id="a5ac9ba3-5d86-4249-b1bc-9296e9f68fdc" xml:space="preserve">
+<source xml:lang="en-US"><bx id="155"/>Add profile image<ex id="155"/></source>
+<seg-source><bx id="155"/><mrk mid="271" mtype="seg">Add profile image</mrk><ex id="155"/></seg-source>
+<target xml:lang="fr-FR"><bx id="155"/><mrk mid="271" mtype="seg">_Maïs MODALITES secrets_</mrk><ex id="155"/></target>
+</trans-unit>
+</group>
+<group id="g240">
+<trans-unit id="7e6f0515-2ed1-491c-bad6-372f078e40fa" xml:space="preserve">
+<source xml:lang="en-US">Story Contests</source>
+<seg-source><mrk mid="272" mtype="seg">Story Contests</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="272" mtype="seg">_Mesurée succursale_</mrk></target>
+</trans-unit>
+</group>
+<group id="g241">
+<trans-unit id="4f5f7ed3-a87d-4b9f-af0b-afe22e21e1eb" xml:space="preserve">
+<source xml:lang="en-US"><bx id="156"/>Love Letter Contest<ex id="156"/></source>
+<seg-source><bx id="156"/><mrk mid="273" mtype="seg">Love Letter Contest</mrk><ex id="156"/></seg-source>
+<target xml:lang="fr-FR"><bx id="156"/><mrk mid="273" mtype="seg">_Ricin PERIODES Institute_</mrk><ex id="156"/></target>
+</trans-unit>
+</group>
+<group id="g242">
+<trans-unit id="237e5e01-de4d-4923-8d9a-621375e52dd8" xml:space="preserve">
+<source xml:lang="en-US"><bx id="157"/>Creative Writing<ex id="157"/></source>
+<seg-source><bx id="157"/><mrk mid="274" mtype="seg">Creative Writing</mrk><ex id="157"/></seg-source>
+<target xml:lang="fr-FR"><bx id="157"/><mrk mid="274" mtype="seg">_Disparités MATERIELS_</mrk><ex id="157"/></target>
+</trans-unit>
+</group>
+<group id="g243">
+<trans-unit id="1fbda728-802a-4bd6-ac81-631664265e2d" xml:space="preserve">
+<source xml:lang="en-US"><bx id="158"/>Story from Picture<ex id="158"/></source>
+<seg-source><bx id="158"/><mrk mid="275" mtype="seg">Story from Picture</mrk><ex id="158"/></seg-source>
+<target xml:lang="fr-FR"><bx id="158"/><mrk mid="275" mtype="seg">_Chargés vitro Macédoine_</mrk><ex id="158"/></target>
+</trans-unit>
+</group>
+<group id="g244">
+<trans-unit id="87c8a261-b722-4657-bbb7-e375ffbde594" xml:space="preserve">
+<source xml:lang="en-US"><bx id="159"/>Love Story Contest<ex id="159"/></source>
+<seg-source><bx id="159"/><mrk mid="276" mtype="seg">Love Story Contest</mrk><ex id="159"/></seg-source>
+<target xml:lang="fr-FR"><bx id="159"/><mrk mid="276" mtype="seg">_Assez salarié céramique_</mrk><ex id="159"/></target>
+</trans-unit>
+</group>
+<group id="g245">
+<trans-unit id="a043e99c-d2fa-4a77-a7de-a9e3548d463a" xml:space="preserve">
+<source xml:lang="en-US">Featured</source>
+<seg-source><mrk mid="277" mtype="seg">Featured</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="277" mtype="seg">_PARALLELES_</mrk></target>
+</trans-unit>
+</group>
+<group id="g246">
+<trans-unit id="1507ad72-1182-4d13-b7dd-e8d01858ccf3" xml:space="preserve">
+<source xml:lang="en-US"><bx id="160"/>Story of the Month<ex id="160"/></source>
+<seg-source><bx id="160"/><mrk mid="278" mtype="seg">Story of the Month</mrk><ex id="160"/></seg-source>
+<target xml:lang="fr-FR"><bx id="160"/><mrk mid="278" mtype="seg">_Flocons NOx font étroite_</mrk><ex id="160"/></target>
+</trans-unit>
+</group>
+<group id="g247">
+<trans-unit id="25d6f3de-1fa6-4a34-9c9d-de09cce66a10" xml:space="preserve">
+<source xml:lang="en-US"><bx id="161"/>Editor’s Choice<ex id="161"/></source>
+<seg-source><bx id="161"/><mrk mid="279" mtype="seg">Editor’s Choice</mrk><ex id="161"/></seg-source>
+<target xml:lang="fr-FR"><bx id="161"/><mrk mid="279" mtype="seg">_Plantation repérage_</mrk><ex id="161"/></target>
+</trans-unit>
+</group>
+<group id="g248">
+<trans-unit id="e83c049b-9d6a-46a7-a13e-84fc54f283cd" xml:space="preserve">
+<source xml:lang="en-US"><bx id="162"/>Selected Stories<ex id="162"/></source>
+<seg-source><bx id="162"/><mrk mid="280" mtype="seg">Selected Stories</mrk><ex id="162"/></seg-source>
+<target xml:lang="fr-FR"><bx id="162"/><mrk mid="280" mtype="seg">_Pharmacien plaquette_</mrk><ex id="162"/></target>
+</trans-unit>
+</group>
+<group id="g249">
+<trans-unit id="4d028801-c077-4a06-b0cc-ccb2f5fc2433" xml:space="preserve">
+<source xml:lang="en-US"><bx id="163"/>Kids Bedtime Stories<ex id="163"/></source>
+<seg-source><bx id="163"/><mrk mid="281" mtype="seg">Kids Bedtime Stories</mrk><ex id="163"/></seg-source>
+<target xml:lang="fr-FR"><bx id="163"/><mrk mid="281" mtype="seg">_Arôme largement intervenu_</mrk><ex id="163"/></target>
+</trans-unit>
+</group>
+<group id="g250">
+<trans-unit id="55b54037-876c-4335-8f29-80f0b0b6b516" xml:space="preserve">
+<source xml:lang="en-US">Hindi</source>
+<seg-source><mrk mid="282" mtype="seg">Hindi</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="282" mtype="seg">_Avancée_</mrk></target>
+</trans-unit>
+</group>
+<group id="g251">
+<trans-unit id="b32c1eb0-46a5-48a5-8062-7cb81fdea5b7" xml:space="preserve">
+<source xml:lang="en-US"><bx id="164"/>Stories<ex id="164"/></source>
+<seg-source><bx id="164"/><mrk mid="283" mtype="seg">Stories</mrk><ex id="164"/></seg-source>
+<target xml:lang="fr-FR"><bx id="164"/><mrk mid="283" mtype="seg">_Assignées_</mrk><ex id="164"/></target>
+</trans-unit>
+</group>
+<group id="g252">
+<trans-unit id="56c4bdfd-b244-42c1-a039-5bf9dab8d86c" xml:space="preserve">
+<source xml:lang="en-US"><bx id="165"/>Poems<ex id="165"/></source>
+<seg-source><bx id="165"/><mrk mid="284" mtype="seg">Poems</mrk><ex id="165"/></seg-source>
+<target xml:lang="fr-FR"><bx id="165"/><mrk mid="284" mtype="seg">_Remplie_</mrk><ex id="165"/></target>
+</trans-unit>
+</group>
+<group id="g253">
+<trans-unit id="12289306-8e01-4e01-8cc5-3b57efc7fe07" xml:space="preserve">
+<source xml:lang="en-US"><bx id="166"/>Articles<ex id="166"/></source>
+<seg-source><bx id="166"/><mrk mid="285" mtype="seg">Articles</mrk><ex id="166"/></seg-source>
+<target xml:lang="fr-FR"><bx id="166"/><mrk mid="285" mtype="seg">_Suspension_</mrk><ex id="166"/></target>
+</trans-unit>
+</group>
+<group id="g254">
+<trans-unit id="c4ea79ff-1221-4044-8353-08db6de3ee93" xml:space="preserve">
+<source xml:lang="en-US"><bx id="167"/>Write in Hindi<ex id="167"/></source>
+<seg-source><bx id="167"/><mrk mid="286" mtype="seg">Write in Hindi</mrk><ex id="167"/></seg-source>
+<target xml:lang="fr-FR"><bx id="167"/><mrk mid="286" mtype="seg">_Potasse IER annexes_</mrk><ex id="167"/></target>
+</trans-unit>
+</group>
+<group id="g255">
+<trans-unit id="e42d1131-e80a-4644-bad5-8bec6d55dc3c" xml:space="preserve">
+<source xml:lang="en-US">YSC Newsletter</source>
+<seg-source><mrk mid="287" mtype="seg">YSC Newsletter</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="287" mtype="seg">_Peut préemballages_</mrk></target>
+</trans-unit>
+</group>
+<group id="g256">
+<trans-unit id="3b28d3a4-527c-44c4-9e6b-7181f7f32a8a" xml:space="preserve">
+<source xml:lang="en-US">Your email address</source>
+<seg-source><mrk mid="288" mtype="seg">Your email address</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="288" mtype="seg">_VERTS SEPARES Amendment_</mrk></target>
+</trans-unit>
+</group>
+<group id="g257">
+<trans-unit id="11eb1d78-8151-4c66-8dab-7e6186a26e12" xml:space="preserve">
+<source xml:lang="en-US">Subscribe</source>
+<seg-source><mrk mid="289" mtype="seg">Subscribe</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="289" mtype="seg">_Dessiccateur_</mrk></target>
+</trans-unit>
+</group>
+<group id="g258">
+<trans-unit id="c60c39bb-af65-4067-bff4-913c788d99cc" xml:space="preserve">
+<source xml:lang="en-US"><bx id="168"/>Your email address<ex id="168"/><x id="169"/> <x id="170"/></source>
+<seg-source><bx id="168"/><mrk mid="290" mtype="seg">Your email address</mrk><ex id="168"/><x id="169"/> <x id="170"/></seg-source>
+<target xml:lang="fr-FR"><bx id="168"/><mrk mid="290" mtype="seg">_QU'EN observé versement_</mrk><ex id="168"/><x id="169"/> <x id="170"/></target>
+</trans-unit>
+</group>
+<group id="g259">
+<trans-unit id="e4934417-8e25-4c54-99f7-cc4d69828456" xml:space="preserve">
+<source xml:lang="en-US"><g id="171">Moral</g> | <g id="172">Love</g> | <g id="173">Romance</g> | <g id="174">Children</g> | <g id="175">Funny</g> | <g id="176">Suspense</g> | <g id="177">Friendship</g> | <g id="178">School and Colleage</g> | <g id="179">Sci-Fi</g> | <g id="180">Inspirational</g> | <g id="181">Family</g> | <g id="182">Poetry</g> | <g id="183">Travel Experience</g></source>
+<seg-source><mrk mid="291" mtype="seg"><g id="171">Moral</g> | <g id="172">Love</g> | <g id="173">Romance</g> | <g id="174">Children</g> | <g id="175">Funny</g> | <g id="176">Suspense</g> | <g id="177">Friendship</g> | <g id="178">School and Colleage</g> | <g id="179">Sci-Fi</g> | <g id="180">Inspirational</g> | <g id="181">Family</g> | <g id="182">Poetry</g> | <g id="183">Travel Experience</g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="291" mtype="seg">_<g id="171">ENERGIE</g> è <g id="172">nommé</g> è <g id="173">transféré</g> à <g id="174">provisions</g> è <g id="175">estimée</g> è <g id="176">instaurant</g> è <g id="177">appartiennent</g> è <g id="178">clinique TETE permettent</g> è <g id="179">vent-XVI</g> è <g id="180">approximativement</g> è <g id="181">position</g> à <g id="182">auxquels</g> è <g id="183">émulsion GEOGRAPHIQUES</g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g260">
+<trans-unit id="e2b544d8-716b-4d27-b676-212c0c1ec09c" xml:space="preserve">
+<source xml:lang="en-US"><g id="184">Home</g> | <g id="185">About Us</g> | <g id="186">FAQ</g> | <g id="187">Contact Us</g> | <g id="188">Terms of Service</g> | <g id="189">Privacy Policy</g></source>
+<seg-source><mrk mid="292" mtype="seg"><g id="184">Home</g> | <g id="185">About Us</g> | <g id="186">FAQ</g> | <g id="187">Contact Us</g> | <g id="188">Terms of Service</g> | <g id="189">Privacy Policy</g></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="292" mtype="seg">_<g id="184">Avise</g> è <g id="185">nullité Pot</g> è <g id="186">iode</g> è <g id="187">activités UDE</g> è <g id="188">nullité RAS exemption</g> à <g id="189">accordent déclarée</g>_</mrk></target>
+</trans-unit>
+</group>
+<group id="g261">
+<trans-unit id="b4e241a7-91b3-434e-a74f-14c189b1b22f" xml:space="preserve">
+<source xml:lang="en-US">Copyright © 2019 · <g id="190">YourStoryClub.com</g> · - Online Short Story Publisher</source>
+<seg-source><mrk mid="293" mtype="seg">Copyright © 2019 · <g id="190">YourStoryClub.com</g> · - Online Short Story Publisher</mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="293" mtype="seg">_Vingt-quatre è 2019 · <g id="190">physico-chimiques.Ceci</g> · - aveugles assiste confère particulière_</mrk></target>
+</trans-unit>
+</group>
+<group id="g262">
+<trans-unit id="c9de732e-7e36-4220-8cf1-f5340985a67c" xml:space="preserve">
+<source xml:lang="en-US"></source>
+<seg-source><mrk mid="294" mtype="seg"></mrk></seg-source>
+<target xml:lang="fr-FR"><mrk mid="294" mtype="seg">__</mrk></target>
+</trans-unit>
+</group>
+<group id="g263">
+</group>
+</body>
+</file>
+</xliff>
