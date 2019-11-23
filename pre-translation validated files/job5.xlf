@@ -1,0 +1,1789 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-US" trgLang="fr-FR" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/C:/Users/adria/Downloads/quotes-friends-short-story-illusion-of-zero (1).html">
+  <unit id="tu1" type="okp:title">
+   <segment>
+    <source>The Illusion of 'Zero' - Friends Short Story</source>
+   </segment>
+  </unit>
+  <unit id="tu2" type="okp:content">
+   <segment>
+    <source>Friends Short Story: He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness</source>
+   </segment>
+  </unit>
+  <unit id="tu3" type="okp:title">
+   <segment>
+    <source>Your Story Club » Feed</source>
+   </segment>
+  </unit>
+  <unit id="tu4" type="okp:title">
+   <segment>
+    <source>Your Story Club » Comments Feed</source>
+   </segment>
+  </unit>
+  <unit id="tu5" type="okp:title">
+   <segment>
+    <source>Your Story Club » The Illusion of ‘Zero’ Comments Feed</source>
+   </segment>
+  </unit>
+  <unit id="tu6" type="okp:title">
+   <segment>
+    <source>RSD</source>
+   </segment>
+  </unit>
+  <unit id="tu7">
+   <originalData>
+    <data id="d1">[#$dp18]</data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu9" type="okp:title">
+   <segment>
+    <source>Go to Home Page</source>
+   </segment>
+  </unit>
+  <unit id="tu8" name="menu-item-429-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp20]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Home</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu11" type="okp:title">
+   <segment>
+    <source>Read About Us</source>
+   </segment>
+  </unit>
+  <unit id="tu10" name="menu-item-431-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp23]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">About Us</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu13" type="okp:title">
+   <segment>
+    <source>We love to hear from you</source>
+   </segment>
+  </unit>
+  <unit id="tu12" name="menu-item-432-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp26]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu13" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Contact Us</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu15" type="okp:title">
+   <segment>
+    <source>Frequently Asked Questions</source>
+   </segment>
+  </unit>
+  <unit id="tu14" name="menu-item-430-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp29]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu15" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">FAQ</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu17" type="okp:title">
+   <segment>
+    <source>Login</source>
+   </segment>
+  </unit>
+  <unit id="tu16" name="menu-item-login-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp32]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu17" dataRefEnd="d2" dataRefStart="d1">Login</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu19" type="okp:title">
+   <segment>
+    <source>Register for free</source>
+   </segment>
+  </unit>
+  <unit id="tu18" name="menu-item-register-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp34]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu19" dataRefEnd="d2" dataRefStart="d1">Register</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu20" type="okp:h1">
+   <originalData>
+    <data id="d1">[#$dp37]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your Story Club</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu21" type="okp:paragraph">
+   <segment>
+    <source>Short Story Publisher</source>
+   </segment>
+  </unit>
+  <unit id="tu22" name="categories-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu23" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;select  name='cat' id='cat' class='postform'  onchange='return this.form.submit()'></data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu24">
+   <segment>
+    <source>Select Story Category</source>
+   </segment>
+  </unit>
+  <unit id="tu25">
+   <segment>
+    <source>Book Review  (2)</source>
+   </segment>
+  </unit>
+  <unit id="tu26">
+   <segment>
+    <source>Childhood and Kids  (547)</source>
+   </segment>
+  </unit>
+  <unit id="tu27">
+   <segment>
+    <source>Editorial  (13)</source>
+   </segment>
+  </unit>
+  <unit id="tu28">
+   <segment>
+    <source>Family  (1,204)</source>
+   </segment>
+  </unit>
+  <unit id="tu29">
+   <segment>
+    <source>Friends  (447)</source>
+   </segment>
+  </unit>
+  <unit id="tu30">
+   <segment>
+    <source>Funny and Hilarious  (431)</source>
+   </segment>
+  </unit>
+  <unit id="tu31">
+   <segment>
+    <source>Love and Romance  (2,168)</source>
+   </segment>
+  </unit>
+  <unit id="tu32">
+   <segment>
+    <source>Paranormal Experience  (282)</source>
+   </segment>
+  </unit>
+  <unit id="tu33">
+   <segment>
+    <source>Poetry  (1,069)</source>
+   </segment>
+  </unit>
+  <unit id="tu34">
+   <segment>
+    <source>School and College  (238)</source>
+   </segment>
+  </unit>
+  <unit id="tu35">
+   <segment>
+    <source>Science Fiction  (210)</source>
+   </segment>
+  </unit>
+  <unit id="tu36">
+   <segment>
+    <source>Social and Moral  (2,307)</source>
+   </segment>
+  </unit>
+  <unit id="tu37">
+   <segment>
+    <source>Suspense and Thriller  (971)</source>
+   </segment>
+  </unit>
+  <unit id="tu38">
+   <segment>
+    <source>Travel  (54)</source>
+   </segment>
+  </unit>
+  <unit id="tu39">
+   <segment>
+    <source>Your Story  (19)</source>
+   </segment>
+  </unit>
+  <unit id="tu40">
+   <originalData>
+    <data id="d1">&lt;/select></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu41" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu43" type="okp:value">
+   <segment>
+    <source>View</source>
+   </segment>
+  </unit>
+  <unit id="tu42">
+   <originalData>
+    <data id="d1">&lt;br /></data>
+    <data id="d2">&lt;input type="submit" [#$tu43] /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" subFlows="tu43" dataRef="d2"/><ph id="3" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu45" type="okp:title">
+   <segment>
+    <source>Read stories &amp; poems</source>
+   </segment>
+  </unit>
+  <unit id="tu44" name="menu-item-140730-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp67]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu45" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Read</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu47" type="okp:title">
+   <segment>
+    <source>Publish your stories</source>
+   </segment>
+  </unit>
+  <unit id="tu46" name="menu-item-140731-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp70]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu47" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Publish</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu49" type="okp:title">
+   <segment>
+    <source>Read editorials</source>
+   </segment>
+  </unit>
+  <unit id="tu48" name="menu-item-141342-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp73]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu49" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Editorial</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu51" type="okp:title">
+   <segment>
+    <source>Search story from listing</source>
+   </segment>
+  </unit>
+  <unit id="tu50" name="menu-item-141066-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp76]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu51" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Story Archive</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu53" type="okp:title">
+   <segment>
+    <source>Participate in discussion forum</source>
+   </segment>
+  </unit>
+  <unit id="tu52" name="menu-item-140735-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp79]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu53" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Discussion</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu55" type="okp:title">
+   <segment>
+    <source>Read what our writers say about us</source>
+   </segment>
+  </unit>
+  <unit id="tu54" name="menu-item-140736-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp82]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu55" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Testimonials</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu56">
+   <originalData>
+    <data id="d1">&lt;span></data>
+    <data id="d2">[#$dp85]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp86]</data>
+    <data id="d5">[#$dp87]</data>
+    <data id="d6">&lt;span class="breadcrumb_last" aria-current="page"></data>
+    <data id="d7">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source>You are reading story at: <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">yourstoryclub</pc> » <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="5" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">Most Popular Short Stories</pc> » <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="7" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d5">Friends Short Stories</pc> » <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d6">The Illusion of ‘Zero’</pc></pc></pc></pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu57" type="okp:h1">
+   <segment>
+    <source>The Illusion of ‘Zero’</source>
+   </segment>
+  </unit>
+  <unit id="tu58">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"></data>
+    <data id="d2">[#$dp90]</data>
+    <data id="d3">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu59" type="okp:paragraph">
+   <segment>
+    <source>English Short Story published on</source>
+   </segment>
+  </unit>
+  <unit id="tu60">
+   <segment>
+    <source>September 30, 2012</source>
+   </segment>
+  </unit>
+  <unit id="tu61">
+   <originalData>
+    <data id="d1">&lt;span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"></data>
+    <data id="d2">[#$dp93]</data>
+    <data id="d3">&lt;span class="entry-author-name" itemprop="name"></data>
+    <data id="d4">&lt;/span></data>
+    <data id="d5">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>by <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d2"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">anukrish</pc></pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu62">
+   <originalData>
+    <data id="d1">&lt;strong></data>
+    <data id="d2">&lt;/strong></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Excerpt: </pc>He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness</source>
+   </segment>
+  </unit>
+  <unit id="tu63" type="okp:td">
+   <segment>
+    <source>Creative Writing Competition 2012 India</source>
+   </segment>
+  </unit>
+  <unit id="tu64" type="okp:td">
+   <segment>
+    <source>CODE</source>
+   </segment>
+  </unit>
+  <unit id="tu65" type="okp:td">
+   <segment>
+    <source>385</source>
+   </segment>
+  </unit>
+  <unit id="tu66" type="okp:td">
+   <segment>
+    <source>SETTING</source>
+   </segment>
+  </unit>
+  <unit id="tu67" type="okp:td">
+   <segment>
+    <source>College Canteen OR Restaurant</source>
+   </segment>
+  </unit>
+  <unit id="tu68" type="okp:td">
+   <segment>
+    <source>OBJECT</source>
+   </segment>
+  </unit>
+  <unit id="tu69" type="okp:td">
+   <segment>
+    <source>Chocolate</source>
+   </segment>
+  </unit>
+  <unit id="tu70" type="okp:td">
+   <segment>
+    <source>THEME</source>
+   </segment>
+  </unit>
+  <unit id="tu71" type="okp:td">
+   <segment>
+    <source>Remorse</source>
+   </segment>
+  </unit>
+  <unit id="tu73" type="okp:title">
+   <segment>
+    <source>The Illusion of 'Zero' - Friends Short Story</source>
+   </segment>
+  </unit>
+  <unit id="tu74" type="okp:alt">
+   <segment>
+    <source>Friends-Short-Story-chocolate</source>
+   </segment>
+  </unit>
+  <unit id="tu72">
+   <originalData>
+    <data id="d1">[#$dp116]</data>
+    <data id="d2">[#$dp117]</data>
+    <data id="d3">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu73 tu74" dataRef="d2"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu75" name="caption-attachment-8593-id" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /></data>
+    <data id="d2">[#$dp118]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp119]</data>
+   </originalData>
+   <segment>
+    <source>The Illusion of ‘Zero’ – Friends Short Story<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/>Photo credit: <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Alvimann</pc> from <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">morguefile.com</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu76" type="okp:paragraph">
+   <segment>
+    <source>He sits by the side walk, head low and drooping shoulders with certainly a remorseful look on the face that emerged from of a moment of weakness transforming a well evolved relationship into a meaningless and strange entity in an illusionary world…</source>
+   </segment>
+  </unit>
+  <unit id="tu77" type="okp:paragraph">
+   <segment>
+    <source>The sweaty summer of 1978 in Mumbai wreaks unpleasantness and engulfs the sweet innocence of the teenage congregation at the college canteen with a mercurial high of 38 degrees in the month of May. Cold drinks are being passed around by the canteen boy, Chotu who doubles up as an entertainer; he sings popular Hindi songs and breaks into a jig once in a while. The applause he receives resonates in the small, dimly lit room that can house no more than twenty people but now holding fifty people; some sitting on the window ledges and some on the floor.</source>
+   </segment>
+  </unit>
+  <unit id="tu78" type="okp:paragraph">
+   <segment>
+    <source>The â€˜heartâ€™ of the college is this canteen where inventions are created by the â€˜Nobel Laureateâ€™ types and hearts are broken and mended by the â€˜Love Sickâ€™ types. There is also room for the ones who donâ€™t belong to either ends of the spectrum and struggle with all their might to stay neutral to stay in tandem with their rational minds.</source>
+   </segment>
+  </unit>
+  <unit id="tu79" type="okp:paragraph">
+   <segment>
+    <source>â€œHello, so do you want to go for a movie after Economics Class?â€� asks Ravi, a lanky lad who sports cheap imitation clothes emulating film actors. All of 19, he exhibits an attitude of an aspiring movie star though his parents struggle through the month to keep their heads above water.</source>
+   </segment>
+  </unit>
+  <unit id="tu80" type="okp:paragraph">
+   <segment>
+    <source>â€œNot today. I promised that I would pay the electricity bill on the way back home from college,â€� replies Ashok whose attitude is defined by middle class values which seldom gets messed owing to lack of exposure and an in built animosity to anything remotely against it.</source>
+   </segment>
+  </unit>
+  <unit id="tu81" type="okp:paragraph">
+   <segment>
+    <source>Still the two pals get along like a house on fire with Ravi doing most of the talking and planning and Ashok tagging along with few mumbles and smiles.</source>
+   </segment>
+  </unit>
+  <unit id="tu82" type="okp:paragraph">
+   <segment>
+    <source>â€œCome on Ashok, do that tomorrow,â€� says Ravi urging Ashok.</source>
+   </segment>
+  </unit>
+  <unit id="tu83" type="okp:paragraph">
+   <segment>
+    <source>â€œNo, I canâ€™t do that; the electricity at home will be cut,â€� says Ashok in a convincing manner.</source>
+   </segment>
+  </unit>
+  <unit id="tu84" type="okp:paragraph">
+   <segment>
+    <source>â€œAlways doing things for home,â€� says Ravi and together they walk toward two chairs around a table that had just been cleared.</source>
+   </segment>
+  </unit>
+  <unit id="tu85" type="okp:paragraph">
+   <segment>
+    <source>â€œSo whatâ€™s todayâ€™s number?â€� asks Ashok excitedly.</source>
+   </segment>
+  </unit>
+  <unit id="tu86" type="okp:paragraph">
+   <segment>
+    <source>â€œWait till I open the chocolate wrapper,â€� replies Ravi unwrapping the outer plastic cover of the chocolate to reveal a white paper wrap underneath. The number â€˜5â€™ is cited on the white paper and he announces, â€œItâ€™s 5.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu87" type="okp:paragraph">
+   <segment>
+    <source>â€œLet me see the number on my coupon,â€� says Ashok very excitedly and searches his wallet and brings out a blue folded piece of lottery ticket. â€œThe first number is 5 on my ticket as well!â€� he says excitedly.</source>
+   </segment>
+  </unit>
+  <unit id="tu88" type="okp:paragraph">
+   <segment>
+    <source>Ravi, the boisterous of the two jumps and does a cart wheeling jig to display his thrill.</source>
+   </segment>
+  </unit>
+  <unit id="tu89" type="okp:paragraph">
+   <segment>
+    <source>â€œLetâ€™s not be happy so soon. I still have more four numbers to go,â€� warns Ashok.</source>
+   </segment>
+  </unit>
+  <unit id="tu90" type="okp:paragraph">
+   <segment>
+    <source>But Ravi didnâ€™t listen to any of what Ashok is saying and continues his histrionics.</source>
+   </segment>
+  </unit>
+  <unit id="tu91" type="okp:paragraph">
+   <segment>
+    <source>The following day as is the usual norm they meet during the lunch break at the canteen. There is an ambient noise coming from the radio and seems a bit muffled to decipher what it was actually playing. Surprisingly, they find a table close to the window which overlooks the ladiesâ€™ common room and Ravi is happy eyeing the new entrants of the year.</source>
+   </segment>
+  </unit>
+  <unit id="tu92" type="okp:paragraph">
+   <segment>
+    <source>â€œLook at the one with the purple dress; sheâ€™s so cute!â€� says Ravi without even taking his eyes off her.</source>
+   </segment>
+  </unit>
+  <unit id="tu93" type="okp:paragraph">
+   <segment>
+    <source>â€œIâ€™m sure she is! Did you buy the chocolate?â€� asks Ashok somewhat irritated.</source>
+   </segment>
+  </unit>
+  <unit id="tu94" type="okp:paragraph">
+   <segment>
+    <source>â€œWhat chocolate?â€� replies Ravi still ogling at the many â€˜colourful wondersâ€™ as he would call them.</source>
+   </segment>
+  </unit>
+  <unit id="tu95" type="okp:paragraph">
+   <segment>
+    <source>â€œRavi!â€� screams Ashok and makes sure his tone gets Ravi into the present state.</source>
+   </segment>
+  </unit>
+  <unit id="tu96" type="okp:paragraph">
+   <segment>
+    <source>â€œHuh? Sorry, yes and you were saying? Ah, yes, the chocolate!â€� says Ravi sporting an impish grin on his face.</source>
+   </segment>
+  </unit>
+  <unit id="tu97" type="okp:paragraph">
+   <segment>
+    <source>Knowing the ways of his friend, Ashok breaks into a giggle and takes out the coupon from his pocket. Their understanding was that Ravi would buy the chocolate from the money that Ashok had given him by saving on the bus fares back home; he had been walking back from the bus stop everyday for the past few weeks to awaken Lady Luck and make her shine on him. And he held the coupon which came as a part of a jam bottle. The shopkeeper had commented that Ashok had a face which has the capability to invite Lady Luck to be by his side. The coupon that he was currently holding was valid for another week and he needed four numbers tallying with the numbers on the white wrappers of â€˜Snow Whiteâ€™ chocolates to claim the prize money of Rs. 20,000.</source>
+   </segment>
+  </unit>
+  <unit id="tu98" type="okp:paragraph">
+   <segment>
+    <source>â€œThe number is 7,â€� says Ravi excitedly as he reveals the white wrapper to Ashok.</source>
+   </segment>
+  </unit>
+  <unit id="tu99" type="okp:paragraph">
+   <segment>
+    <source>â€œItâ€™s 7 here as well! But can you not make such a big deal by advertising the chocolate here? What will the girls think when they know that Iâ€™m digging into â€˜Snow Whiteâ€™ chocolates every day?â€� asks Ashok.</source>
+   </segment>
+  </unit>
+  <unit id="tu100" type="okp:paragraph">
+   <segment>
+    <source>â€œWhen you win the prize money, they will make up your fan following,â€� says Ravi with a twinkle in his eye. He continues, â€œWhat are you going to do with the money?â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu101" type="okp:paragraph">
+   <segment>
+    <source>â€œIâ€™m three numbers away, Ravi,â€� says Ashok in a cautious tone.</source>
+   </segment>
+  </unit>
+  <unit id="tu102" type="okp:paragraph">
+   <segment>
+    <source>â€œYes, but still tell me,â€� urges Ravi.</source>
+   </segment>
+  </unit>
+  <unit id="tu103" type="okp:paragraph">
+   <segment>
+    <source>â€œI can use it to study further to become a lawyer and fulfil the dreams of my parents,â€� says Ashok with a forlorn look in his eyes.</source>
+   </segment>
+  </unit>
+  <unit id="tu104" type="okp:paragraph">
+   <segment>
+    <source>â€œThatâ€™s the plan?â€� asks Ravi in a dismissive manner.</source>
+   </segment>
+  </unit>
+  <unit id="tu105" type="okp:paragraph">
+   <segment>
+    <source>â€œIt may not seem important to you, but I want to see my parents happy,â€� stresses Ashok looking at Ravi who is now busy devouring the chocolate oblivious to the emotional state of mind that his friend is in.</source>
+   </segment>
+  </unit>
+  <unit id="tu106" type="okp:paragraph">
+   <segment>
+    <source>â€œExcellent chocolate!â€� says Ravi licking the wrapper.</source>
+   </segment>
+  </unit>
+  <unit id="tu107" type="okp:paragraph">
+   <segment>
+    <source>â€œCan you be a little discreet?â€� asks Ashok nodding his head in disapproval.</source>
+   </segment>
+  </unit>
+  <unit id="tu108" type="okp:paragraph">
+   <segment>
+    <source>Ravi lets out a little giggle and says, â€œYes, Mr. Lawyer!â€� and they walk out of the canteen.</source>
+   </segment>
+  </unit>
+  <unit id="tu109" type="okp:paragraph">
+   <segment>
+    <source>The afternoon heat the next day is excruciating as most of the students at the canteen are holding bottles of cold drinks and sipping away at a rate fast enough for the canteen owner to order Chotu to pull out another crate from the attic to be able to cool it in the fridge.</source>
+   </segment>
+  </unit>
+  <unit id="tu110" type="okp:paragraph">
+   <segment>
+    <source>â€œMother is ill, so I must go home early today,â€� says Ashok.</source>
+   </segment>
+  </unit>
+  <unit id="tu111" type="okp:paragraph">
+   <segment>
+    <source>â€œChotu, get a bottle of Thums Up for our lawyer saab here,â€� says Ravi summoning the canteen boy who hurries to obey the orders.</source>
+   </segment>
+  </unit>
+  <unit id="tu112" type="okp:paragraph">
+   <segment>
+    <source>â€œI have no time to sit down and gossip, so whatâ€™s the number?â€� asks Ashok stomping his feet in impatience.</source>
+   </segment>
+  </unit>
+  <unit id="tu113" type="okp:paragraph">
+   <segment>
+    <source>â€œLawyers have to learn patience, my friend. Cases can drag on for years,â€� giggles Ravi. â€œSit down and weâ€™ll share the surprise together and he starts to unwrap their hopes; the chocolate.</source>
+   </segment>
+  </unit>
+  <unit id="tu114" type="okp:paragraph">
+   <segment>
+    <source>â€œNumber 9 for you,â€� says Ravi and puts the white wrapper on the table.</source>
+   </segment>
+  </unit>
+  <unit id="tu115" type="okp:paragraph">
+   <segment>
+    <source>The tea arrives and between sips Ashok brings his lottery ticket close to his eyes and says, â€œYes, its 9 here as well!â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu116" type="okp:paragraph">
+   <segment>
+    <source>The pact was that Ashok would reveal the coupon to his friend only on the last day as his superstition had it that lady Luck does not like to reveal herself in the fear of being doubted at; so he might just displease her.</source>
+   </segment>
+  </unit>
+  <unit id="tu117" type="okp:paragraph">
+   <segment>
+    <source>â€œIâ€™ll have to rush home, see you tomorrow here at lunch time. I will be taking mother to the doctor in the morning. Donâ€™t forget to bring the chocolate!â€� says Ashok rushing out of the canteen.</source>
+   </segment>
+  </unit>
+  <unit id="tu118" type="okp:paragraph">
+   <segment>
+    <source>Now Ravi is left by himself to munch on the chocolate in the manner he deems fit without being commented upon. The canteen slowly starts overflowing with the girls rehearsing for the college play to be held the following week. With no one to reprimand his childish behaviour, Ravi asks for another Thums Up and lets his eyes pan the entire canteen; from the entrance to the dark corner facing him and from the payment counter to the girls sitting in the middle of the canteen and giggling loudly. Ravi pulls up his collar aping his favourite movie star and starts walking towards the girlsâ€™ tables to make an impression.</source>
+   </segment>
+  </unit>
+  <unit id="tu119" type="okp:paragraph">
+   <segment>
+    <source>The next day brings Ashok to the canteen with the wrinkles on his forehead manifesting the muddle in his head.</source>
+   </segment>
+  </unit>
+  <unit id="tu120" type="okp:paragraph">
+   <segment>
+    <source>â€œHowâ€™s aunty?â€� asks Ravi sitting at their usual place at the canteen.</source>
+   </segment>
+  </unit>
+  <unit id="tu121" type="okp:paragraph">
+   <segment>
+    <source>â€œThe doctor says it could be hypertension. She is worried about getting didi married,â€� replies Ashok sounding concerned.</source>
+   </segment>
+  </unit>
+  <unit id="tu122" type="okp:paragraph">
+   <segment>
+    <source>â€œDonâ€™t worry, letâ€™s see if Lady Luck is on your side today as well,â€� urges Ravi and starts unwrapping the chocolate.</source>
+   </segment>
+  </unit>
+  <unit id="tu123" type="okp:paragraph">
+   <segment>
+    <source>â€œNumber 8 for you!â€� says Ravi excitedly.</source>
+   </segment>
+  </unit>
+  <unit id="tu124" type="okp:paragraph">
+   <segment>
+    <source>â€œWow! 8 here as well,â€� says Ashok unable to contain his excitement.</source>
+   </segment>
+  </unit>
+  <unit id="tu125" type="okp:paragraph">
+   <segment>
+    <source>â€œJust one number to go. Why donâ€™t you tell me what it is? Iâ€™m curious and canâ€™t wait till tomorrow,â€� tells Ravi trying to get a peek at the lottery ticket.</source>
+   </segment>
+  </unit>
+  <unit id="tu126" type="okp:paragraph">
+   <segment>
+    <source>â€œDonâ€™t its inauspicious,â€� says Ashok scolding Ravi who is already laughing loudly.</source>
+   </segment>
+  </unit>
+  <unit id="tu127" type="okp:paragraph">
+   <segment>
+    <source>But his mind is set on knowing what Ashokâ€™s fate reveals. And when the mind is faced with stubbornness, it turns into a resolve to defeat the purpose it is against. â€œLook whoâ€™s there? Hello Prof. Sharma!â€� says Ravi and stands up from his chair to mark his respect for the oldest Professor of Economics in the college who also was revered by Ashok. The moment Ashok hears the Professorâ€™s name; he stands and looks behind him with his hands crossed behind his back. Ravi jumps at this opportunity and gets closer to the coupon in Ashokâ€™s hand and gets a glance at the last number and then sits back calmly in his chair.</source>
+   </segment>
+  </unit>
+  <unit id="tu128" type="okp:paragraph">
+   <segment>
+    <source>â€œWhere is Prof. Sharma?â€� he turns around and asks Ravi asks rather irritated.</source>
+   </segment>
+  </unit>
+  <unit id="tu129" type="okp:paragraph">
+   <segment>
+    <source>â€œHe was here a moment back. Sorry you didnâ€™t see him! But donâ€™t worry, we will be in his class shortly,â€� says Ravi with a straight face like nothing happened in last few seconds.</source>
+   </segment>
+  </unit>
+  <unit id="tu130" type="okp:paragraph">
+   <segment>
+    <source>â€œHmmm….â€� mutters Ashok, his mind still on his motherâ€™s health.</source>
+   </segment>
+  </unit>
+  <unit id="tu131" type="okp:paragraph">
+   <segment>
+    <source>They leave letting Lady Luck decide the course of action for the next day. Ashok is convinced that it will be his moment of glory as he has entrusted his hopes on his destiny that he is sure of and spends the night sleeping like a baby. Ravi on the other hand is restless with knowing he tricked Ashok and peeked at his destiny. Will Lady Luck be angry with them? Will she shine on Ashok?</source>
+   </segment>
+  </unit>
+  <unit id="tu132" type="okp:paragraph">
+   <segment>
+    <source>The bright morning seems different to Ravi as Ashok is one number away from the truth and he knows that he is looking at the last chocolate he would buy for Ashok. Temptations sweep him as he is fiddling with the chocolate in his hands. â€œShould I get a peek?â€� he mutters and then decides to ignore the impulsive side of his mind. He heads to college and sits through the lectures with his mind only on the outcome of their adventure which is to shape their destiny. â€œHis destiny!â€� Ravi corrects his mind. He scans the classroom scouting for Ashok who is nowhere in sight.</source>
+   </segment>
+  </unit>
+  <unit id="tu133" type="okp:paragraph">
+   <segment>
+    <source>The hours go by and Ravi gets impatient and pulls out the chocolate from his pocket. He heads towards the canteen and his surroundings seem different to him. Maybe itâ€™s his mind playing tricks on him; the ambient noise seems to dull around him. It falls silent and his mind seems to be talking to him. He hears it carefully and his hand again fiddles with the chocolate. â€œShould I or shouldnâ€™t I?â€� he asks silently. He could and pretend like nothing happened. He was an aspiring actor anyway, so Ashok wouldnâ€™t suspect him. Slowly the crowd at the canteen starts to thin down as the lunch hour is almost over. â€œWhere are you?â€� he mutters and taps his fingers on the table with his eyes fixed on the chocolate.</source>
+   </segment>
+  </unit>
+  <unit id="tu134" type="okp:paragraph">
+   <segment>
+    <source>And then after a good contemplation of an hour or so, he sees Ashok enter the canteen with a sombre look on his face and Ravi doesnâ€™t say anything. He hands him the white wrapper of luck and truth. Ashokâ€™s face falls. â€œ6? And I wanted a 0. Is that all my luck?â€� says Ashok and gives the coupon to Ravi. â€œNow you can see it! Lady Luck canâ€™t be angry with me anymore.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu135" type="okp:paragraph">
+   <segment>
+    <source>Weeks roll by and Ashokâ€™s appearance at college becomes a rarity; not that Ravi misses him.</source>
+   </segment>
+  </unit>
+  <unit id="tu136" type="okp:paragraph">
+   <segment>
+    <source>The tubes that are running back and forth from his mother paint a gory picture of the situation. The nurses are running in and out of the room and the doctor is putting down his observations on his writing pad.</source>
+   </segment>
+  </unit>
+  <unit id="tu137" type="okp:paragraph">
+   <segment>
+    <source>â€œWell, I got here as soon as I could. Howâ€™s aunty?â€� asks Ravi.</source>
+   </segment>
+  </unit>
+  <unit id="tu138" type="okp:paragraph">
+   <segment>
+    <source>â€œSheâ€™s going to need an operation to remove the clot from her brain. I needed the money, Ravi. I needed that money,â€� cries Ashok.</source>
+   </segment>
+  </unit>
+  <unit id="tu139" type="okp:paragraph">
+   <segment>
+    <source>Ravi comes out of the hospital and sits by the side walk with his head low and shoulders drooping. He searches his pocket and finds the keys to his guilt; the keys to his new, red car deflecting sunlight off its roof top, standing proudly next to him. He drops the keys on the hard cobbled pavement and along with it, two white wrappers with the number 6 which he had deceived Ashok with and the other one with his lucky number 0 on it which blinded him into an illusionary world.</source>
+   </segment>
+  </unit>
+  <unit id="tu140" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;strong></data>
+    <data id="d2">&lt;/strong></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">END</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu141" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp252]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp253]</data>
+    <data id="d4">[#$dp254]</data>
+    <data id="d5">[#$dp255]</data>
+    <data id="d6">[#$dp256]</data>
+    <data id="d7">[#$dp257]</data>
+    <data id="d8">[#$dp258]</data>
+    <data id="d9">[#$dp259]</data>
+   </originalData>
+   <segment>
+    <source>Read more English Short Story by <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">anukrish</pc> in category <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">Friends</pc> with tag <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">canteen</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">chocolate</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">coupon</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">CWCI-2012</pc> | <pc id="7" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d8">friend</pc> | <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d9">wrapper</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu142" type="okp:h4">
+   <segment>
+    <source>About the Author</source>
+   </segment>
+  </unit>
+  <unit id="tu143">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"></data>
+    <data id="d2">[#$dp264]</data>
+    <data id="d3">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu145" type="okp:title">
+   <segment>
+    <source>Read stories and poems published by anukrish</source>
+   </segment>
+  </unit>
+  <unit id="tu144" type="okp:h5">
+   <originalData>
+    <data id="d1">[#$dp265]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu145" dataRefEnd="d2" dataRefStart="d1">anukrish</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu146" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu147" name="reply-title-id" type="okp:h3">
+   <originalData>
+    <data id="d1">&lt;small></data>
+    <data id="d2">[#$dp270]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">&lt;/small></data>
+   </originalData>
+   <segment>
+    <source>Leave a Reply <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Cancel reply</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu148" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label></data>
+    <data id="d2">&lt;/label></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Connect with</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu150" type="okp:title">
+   <segment>
+    <source>Facebook</source>
+   </segment>
+  </unit>
+  <unit id="tu151" type="okp:alt">
+   <segment>
+    <source>Facebook</source>
+   </segment>
+  </unit>
+  <unit id="tu152" type="okp:title">
+   <segment>
+    <source>Google+</source>
+   </segment>
+  </unit>
+  <unit id="tu153" type="okp:alt">
+   <segment>
+    <source>Google+</source>
+   </segment>
+  </unit>
+  <unit id="tu154" type="okp:title">
+   <segment>
+    <source>Yahoo</source>
+   </segment>
+  </unit>
+  <unit id="tu155" type="okp:alt">
+   <segment>
+    <source>Yahoo</source>
+   </segment>
+  </unit>
+  <unit id="tu156" type="okp:title">
+   <segment>
+    <source>WordPress.com</source>
+   </segment>
+  </unit>
+  <unit id="tu157" type="okp:alt">
+   <segment>
+    <source>WordPress.com</source>
+   </segment>
+  </unit>
+  <unit id="tu149">
+   <originalData>
+    <data id="d1">[#$dp274]</data>
+    <data id="d2">[#$dp275]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp276]</data>
+    <data id="d5">[#$dp277]</data>
+    <data id="d6">[#$dp278]</data>
+    <data id="d7">[#$dp279]</data>
+    <data id="d8">[#$dp280]</data>
+    <data id="d9">[#$dp281]</data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu150" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu151" dataRef="d2"/></pc> <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu152" dataRefEnd="d3" dataRefStart="d4"><ph id="4" canCopy="no" canDelete="no" subFlows="tu153" dataRef="d5"/></pc> <pc id="5" canCopy="no" canDelete="no" subFlowsStart="tu154" dataRefEnd="d3" dataRefStart="d6"><ph id="6" canCopy="no" canDelete="no" subFlows="tu155" dataRef="d7"/></pc> <pc id="7" canCopy="no" canDelete="no" subFlowsStart="tu156" dataRefEnd="d3" dataRefStart="d8"><ph id="8" canCopy="no" canDelete="no" subFlows="tu157" dataRef="d9"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu158">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="client_id" value="208732099191642" /></data>
+    <data id="d2">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=facebook-callback" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></source>
+   </segment>
+  </unit>
+  <unit id="tu159">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=twitter" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu160">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=google" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu161">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=google-plus" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu162">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=yahoo" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu163">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=wordpress" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu164" type="okp:title">
+   <segment>
+    <source>WordPress</source>
+   </segment>
+  </unit>
+  <unit id="tu165" type="okp:paragraph">
+   <segment>
+    <source>Enter your WordPress.com blog URL</source>
+   </segment>
+  </unit>
+  <unit id="tu166">
+   <originalData>
+    <data id="d1">&lt;br /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu167" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span></data>
+    <data id="d2">&lt;/span></data>
+    <data id="d3">&lt;input class="wordpress_blog_url" size="15" value=""/></data>
+    <data id="d4">&lt;br /></data>
+    <data id="d5">[#$dp294]</data>
+    <data id="d6">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">http://</pc><ph id="2" canCopy="no" canDelete="no" dataRef="d3"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">.wordpress.com</pc> <ph id="4" canCopy="no" canDelete="no" dataRef="d4"/><ph id="5" canCopy="no" canDelete="no" dataRef="d4"/> <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d6" dataRefStart="d5">Proceed</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu168" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span id="email-notes"></data>
+    <data id="d2">&lt;/span></data>
+    <data id="d3">&lt;span class="required"></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address will not be published.</pc> Required fields are marked <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">*</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu169" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="comment"></data>
+    <data id="d2">&lt;/label></data>
+    <data id="d3">&lt;textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></data>
+    <data id="d4">&lt;/textarea></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Comment</pc> <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3"></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu170" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="author"></data>
+    <data id="d2">&lt;span class="required"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/label></data>
+    <data id="d5">&lt;input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Name <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">*</pc></pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   </segment>
+  </unit>
+  <unit id="tu171" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="email"></data>
+    <data id="d2">&lt;span class="required"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/label></data>
+    <data id="d5">&lt;input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Email <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">*</pc></pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   </segment>
+  </unit>
+  <unit id="tu172" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="url"></data>
+    <data id="d2">&lt;/label></data>
+    <data id="d3">&lt;input id="url" name="url" type="url" value="" size="30" maxlength="200" /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Website</pc> <ph id="2" canCopy="no" canDelete="no" dataRef="d3"/></source>
+   </segment>
+  </unit>
+  <unit id="tu174" type="okp:value">
+   <segment>
+    <source>yes</source>
+   </segment>
+  </unit>
+  <unit id="tu173" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" [#$tu174] /></data>
+    <data id="d2">&lt;label for="wp-comment-cookies-consent"></data>
+    <data id="d3">&lt;/label></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu174" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Save my name, email, and website in this browser for the next time I comment.</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu175">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="_mc4wp_subscribe_wp-comment-form" value="0" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu177" type="okp:value">
+   <segment>
+    <source>1</source>
+   </segment>
+  </unit>
+  <unit id="tu176" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label></data>
+    <data id="d2">&lt;input type="checkbox" name="_mc4wp_subscribe_wp-comment-form" [#$tu177] checked="checked" /></data>
+    <data id="d3">&lt;span></data>
+    <data id="d4">&lt;/span></data>
+    <data id="d5">&lt;/label></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu177" dataRef="d2"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">Subscribe to YSC newsletter</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu179" type="okp:value">
+   <segment>
+    <source>Post Comment</source>
+   </segment>
+  </unit>
+  <unit id="tu178" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input name="submit" type="submit" id="submit" class="submit" [#$tu179] /></data>
+    <data id="d2">&lt;input type='hidden' name='comment_post_ID' value='22070' id='comment_post_ID' /></data>
+    <data id="d3">&lt;input type='hidden' name='comment_parent' id='comment_parent' value='0' /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu179" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/> <ph id="3" canCopy="no" canDelete="no" dataRef="d3"/></source>
+   </segment>
+  </unit>
+  <unit id="tu180" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a12e7c7e6f" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu181" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="ak_js" name="ak_js" value="34"/></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu182" type="okp:aria-label">
+   <segment>
+    <source>Primary Sidebar</source>
+   </segment>
+  </unit>
+  <unit id="tu184" type="okp:placeholder">
+   <segment>
+    <source>Search this website …</source>
+   </segment>
+  </unit>
+  <unit id="tu185" type="okp:value">
+   <segment>
+    <source>Search</source>
+   </segment>
+  </unit>
+  <unit id="tu183">
+   <originalData>
+    <data id="d1">&lt;input itemprop="query-input" type="search" name="s" [#$tu184] /></data>
+    <data id="d2">&lt;input type="submit" [#$tu185]  /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu184" dataRef="d1"/><ph id="2" canCopy="no" canDelete="no" subFlows="tu185" dataRef="d2"/></source>
+   </segment>
+  </unit>
+  <unit id="tu186" type="okp:h4">
+   <segment>
+    <source>Write Short Story for Money</source>
+   </segment>
+  </unit>
+  <unit id="tu187">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"></data>
+    <data id="d2">[#$dp318]</data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;strong></data>
+    <data id="d5">&lt;/strong></data>
+    <data id="d6">[#$dp319]</data>
+    <data id="d7">&lt;/a></data>
+    <data id="d8">&lt;br></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc>Our writer <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d4">Ankit Raj Bachchan</pc> has won <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d4">INR 11000</pc>. Read <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d6">write short stories for money</pc> <ph id="6" canCopy="no" canDelete="no" dataRef="d8"/>Note: This scheme is called off e.f. 27-Aug-2017.</source>
+   </segment>
+  </unit>
+  <unit id="tu188" type="okp:h4">
+   <segment>
+    <source>Tip of the Day</source>
+   </segment>
+  </unit>
+  <unit id="tu189">
+   <originalData>
+    <data id="d1">[#$dp323]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp324]</data>
+   </originalData>
+   <segment>
+    <source>Literary superiority makes a short story famous but it must also reach the intended readers. Read easily doable <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">tips for short story authors</pc> to increase their online reader base. [<pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3"> Read all tips</pc>]</source>
+   </segment>
+  </unit>
+  <unit id="tu190" type="okp:h4">
+   <segment>
+    <source>Buy Our Book</source>
+   </segment>
+  </unit>
+  <unit id="tu192" type="okp:alt">
+   <segment>
+    <source>yours-lovingly-love-short-story-book</source>
+   </segment>
+  </unit>
+  <unit id="tu193" type="okp:title">
+   <segment>
+    <source>Buy on Flipkart</source>
+   </segment>
+  </unit>
+  <unit id="tu194" type="okp:title">
+   <segment>
+    <source>Buy on Amazon</source>
+   </segment>
+  </unit>
+  <unit id="tu191">
+   <originalData>
+    <data id="d1">[#$dp328]</data>
+    <data id="d2">[#$dp329]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp330]</data>
+    <data id="d5">&lt;!--BULLETIN BOARD END--></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu192" dataRef="d1"/>YourStoryClub.com presents Yours Lovingly, an exquisite collection of short love stories penned by different writers. Buy on <pc id="2" canCopy="no" canDelete="no" subFlowsStart="tu193" dataRefEnd="d3" dataRefStart="d2">Flipkart</pc> | <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu194" dataRefEnd="d3" dataRefStart="d4">Amazon</pc><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   </segment>
+  </unit>
+  <unit id="tu195" type="okp:h4">
+   <segment>
+    <source>YSC Newsletter</source>
+   </segment>
+  </unit>
+  <unit id="tu196">
+   <originalData>
+    <data id="d1">[#$dp334]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>Get notified of featured stories and important updates. [<pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Know more</pc>]</source>
+   </segment>
+  </unit>
+  <unit id="tu198" type="okp:placeholder">
+   <segment>
+    <source>Your email address</source>
+   </segment>
+  </unit>
+  <unit id="tu197" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="email" id="mc4wp_email" name="EMAIL" [#$tu198] required /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu198" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu200" type="okp:value">
+   <segment>
+    <source>Subscribe</source>
+   </segment>
+  </unit>
+  <unit id="tu199">
+   <originalData>
+    <data id="d1">&lt;input type="submit" [#$tu200] /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu200" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu201">
+   <originalData>
+    <data id="d1">&lt;label style="display: none !important;"></data>
+    <data id="d2">&lt;input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></data>
+    <data id="d3">&lt;/label></data>
+    <data id="d4">&lt;input type="hidden" name="_mc4wp_timestamp" value="1574340915" /></data>
+    <data id="d5">&lt;input type="hidden" name="_mc4wp_form_id" value="151770" /></data>
+    <data id="d6">&lt;input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1">Leave this field empty if you're human: <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc><ph id="3" canCopy="no" canDelete="no" dataRef="d4"/><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/><ph id="5" canCopy="no" canDelete="no" dataRef="d6"/></source>
+   </segment>
+  </unit>
+  <unit id="tu202" type="okp:h4">
+   <segment>
+    <source>Connect with us</source>
+   </segment>
+  </unit>
+  <unit id="tu203" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp340]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu204" name="social-email-2-id" type="okp:title">
+   <segment>
+    <source>Email</source>
+   </segment>
+  </unit>
+  <unit id="tu205">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu206" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp345]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu207" name="social-facebook-2-id" type="okp:title">
+   <segment>
+    <source>Facebook</source>
+   </segment>
+  </unit>
+  <unit id="tu208">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu209" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp350]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu210" name="social-gplus-2-id" type="okp:title">
+   <segment>
+    <source>Google+</source>
+   </segment>
+  </unit>
+  <unit id="tu211">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu212" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp355]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu213" name="social-linkedin-2-id" type="okp:title">
+   <segment>
+    <source>LinkedIn</source>
+   </segment>
+  </unit>
+  <unit id="tu214">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu215" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp360]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu216" name="social-rss-2-id" type="okp:title">
+   <segment>
+    <source>RSS</source>
+   </segment>
+  </unit>
+  <unit id="tu217">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu218" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp365]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu219" name="social-stumbleupon-2-id" type="okp:title">
+   <segment>
+    <source>StumbleUpon</source>
+   </segment>
+  </unit>
+  <unit id="tu220">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu221" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp370]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu222" name="social-tumblr-2-id" type="okp:title">
+   <segment>
+    <source>Tumblr</source>
+   </segment>
+  </unit>
+  <unit id="tu223">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu224" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp375]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu225" name="social-twitter-2-id" type="okp:title">
+   <segment>
+    <source>Twitter</source>
+   </segment>
+  </unit>
+  <unit id="tu226">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu227" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp380]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu228" name="social-youtube-2-id" type="okp:title">
+   <segment>
+    <source>YouTube</source>
+   </segment>
+  </unit>
+  <unit id="tu229">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu230" type="okp:h4">
+   <segment>
+    <source>Author’s Area</source>
+   </segment>
+  </unit>
+  <unit id="tu231" name="menu-item-140766-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp388]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Dashboard</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu232" name="menu-item-140767-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp391]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Profile</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu233" name="menu-item-140769-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp394]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Posts</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu234" name="menu-item-140770-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp397]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Comments</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu235" type="okp:h4">
+   <segment>
+    <source>How To</source>
+   </segment>
+  </unit>
+  <unit id="tu236" name="menu-item-140737-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp402]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Write short story</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu237" name="menu-item-140738-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp405]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Change name</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu238" name="menu-item-140739-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp408]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Change password</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu239" name="menu-item-140740-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp411]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Add profile image</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu240" type="okp:h4">
+   <segment>
+    <source>Story Contests</source>
+   </segment>
+  </unit>
+  <unit id="tu241" name="menu-item-140743-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp416]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Love Letter Contest</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu242" name="menu-item-140744-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp419]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Creative Writing</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu243" name="menu-item-140745-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp422]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Story from Picture</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu244" name="menu-item-140747-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp425]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Love Story Contest</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu245" type="okp:h4">
+   <segment>
+    <source>Featured</source>
+   </segment>
+  </unit>
+  <unit id="tu246" name="menu-item-140749-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp430]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Story of the Month</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu247" name="menu-item-140750-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp433]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Editor’s Choice</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu248" name="menu-item-140752-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp436]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Selected Stories</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu249" name="menu-item-141407-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp439]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Kids Bedtime Stories</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu250" type="okp:h4">
+   <segment>
+    <source>Hindi</source>
+   </segment>
+  </unit>
+  <unit id="tu251" name="menu-item-140771-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp444]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Stories</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu252" name="menu-item-140772-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp447]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Poems</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu253" name="menu-item-140773-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp450]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Articles</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu254" name="menu-item-141408-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp453]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Write in Hindi</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu255" type="okp:h4">
+   <segment>
+    <source>YSC Newsletter</source>
+   </segment>
+  </unit>
+  <unit id="tu257" type="okp:placeholder">
+   <segment>
+    <source>Your email address</source>
+   </segment>
+  </unit>
+  <unit id="tu258" type="okp:value">
+   <segment>
+    <source>Subscribe</source>
+   </segment>
+  </unit>
+  <unit id="tu256">
+   <originalData>
+    <data id="d1">&lt;label for="subbox" class="screenread"></data>
+    <data id="d2">&lt;/label></data>
+    <data id="d3">&lt;input type="email" value="" id="subbox" [#$tu257] name="EMAIL"
+																														required="required" /></data>
+    <data id="d4">&lt;input type="submit" [#$tu258] id="subbutton" /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address</pc><ph id="2" canCopy="no" canDelete="no" subFlows="tu257" dataRef="d3"/> <ph id="3" canCopy="no" canDelete="no" subFlows="tu258" dataRef="d4"/></source>
+   </segment>
+  </unit>
+  <unit id="tu259" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp459]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp460]</data>
+    <data id="d4">[#$dp461]</data>
+    <data id="d5">[#$dp462]</data>
+    <data id="d6">[#$dp463]</data>
+    <data id="d7">[#$dp464]</data>
+    <data id="d8">[#$dp465]</data>
+    <data id="d9">[#$dp466]</data>
+    <data id="d10">[#$dp467]</data>
+    <data id="d11">[#$dp468]</data>
+    <data id="d12">[#$dp469]</data>
+    <data id="d13">[#$dp470]</data>
+    <data id="d14">[#$dp471]</data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Moral</pc> | <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">Love</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">Romance</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Children</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">Funny</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Suspense</pc> | <pc id="7" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d8">Friendship</pc> | <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d9">School and Colleage</pc> | <pc id="9" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d10">Sci-Fi</pc> | <pc id="10" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d11">Inspirational</pc> | <pc id="11" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d12">Family</pc> | <pc id="12" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d13">Poetry</pc> | <pc id="13" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d14">Travel Experience</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu260" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp474]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp475]</data>
+    <data id="d4">[#$dp476]</data>
+    <data id="d5">[#$dp477]</data>
+    <data id="d6">[#$dp478]</data>
+    <data id="d7">[#$dp479]</data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Home</pc> | <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">About Us</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">FAQ</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Contact Us</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">Terms of Service</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Privacy Policy</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu261" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp481]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>Copyright © 2019 · <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">YourStoryClub.com</pc> · - Online Short Story Publisher</source>
+   </segment>
+  </unit>
+  <unit id="tu262" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu263">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="social_connect_login_form_uri" value="https://yourstoryclub.com/wp-login.php?wpe-login=true" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+ </file>
+</xliff>

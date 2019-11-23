@@ -1,0 +1,2224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="2.0" srcLang="en-US" trgLang="fr-FR" its:version="2.0">
+ <file id="f1" original="/C:/Users/adria/Desktop/fuck sake/quotes-family-short-story-sparrows (1).html">
+  <unit id="tu1" type="okp:title">
+   <segment state="final">
+    <source>The Sparrows - Short Story of Family Bonding</source>
+   <target>The Sparrows - Courte histoire de l'attachement familial</target>
+</segment>
+  </unit>
+  <unit id="tu2" type="okp:content">
+   <segment state="final">
+    <source>Family Short Story: We are an eco friendly lot and try our best to live in peace and friendship with other birds, insects, animals and the human around us..</source>
+   <target>Histoire courte de famille : Nous sommes un lot respectueux de l'environnement et faire de notre mieux pour vivre en paix et en amitié avec d'autres oiseaux, insectes, animaux et l'homme autour de nous..</target>
+</segment>
+  </unit>
+  <unit id="tu3" type="okp:title">
+   <segment state="final">
+    <source>Your Story Club » Feed</source>
+   <target>Your Story Club » Flux</target>
+</segment>
+  </unit>
+  <unit id="tu4" type="okp:title">
+   <segment state="final">
+    <source>Your Story Club » Comments Feed</source>
+   <target>Your Story Club » Commentaires Feed</target>
+</segment>
+  </unit>
+  <unit id="tu5" type="okp:title">
+   <segment state="final">
+    <source>Your Story Club » The Sparrows Comments Feed</source>
+   <target>Your Story Club » The Sparrows Comments Feed</target>
+</segment>
+  </unit>
+  <unit id="tu6" type="okp:title">
+   <segment state="final">
+    <source>RSD</source>
+   <target>RSD</target>
+</segment>
+  </unit>
+  <unit id="tu7">
+   <originalData>
+    <data id="d1">[#$dp18]</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu9" type="okp:title">
+   <segment state="final">
+    <source>Go to Home Page</source>
+   <target>Aller à la page d'accueil</target>
+</segment>
+  </unit>
+  <unit id="tu8" name="menu-item-429-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp20]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Home</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Accueil</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu11" type="okp:title">
+   <segment state="final">
+    <source>Read About Us</source>
+   <target>Lire à propos de nous</target>
+</segment>
+  </unit>
+  <unit id="tu10" name="menu-item-431-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp23]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">About Us</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Qui sommes-nous</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu13" type="okp:title">
+   <segment state="final">
+    <source>We love to hear from you</source>
+   <target>Nous aimons avoir de vos nouvelles</target>
+</segment>
+  </unit>
+  <unit id="tu12" name="menu-item-432-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp26]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu13" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Contact Us</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu13" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Contactez-nous</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu15" type="okp:title">
+   <segment state="final">
+    <source>Frequently Asked Questions</source>
+   <target>Questions fréquemment posées</target>
+</segment>
+  </unit>
+  <unit id="tu14" name="menu-item-430-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp29]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu15" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">FAQ</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu15" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">FAQ</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu17" type="okp:title">
+   <segment state="final">
+    <source>Login</source>
+   <target>connectez-vous</target>
+</segment>
+  </unit>
+  <unit id="tu16" name="menu-item-login-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp32]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu17" dataRefEnd="d2" dataRefStart="d1">Login</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu17" dataRefEnd="d2" dataRefStart="d1">connectez-vous</pc></target>
+</segment>
+  </unit>
+  <unit id="tu19" type="okp:title">
+   <segment state="final">
+    <source>Register for free</source>
+   <target>Inscrivez-vous gratuitement</target>
+</segment>
+  </unit>
+  <unit id="tu18" name="menu-item-register-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp34]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu19" dataRefEnd="d2" dataRefStart="d1">Register</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu19" dataRefEnd="d2" dataRefStart="d1">Registre</pc></target>
+</segment>
+  </unit>
+  <unit id="tu20" type="okp:h1">
+   <originalData>
+    <data id="d1">[#$dp37]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your Story Club</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Votre Club d’histoire</pc></target>
+</segment>
+  </unit>
+  <unit id="tu21" type="okp:paragraph">
+   <segment state="final">
+    <source>Short Story Publisher</source>
+   <target>Publier des cours histoires</target>
+</segment>
+  </unit>
+  <unit id="tu22" name="categories-id" type="okp:li">
+   <segment>
+    <source/>
+   <target></target>
+</segment>
+  </unit>
+  <unit id="tu23" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;select  name='cat' id='cat' class='postform'  onchange='return this.form.submit()'&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu24">
+   <segment state="final">
+    <source>Select Story Category</source>
+   <target>Sélectionnez la catégorie d'histoires</target>
+</segment>
+  </unit>
+  <unit id="tu25">
+   <segment state="final">
+    <source>Book Review  (2)</source>
+   <target>Critique de livre (2)</target>
+</segment>
+  </unit>
+  <unit id="tu26">
+   <segment state="final">
+    <source>Childhood and Kids  (547)</source>
+   <target>Enfance et enfants (547)</target>
+</segment>
+  </unit>
+  <unit id="tu27">
+   <segment state="final">
+    <source>Editorial  (13)</source>
+   <target>Éditorial (13)</target>
+</segment>
+  </unit>
+  <unit id="tu28">
+   <segment state="final">
+    <source>Family  (1,204)</source>
+   <target>Famille (1 204)</target>
+</segment>
+  </unit>
+  <unit id="tu29">
+   <segment state="final">
+    <source>Friends  (447)</source>
+   <target>Amis (447)</target>
+</segment>
+  </unit>
+  <unit id="tu30">
+   <segment state="final">
+    <source>Funny and Hilarious  (431)</source>
+   <target>Drôle et hilarant (431)</target>
+</segment>
+  </unit>
+  <unit id="tu31">
+   <segment state="final">
+    <source>Love and Romance  (2,168)</source>
+   <target>Amour et Romance (2 168)</target>
+</segment>
+  </unit>
+  <unit id="tu32">
+   <segment state="final">
+    <source>Paranormal Experience  (282)</source>
+   <target>Expérience Paranormale (282)</target>
+</segment>
+  </unit>
+  <unit id="tu33">
+   <segment state="final">
+    <source>Poetry  (1,069)</source>
+   <target>Poésie (1 069)</target>
+</segment>
+  </unit>
+  <unit id="tu34">
+   <segment state="final">
+    <source>School and College  (238)</source>
+   <target>École et collège (238)</target>
+</segment>
+  </unit>
+  <unit id="tu35">
+   <segment state="final">
+    <source>Science Fiction  (210)</source>
+   <target>Science-Fiction (210)</target>
+</segment>
+  </unit>
+  <unit id="tu36">
+   <segment state="final">
+    <source>Social and Moral  (2,307)</source>
+   <target>Social et moral (2 307)</target>
+</segment>
+  </unit>
+  <unit id="tu37">
+   <segment state="final">
+    <source>Suspense and Thriller  (971)</source>
+   <target>Suspense et Thriller (971)</target>
+</segment>
+  </unit>
+  <unit id="tu38">
+   <segment state="final">
+    <source>Travel  (54)</source>
+   <target>Voyage (54)</target>
+</segment>
+  </unit>
+  <unit id="tu39">
+   <segment state="final">
+    <source>Your Story  (19)</source>
+   <target>Votre histoire (19)</target>
+</segment>
+  </unit>
+  <unit id="tu40">
+   <originalData>
+    <data id="d1">&lt;/select&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu41" type="okp:paragraph">
+   <segment>
+    <source/>
+   <target></target>
+</segment>
+  </unit>
+  <unit id="tu43" type="okp:value">
+   <segment state="final">
+    <source>View</source>
+   <target>Vue</target>
+</segment>
+  </unit>
+  <unit id="tu42">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+    <data id="d2">&lt;input type="submit" [#$tu43] /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" subFlows="tu43" dataRef="d2"/><ph id="3" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" subFlows="tu43" dataRef="d2"/><ph id="3" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu45" type="okp:title">
+   <segment state="final">
+    <source>Read stories &amp; poems</source>
+   <target>Lire des histoires et des poèmes</target>
+</segment>
+  </unit>
+  <unit id="tu44" name="menu-item-140730-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp67]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu45" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Read</pc></pc></source>
+   <target>lire</target>
+</segment>
+  </unit>
+  <unit id="tu47" type="okp:title">
+   <segment state="final">
+    <source>Publish your stories</source>
+   <target>Publiez vos histoires</target>
+</segment>
+  </unit>
+  <unit id="tu46" name="menu-item-140731-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp70]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu47" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Publish</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu47" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Publish</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu49" type="okp:title">
+   <segment state="final">
+    <source>Read editorials</source>
+   <target>Lire les éditoriaux</target>
+</segment>
+  </unit>
+  <unit id="tu48" name="menu-item-141342-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp73]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu49" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Editorial</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu49" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Éditorial</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu51" type="okp:title">
+   <segment state="final">
+    <source>Search story from listing</source>
+   <target>Rechercher l'histoire de la liste</target>
+</segment>
+  </unit>
+  <unit id="tu50" name="menu-item-141066-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp76]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu51" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Story Archive</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu51" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Archives de l'histoire</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu53" type="okp:title">
+   <segment state="final">
+    <source>Participate in discussion forum</source>
+   <target>Participer au forum de discussion</target>
+</segment>
+  </unit>
+  <unit id="tu52" name="menu-item-140735-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp79]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu53" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Discussion</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu53" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Discussion</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu55" type="okp:title">
+   <segment state="final">
+    <source>Read what our writers say about us</source>
+   <target>Lisez ce que nos écrivains disent de nous</target>
+</segment>
+  </unit>
+  <unit id="tu54" name="menu-item-140736-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp82]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu55" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Testimonials</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu55" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Témoignages</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu56">
+   <originalData>
+    <data id="d1">&lt;span&gt;</data>
+    <data id="d2">[#$dp85]</data>
+    <data id="d3">&lt;/a&gt;</data>
+    <data id="d4">[#$dp86]</data>
+    <data id="d5">[#$dp87]</data>
+    <data id="d6">&lt;span class="breadcrumb_last" aria-current="page"&gt;</data>
+    <data id="d7">&lt;/span&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>You are reading story at: <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">yourstoryclub</pc> » <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="5" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">Most Popular Short Stories</pc> » <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="7" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d5">Family Short Stories</pc> » <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d6">The Sparrows</pc></pc></pc></pc></pc></source>
+   <target>Vous lisez l'histoire à: votre club d’histoire tes les plus populaires »Histoires courtes de la famille  The Sparrows</target>
+</segment>
+  </unit>
+  <unit id="tu57" type="okp:h1">
+   <segment state="final">
+    <source>The Sparrows</source>
+   <target>Les Moineaux</target>
+</segment>
+  </unit>
+  <unit id="tu58">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"&gt;</data>
+    <data id="d2">[#$dp90]</data>
+    <data id="d3">&lt;/span&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></target>
+</segment>
+  </unit>
+  <unit id="tu59" type="okp:paragraph">
+   <segment state="final">
+    <source>English Short Story published on</source>
+   <target>Short Story anglais publié le</target>
+</segment>
+  </unit>
+  <unit id="tu60">
+   <segment state="final">
+    <source>January 10, 2013</source>
+   <target>Le 10 janvier 2013</target>
+</segment>
+  </unit>
+  <unit id="tu61">
+   <originalData>
+    <data id="d1">&lt;span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"&gt;</data>
+    <data id="d2">[#$dp93]</data>
+    <data id="d3">&lt;span class="entry-author-name" itemprop="name"&gt;</data>
+    <data id="d4">&lt;/span&gt;</data>
+    <data id="d5">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>by <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d2"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">j.jayashree</pc></pc></pc></source>
+   <target>par j.jayashree</target>
+</segment>
+  </unit>
+  <unit id="tu62">
+   <originalData>
+    <data id="d1">&lt;strong&gt;</data>
+    <data id="d2">&lt;/strong&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canCopy="no" canDelete="no" dataRef="d1"/>Excerpt: <ec canCopy="no" canDelete="no" startRef="1" dataRef="d2"/>We are an eco friendly lot and try our best to live in peace and friendship with other birds, insects, animals and the human beings around us.</source>
+   <target><sc id="1" canCopy="no" canDelete="no" dataRef="d1"/>Extrait: <ec canCopy="no" canDelete="no" startRef="1" dataRef="d2"/>Nous sommes un lot respectueux de l'environnement et faire de notre mieux pour vivre en paix et en amitié avec d'autres oiseaux, insectes, animaux et les êtres humains autour de nous.</target>
+</segment>
+  </unit>
+  <unit id="tu63" type="okp:paragraph">
+   <segment state="final">
+    <source>The Sparrows – Short Story of Family</source>
+   <target>Les Moineaux - Courte histoire de famille</target>
+</segment>
+  </unit>
+  <unit id="tu65" type="okp:title">
+   <segment state="final">
+    <source>Short Story Family - The Sparrows</source>
+   <target>Short Story Family - Les Moineaux</target>
+</segment>
+  </unit>
+  <unit id="tu66" type="okp:alt">
+   <segment state="final">
+    <source>Two-birds-lamppost</source>
+   <target>Lampadaire à deux oiseaux</target>
+</segment>
+  </unit>
+  <unit id="tu64">
+   <originalData>
+    <data id="d1">[#$dp100]</data>
+    <data id="d2">[#$dp101]</data>
+    <data id="d3">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu65 tu66" dataRef="d2"/></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu65 tu66" dataRef="d2"/></pc></target>
+</segment>
+  </unit>
+  <unit id="tu67" name="caption-attachment-29286-id" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+    <data id="d2">[#$dp102]</data>
+    <data id="d3">&lt;/a&gt;</data>
+    <data id="d4">[#$dp103]</data>
+   </originalData>
+   <segment state="translated">
+    <source>The Sparrows<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/>Photo credit: <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">juditu</pc> from <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">morguefile.com</pc></source>
+   <target>The SparrowsPhoto crédit: juditu from morguefile.com</target>
+</segment>
+  </unit>
+  <unit id="tu68" type="okp:paragraph">
+   <segment state="final">
+    <source>Let me introduce myself. We are House Sparrows closely related to the Lark family. Some of our close cousins from the Lark family are the Ashley Brown Sparrow Lark and the Black Crowned Sparrow Lark. I do believe Iâ€™m flaunting my connections with the Lark family, though it really is something to be proud of, for us humble House Sparrows!</source>
+   <target>Permettez-moi de me présenter. Nous sommes des Moineaux domestiques étroitement liés à la famille Alouette. Certains de nos cousins proches de la famille Alouette sont l'Alouette De Moineau D'Ashley Brown et l'Alouette de Moineau Couronne Noire. Je crois que je ™fais mes liens avec la famille Alouette, même si c'est vraiment quelque chose dont je dois être fier, pour nous, humbles Moineaux de la Maison!</target>
+</segment>
+  </unit>
+  <unit id="tu69" type="okp:paragraph">
+   <segment state="final">
+    <source>Donâ€™t be deluded by the name Lark. Yes, those of the original Larks are beautiful singers, like my second cousin the Sky Lark. They even had an ode penned to celebrate the beauty of their song, by Percy Bysshe Shelly the poet.</source>
+   <target>Donâ ™ pas être trompé par le nom Lark. Oui, ceux des Alouettes d'origine sont de belles chanteuses, comme mon cousin le Sky Lark. Ils ont même eu une ode écrite pour célébrer la beauté de leur chanson, par Percy Bysshe Shelly le poète.</target>
+</segment>
+  </unit>
+  <unit id="tu70" type="okp:paragraph">
+   <segment state="translated">
+    <source>We live scattered all over the length and breadth of the world. I for one, live in the Indian Sub continent, the South of India to be exact; loving the Indian summer heat, the cool monsoons and breezy Junes.</source>
+   <target>Nous vivons dispersés sur toute la longueur et l'étendue du monde. Pour ma part, je vis dans le sous-continent indien, le sud de l'Inde pour être exact; aimer la chaleur de l'été indien, les moussons fraîches et les junes venteux.</target>
+</segment>
+  </unit>
+  <unit id="tu71" type="okp:paragraph">
+   <segment state="final">
+    <source>We are an eco friendly lot and try our best to live in peace and friendship with other birds, insects, animals and the human beings around us.</source>
+   <target>Nous sommes un lot respectueux de l'environnement et faire de notre mieux pour vivre en paix et en amitié avec d'autres oiseaux, insectes, animaux et les êtres humains autour de nous.</target>
+</segment>
+  </unit>
+  <unit id="tu72" type="okp:paragraph">
+   <segment state="translated">
+    <source>We live in a flock beneath the shade of an expansive banyan tree that stretches its bountiful branches wide around the huge tree trunk. The tree is a haven with its perpetual shade and the breeze from the thousands of its glossy leathery leaves fanning and rustling in the early morning air. I love the feel of its elliptically shaped velvety leaves and brush my feathers upon it.</source>
+   <target>Nous vivons dans un troupeau à l'ombre d'un arbre banyan expansive qui étend ses branches abondantes large autour de l'immense tronc d'arbre. L'arbre est un havre avec son ombre perpétuelle et la brise des milliers de ses feuilles cuirées brillantes éventant et bruissant dans l'air tôt le matin. J'aime la sensation de ses feuilles veloutées de forme elliptique et brossemes mes plumes sur elle.</target>
+</segment>
+  </unit>
+  <unit id="tu73" type="okp:paragraph">
+   <segment state="final">
+    <source>â€œI love your dark cool shade, Banyanâ€� I said to him one day, to which he replied amicably,</source>
+   <target>J'adore ton ombre fraîche foncée, je lui ai dit un jour, ce à quoi il a répondu à l'amiable,</target>
+</segment>
+  </unit>
+  <unit id="tu74" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œDo you now know why I spread my arms so wide Sparrow? So I could embrace all you creatures!â€�</source>
+   <target>â-œSavez-vous maintenant pourquoi j'ai écarté mes bras si large Sparrow? Pour que je puisse embrasser toutes ces créa tures !</target>
+</segment>
+  </unit>
+  <unit id="tu75" type="okp:paragraph">
+   <segment state="translated">
+    <source>At this I snuggled close into one of his swaying slim aerial prop roots, as I have watched children, snuggle into their motherâ€™s sari pallu for comfort and refuge.</source>
+   <target>À ce que je me blotti près dans l'un de ses se balançant minces racines d'accessoires aériens, comme je l'ai vu les enfants, se blottir dans leur mèreâ '™ s sari pallu pour le confort et le refuge.</target>
+</segment>
+  </unit>
+  <unit id="tu76" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œThere were times, Sparrow, in the days gone byâ€� (he seemed inclined to reminisce) â€œwhen traders with their ware stopped to rest and make or finalize transactions here at the sheltered base of my trunk!â€�</source>
+   <target>â-œIl y avait des moments, Sparrow, dans les jours passés byâ (il semblait enclin à se remémorer) â 'quand les commerçants avec leurs marchandises arrêté de se reposer et de faire ou finaliser les transactions ici à la base abritée de mon tronc!â</target>
+</segment>
+  </unit>
+  <unit id="tu77" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œReally?â€� said I, swinging upon the aerial root, my soft feather rustling in the breeze the movement made. Other Sparrows joined me and we felt like flying trapeze performers as we swung faster and faster around Banyanâ€™s trunk.</source>
+   <target>â-œReally?â , dit-il, se balançant sur la racine aérienne, ma plume douce bruissant dans la brise du mouvement fait. D'autres moineaux m'ont rejoint et nous nous sommes sentis comme des trapèzes volants alors que nous nous balancions de plus en plus vite autour du tronc de Banyan ™.</target>
+</segment>
+  </unit>
+  <unit id="tu78" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œDid they come often, Banyan?â€�</source>
+   <target>â-œEst-ils viennent souvent, Banyan?â</target>
+</segment>
+  </unit>
+  <unit id="tu79" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œOh, yes, Sparrow! Almost every day! And at times many times in a day, too! Yes, yes, swing away, you flouncing Sparrows! Youâ€™re cooling the air around me!â€�</source>
+   <target>â-œOh, oui, Sparrow! Presque tous les jours! Et parfois plusieurs fois dans une journée, aussi! Oui, oui, écartez-vous, vous bafouez les Moineaux ! Vous ™ refroidissez l'air autour de moi!â</target>
+</segment>
+  </unit>
+  <unit id="tu80" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œYes, they were called â€˜baniasâ€™ or traders and how some of them argued and quarrelled! Oh there was so much noise and activity about me! Anyway, thanks to the banias, I have been called Banyan ever since! Hailing from the fig family basically, I might have been called Figgy if it hadnâ€™t been for the banias! Ha!Ha!â€�</source>
+   <target>â-œOui, ils ont été appelés â 'baniasâ '™ ou les commerçants et comment certains d'entre eux se disputaient et se disputaient! Oh il y avait tellement de bruit et d'activité sur moi! Quoi qu'il en soit, grâce aux banias, j'ai été appelé Banyan depuis! Originaire de la famille des figues essentiellement, j'aurais pu être appelé Figgy si elle n'avait ™ pas été pour les banias! Ha! Ha!â</target>
+</segment>
+  </unit>
+  <unit id="tu81" type="okp:paragraph">
+   <segment state="final">
+    <source>He laughed away quite overcome by his own humour.</source>
+   <target>Il se mit à rire tout à fait dépassé par son propre humour.</target>
+</segment>
+  </unit>
+  <unit id="tu82" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œFiggy,Figgy!â€� I chanted happily enjoying the joke as much as the swing.</source>
+   <target>â-œFiggy,Figgy!â - J'ai chanté joyeusement profiter de la blague autant que la balançoire.</target>
+</segment>
+  </unit>
+  <unit id="tu83" type="okp:paragraph">
+   <segment state="final">
+    <source>At this point he suddenly said,</source>
+   <target>À ce stade, il a soudainement dit,</target>
+</segment>
+  </unit>
+  <unit id="tu84" type="okp:paragraph">
+   <segment state="final">
+    <source>“I do have a Fig name, Sparrow! But one which makes me a little ashamed!â€�</source>
+   <target>"J'ai un nom Fig, Sparrow! Mais qui me fait un peu honte!</target>
+</segment>
+  </unit>
+  <unit id="tu85" type="okp:paragraph">
+   <segment state="translated">
+    <source>I was quite surprised at this declaration by my friend Banyan. â€œIâ€™m called â€˜Strangler Figâ€™ by some! Yes, I remember now, but I donâ€™t like being referred to by that name, Sparrow!â€�</source>
+   <target>J'ai été très surpris de cette déclaration de mon ami Banyan. â 'œIâ '™m appelé â 'Strangler Figâ '™ par certains! Oui, je me souviens maintenant, mais je n'aime pas ™ pas être mentionné par ce nom, Sparrow!â</target>
+</segment>
+  </unit>
+  <unit id="tu86" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œOh no, Banyan, did you strangle someone! How terrible! But itâ€™s a treacherous name!â€�</source>
+   <target>â-œOh non, Banyan, avez-vous étranglé quelqu'un! C'est affreux ! Mais c'est un nom perfide ™ !â</target>
+</segment>
+  </unit>
+  <unit id="tu87" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œNothing sinister about it, Sparrow. I remember my seed was dropped into the crevice of a stately Neem by a Mynah, after he had eaten his fill of a red juicy banyan fruit. There I germinated and grew and soon my roots growing downwards clawed into the Neemâ€™s trunk and subdued my host. As a thriving youngster my roots grew quickly until the Neem now stays within my heart and all you can see is me! Do you think I have done a terrible thing, Sparrow?â€� he asked dolefully, all the elation of a while ago having vanished.</source>
+   <target>â-œRien de sinistre à ce sujet, Sparrow. Je me souviens que ma graine a été jetée dans la crevasse d'un majestueux Neem par un Mynah, après qu'il eut mangé son plein d'un fruit rouge juteux de banyan. Là, j'ai germé et grandi et bientôt mes racines de plus en plus vers le bas griffes dans le tronc de Neemâ ™ et maîtrisé mon hôte. En tant que jeune prospère mes racines ont grandi rapidement jusqu'à ce que le Neem reste maintenant dans mon cœur et tout ce que vous pouvez voir, c'est moi! Pensez-vous que j'ai fait une chose terrible, Sparrow?â- il a demandé dolefully, toute l'exaltation d'il ya quelque temps ayant disparu.</target>
+</segment>
+  </unit>
+  <unit id="tu88" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>For an instant I was at a loss for words. I almost stopped swinging and said softly,<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> â€œIs he really in there?â€�</source>
+   <target>Pendant un instant, j'étais à court de mots. J'ai presque arrêté de balancer et dit doucement, â-est-il vraiment là-dedans?â</target>
+</segment>
+  </unit>
+  <unit id="tu89" type="okp:paragraph">
+   <segment state="final">
+    <source>I hopped close to the Banyanâ€™s trunk and peered in. The Neem smiled feebly at me through the thick woody curtains of Banyan.</source>
+   <target>J'ai sauté près du coffre de la Banyanâ ™ et regarda dedans. Le Neem m'a souri faiblement à travers les épais rideaux boisés de Banyan.</target>
+</segment>
+  </unit>
+  <unit id="tu90" type="okp:paragraph">
+   <segment state="final">
+    <source>â€œHe has given food and shelter for thousands of birds,â€� said the Neem, our silent listener.</source>
+   <target>Il a donné de la nourriture et un abri pour des milliers d'oiseaux, dit le Neem, notre auditeur silencieux.</target>
+</segment>
+  </unit>
+  <unit id="tu91" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œAnd a multitude of insects nest in him! Tell him that. Tell him we are all a part of the ecological balance! Iâ€™m fine in here though a bit sapped, but very happy to be a part of his benevolence. It feels good to live in his heart!â€�</source>
+   <target>â-œEt une multitude d'insectes nichent en lui! Dis-lui ça. Dites-lui que nous faisons tous partie de l'équilibre écologique! Je ™m bien ici mais un peu sapé, mais très heureux de faire partie de sa bienveillance. C'est bon de vivre dans son cœur!</target>
+</segment>
+  </unit>
+  <unit id="tu92" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œWowâ€�, said I, and loved the Neemâ€™s docile spirit.</source>
+   <target>â -œWowâ , dit-il, et j'ai adoré l'esprit docile de Neemâ ™.</target>
+</segment>
+  </unit>
+  <unit id="tu93" type="okp:paragraph">
+   <segment state="translated">
+    <source>The Banyan seemed to shed dewy tears of maybe remorse or relief and joy at the hidden Neemâ€™s tender words, I really couldnâ€™t tell.</source>
+   <target>Le Banyan semblait versé des larmes rosées de peut-être remords ou de soulagement et de joie à la cacher Neemâ ™ mots tendres, je ne pouvais vraiment pasâ '™ pas dire.</target>
+</segment>
+  </unit>
+  <unit id="tu94" type="okp:paragraph">
+   <segment state="final">
+    <source>I thought to myself that I will set about taking a census of the residents of Banyan straight away. Even as I flew to start my new assignment as a censor, a swarm of fig wasps whizzed past to feed upon Banyanâ€™s clusters of red figs. They half hummed and half buzzed a mid- summer tune.</source>
+   <target>Je me suis dit que je vais me mettre à faire un recensement des habitants de Banyan tout de suite. Alors même que je m'envolais pour commencer ma nouvelle mission de censeur, un essaim de guêpes de figues sifflait passé pour se nourrir des grappes de figues rouges de Banyan ™. Ils ont à moitié fredonné et à moitié bourdonné un air mi-été.</target>
+</segment>
+  </unit>
+  <unit id="tu95" type="okp:paragraph">
+   <segment state="final">
+    <source>I heard the chirping of the tiny white Babblers who had made their nest among the dark leaves. They hopped from branch to branch as though they had a game going among themselves.</source>
+   <target>J'entendis le gazouillis des petits Babblers blancs qui avaient fait leur nid parmi les feuilles sombres. Ils sautaient de branche en branche comme s'ils avaient un jeu en cours entre eux.</target>
+</segment>
+  </unit>
+  <unit id="tu96" type="okp:paragraph">
+   <segment state="final">
+    <source>I heard the black Crows caw at the far end. They were the biggest of the birds residing in Banyan and commanded everyone fear and respect, stuttering with their black coats like advocates and lawyers from the court house at the far end of the village.</source>
+   <target>J'ai entendu les corbeaux noirs à l'extrémité. Ils étaient les plus grands des oiseaux résidant à Banyan et commandaient à tous la peur et le respect, bégayant avec leurs manteaux noirs comme des avocats et des avocats du palais de justice à l'extrémité du village.</target>
+</segment>
+  </unit>
+  <unit id="tu97" type="okp:paragraph">
+   <segment state="final">
+    <source>I hopped from branch to branch discovering the residents of the interiors of the beautiful lush Banyan. My first stop was the nest of a White Cheeked Barbet, where the mother Barbet sat upon her eggs and simply said, â€œHi!â€� then dozed off again upon her warm eggs.</source>
+   <target>J'ai sauté de branche en branche en découvrant les résidents de l'intérieur de la belle luxuriante Banyan. Mon premier arrêt a été le nid d'un Barbet à joues blanches, où la mère Barbet s'est assise sur ses œufs et a simplement dit: â 'œSalut!â 'puis somnoler à nouveau sur ses œufs chauds.</target>
+</segment>
+  </unit>
+  <unit id="tu98" type="okp:paragraph">
+   <segment state="translated">
+    <source>Heart Spotted Woodpecker, a duty bound worker went knock, knock, knocking upon a thick branch where he suspected a small band of termites had gnawed in. He had rid Banyan of a few such silent deadly invaders lately, but his work was never done, he said to himself with a sigh. He nodded to me cordially and continued pecking.</source>
+   <target>Heart Spotted Woodpecker, un travailleur lié de service est allé frapper, frapper, frapper sur une branche épaisse où il soupçonnait une petite bande de termites avait rongé po Il avait débarrassé Banyan de quelques envahisseurs mortels silencieux ces derniers temps, mais son travail n'a jamais été fait, il s'est dit avec un soupir. Il hocha la la un de moi cordialement et continua à picorer.</target>
+</segment>
+  </unit>
+  <unit id="tu99" type="okp:paragraph">
+   <segment state="translated">
+    <source>A few Orange Headed Thrushes flew in at the moment, and settled upon the branches of the Banyan, ruffling their yellow feathers after the long flight. The sunlight filtering through the leaves in soft strands lit their feathers to a beautiful fiery glow. They fluttered amidst the branches like orange-yellow flames of fire! They gobbled the caterpillars, weevils and stray termites hungrily and so, the fig wasps, a little away, feeding on the red fruits kept a wary eye on them.</source>
+   <target>Quelques Grives à tête orange s'envolèrent en ce moment, et s'installèrent sur les branches du Banyan, ébouriffant leurs plumes jaunes après le long vol. La lumière du soleil filtrant à travers les feuilles en brins mous allumé leurs plumes à une belle lueur de feu. Ils flottaient au milieu des branches comme des flammes jaune-orange de feu! Ils ont englouti les chenilles, les charançons et les termites errants avidement et ainsi, les guêpes de figue, un peu loin, se nourrissant des fruits rouges ont gardé un oeil méfiant sur eux.</target>
+</segment>
+  </unit>
+  <unit id="tu100" type="okp:paragraph">
+   <segment state="final">
+    <source>The raucous green Parrots stopped their chattering and sat still in their clutches as I hopped by. They squawked their greeting and offered me dry berries and fruits that was their dinner. Their lemon green feathers were a wild contrast to the darkened foliage of Banyan. I had no idea Banyan had such an array of brightly coloured residents!</source>
+   <target>Les perroquets verts rauques arrêté leurs bavardages et assis encore dans leurs griffes que je sautais par. Ils ont crié leur salutation et m'ont offert des baies sèches et des fruits qui était leur dîner. Leurs plumes vert citron étaient un contraste sauvage avec le feuillage obscurci de Banyan. Je n'avais aucune idée Banyan avait un tel tableau de résidents aux couleurs vives!</target>
+</segment>
+  </unit>
+  <unit id="tu101" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>A White Bellied Treepie who sat musing on a lower branch seemed very lonely. He was a beautiful graceful bird, in startling white, black and brown. His tail was a long flow of black and white, cascading elegantly behind him. He waited for the return of his mate, gone in search of food to a nearby forest. He bowed, then with the droop of his wings called to his mate. His nest was a platform of twigs made ready for egg laying. He gave me a dreamy smile and seemed to be engrossed in the Yellow Browed Bulbulâ€™s soulful singing that drifted from a thickly covered branch of the Banyan.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> Of the passerine family, the Bulbulâ€™s song enraptured all the residents of Banyan. I have often been lulled to sleep by his melancholic tunes.</source>
+   <target>Un Treepie à ventre blanc qui était assis en train de songeer sur une branche inférieure semblait très seul. C'était un bel oiseau gracieux, blanc, noir et brun. Sa queue était un long flux de noir et blanc, en cascade élégamment derrière lui. Il a attendu le retour de son compagnon, parti à la recherche de nourriture dans une forêt voisine. Il s'inclina, puis avec la chute de ses ailes appelées à son compagnon. Son nid était une plate-forme de brindilles prêtes pour la ponte. Il m'a donné un sourire de rêve et semblait être absorbé par le chant soulful Bulbâ '™'™'à néant qui a dérivé d'une branche épaissement couverte du Banyan.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> De la famille des passants, la chanson de Bulbulâ ™ a ravi tous les habitants de Banyan. J'ai souvent été bercé par ses airs mélancoliques.</target>
+</segment>
+  </unit>
+  <unit id="tu102" type="okp:paragraph">
+   <segment state="final">
+    <source>Quite a flock of us Sparrows resided in Banyan. We had the most number of nests here, among the branches or in the holes and niches that dotted Banyanâ€™s thick woody trunk.</source>
+   <target>Tout un troupeau d'entre nous Moineaux résidaient à Banyan. Nous avons eu le plus grand nombre de nids ici, parmi les branches ou dans les trous et les niches qui parsèment le tronc boisé épais de Banyanâ ™.</target>
+</segment>
+  </unit>
+  <unit id="tu103" type="okp:paragraph">
+   <segment state="final">
+    <source>Some of my cousins had moved to the eaves of houses nearby, for want of privacy and space. For surely, in a tree that housed almost so many varieties of birds ,not to mention the Mynas that were our frequent visitors, and the insects which constituted a partial part of Banyanâ€™s residents, we were a hardly a quiet, secluded household!</source>
+   <target>Certains de mes cousins avaient déménagé à l'avant-toit des maisons à proximité, faute d'intimité et d'espace. Car sûrement, dans un arbre qui abritait presque tant de variétés d'oiseaux, sans parler des Mynas qui étaient nos visiteurs fréquents, et les insectes qui constituaient une partie des résidents de Banyanâ ™, nous étions à peine un calme, ménage isolé!</target>
+</segment>
+  </unit>
+  <unit id="tu104" type="okp:paragraph">
+   <segment state="final">
+    <source>A swarm of Lemon Butterflies fluttered around the tree trunk like little shreds of sunshine. They flew in between the leafy boughs and rested upon the tender red leaves of Banyan. Soon a small swarm of Peacock Pansy Butterflies in a startling green blue flew between the aerial roots, alighting upon them in colourful rows.</source>
+   <target>Un essaim de papillons citronniers flottait autour du tronc d'arbre comme de petits lambeaux de soleil. Ils volaient entre les branches feuillues et reposaient sur les tendres feuilles rouges de Banyan. Bientôt, un petit essaim de papillons paons dans un bleu vert surprenant a volé entre les racines aériennes, débarquant sur eux dans des rangées colorées.</target>
+</segment>
+  </unit>
+  <unit id="tu105" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œHello, my friendsâ€� said Banyan as his long ropey roots swayed in the evening breeze.</source>
+   <target>â-œHello, mes amisâ ' dit Banyan que ses longues racines cordeux se balançant dans la brise du soir.</target>
+</segment>
+  </unit>
+  <unit id="tu106" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œHello, Banyanâ€� they all chanted in unison though it was a feeble chant. They were never inclined to much chatter since they busied themselves with powdering their soft gossamer wings to look delicate and dainty.</source>
+   <target>â-œHello, Banyanâ, ils ont tous chanté à l'unisson si c'était un chant faible. Ils n'ont jamais été enclins à bavarder beaucoup car ils se sont occupés avec la poudre de leurs ailes gossamer doux à l'air délicat et délicat.</target>
+</segment>
+  </unit>
+  <unit id="tu107" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œHow exquisite you all look!â€� said Banyan, always generous with his compliments especially when well- deserved.</source>
+   <target>â-œComment exquis vous tous regarder!â ' dit Banyan, toujours généreux avec ses compliments surtout quand bien mérité.</target>
+</segment>
+  </unit>
+  <unit id="tu108" type="okp:paragraph">
+   <segment state="final">
+    <source>The birds and insects paused to watch each time the gorgeous Butterflies fluttered by, as though they were pretty ballet dancers in their shimmering brightly coloured wings.</source>
+   <target>Les oiseaux et les insectes s'arrêtaient pour regarder chaque fois les magnifiques papillons flottaient, comme s'ils étaient de jolis danseurs de ballet dans leurs ailes scintillantes aux couleurs vives.</target>
+</segment>
+  </unit>
+  <unit id="tu109" type="okp:paragraph">
+   <segment state="translated">
+    <source>Since Banyan stood by the banks of a river there were lengthy patches of thick grass and reeds growing along the banks. Tiny flowers on weeds grew in profusion. The Butterflies had their fill of nectar from these flowers. Sometimes they hovered over the pink water lilies in the river or rested delicately as though on tip toes upon the flat round lotus leaves that floated on the green water. It really was a beautiful sight as they admired their reflections on the fat dew drops that rolled like blobs of diamonds on the velvety leaves.</source>
+   <target>Depuis Banyan se tenait sur les rives d'une rivière il y avait de longues parcelles d'herbe épaisse et des roseaux de plus en plus le long des rives. De minuscules fleurs sur les mauvaises herbes poussaient en profusion. Les Papillons avaient leur plein de nectar de ces fleurs. Parfois, ils planaient au-dessus des nén] eaux roses de la rivière ou se reposaient délicatement comme sur la pointe des pieds sur les feuilles plates de lotus rond qui flottaient sur l'eau verte. C'était vraiment une belle vue comme ils ont admiré leurs réflexions sur les gouttes de rosée graisse qui a roulé comme des taches de diamants sur les feuilles veloutées.</target>
+</segment>
+  </unit>
+  <unit id="tu110" type="okp:paragraph">
+   <segment state="final">
+    <source>Our days were thus spent with finding a mate, mating, nest building, breeding, feeding â€“ surviving in all the tranquil that swathed the Banyan and its whereabouts.</source>
+   <target>Nos journées ont donc été consacrées à trouver un compagnon, l'accouplement, la construction de nidification, la reproduction, l'alimentation â '" survivre dans toute la tranquillité qui a emmailloté le Banyan et ses allées et venues.</target>
+</segment>
+  </unit>
+  <unit id="tu111" type="okp:paragraph">
+   <segment state="translated">
+    <source>One day I dived down, as we all do, with partly closed wings and rose up in a glide. Our flights are undulated, accompanied by a long low whistle. At the tip of the rise I voiced a sharp chip note. All the sparrows around me arose with me and the air was aflutter with hundreds of tiny sparrow wings. We all flew away in different directions.</source>
+   <target>Un jour, j'ai plongé vers le bas, comme nous le faisons tous, avec des ailes partiellement fermées et se leva dans une glissade. Nos vols sont ondulés, accompagnés d'un long coup de sifflet bas. À la pointe de la hausse, j'ai exprimé une note forte puce. Tous les moineaux autour de moi se levèrent avec moi et l'air s'agitait de centaines de minuscules ailes de moineaux. Nous nous sommes tous envolés dans des directions différentes.</target>
+</segment>
+  </unit>
+  <unit id="tu112" type="okp:paragraph">
+   <segment state="translated">
+    <source>About ten to fifteen of us rested upon the taut telephone and electric wires that spanned the miles like fine black silk thread. We were like notes on a music sheet â€“ sometimes in a continuous sequence, and at times accommodating uneven gaps of blue sky, between us. Hurrying passers- by paused or stopped to watch us in sheer admiration. Children waved to us and for most part we flew away in fear though we knew no harm was meant.</source>
+   <target>Environ dix à quinze d'entre nous reposaient sur le téléphone tendu et les fils électriques qui s'étendaient sur les miles comme du fil de soie noir fin. Nous étions comme des notes sur une feuille de musique â -" parfois dans une séquence continue, et parfois accommodant les lacunes inégales du ciel bleu, entre nous. Se dépêcher les passants- par une pause ou s'arrêta pour nous regarder dans l'admiration pure. Les enfants nous ont fait signe et, pour la plupart, nous nous sommes envolés dans la peur, même si nous savions qu'aucun mal n'était destiné.</target>
+</segment>
+  </unit>
+  <unit id="tu113" type="okp:paragraph">
+   <segment state="translated">
+    <source>While we had sat gossiping upon the wires, a Black Crowned sparrow lark, that we had named Blackie, gave us some news of his well being. He had moved in with his mate, Tikku to a house in the village to nest upon its rafters.</source>
+   <target>Alors que nous étions assis bavardage sur les fils, une alouette moineau couronné noir, que nous avions nommé Blackie, nous a donné quelques nouvelles de son bien-être. Il avait emménagé avec son compagnon, Tikku, dans une maison du village pour nicper ses chevrons.</target>
+</segment>
+  </unit>
+  <unit id="tu114" type="okp:paragraph">
+   <segment state="translated">
+    <source>The first few days when Blackie and Tikku had flown into the house in search of a place to nest, their chipping and flutter had caused Grandmother and the Mother of the house to call their daughter Meena and say excitedly,</source>
+   <target>Les premiers jours où Blackie et Tikku avaient volé dans la maison à la recherche d'un endroit pour nicper, leur écaillage et le flottement avait causé grand-mère et la mère de la maison d'appeler leur fille Meena et dire avec enthousiasme,</target>
+</segment>
+  </unit>
+  <unit id="tu115" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œLook, look, Meena, those sparrows seem to be searching for a place to nest! Donâ€™t talk loudly, lest you frighten them off!â€�</source>
+   <target>Regarde, regarde, Meena, ces moineaux semblent chercher un endroit pour nicper ! Donâ ™ parle pas fort, de peur que vous les effrayer!</target>
+</segment>
+  </unit>
+  <unit id="tu116" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Soon Blackie and Tikku flew in with twigs, feathers and strange little scraps to build their nest and Grandmother said happily, her joy overflowing her toothless smile,<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> â€œThey are nesting on the rafters! Thatâ€™s a good omen, indeed!â€�</source>
+   <target>Bientôt Blackie et Tikku ont volé avec des brindilles, des plumes et d'étranges petits morceaux pour construire leur nid et grand-mère a dit heureusement, sa joie débordant son sourire édenté, â -œIls nichent sur les chevrons! C'™ est un bon présage, en effet!â</target>
+</segment>
+  </unit>
+  <unit id="tu117" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Blackie and Tikku hearing this thought it was an auspicious beginning as well, and twitted,<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> â€œThatâ€™s good!â€�</source>
+   <target>Blackie et Tikku entendre cette pensée que c'était un début de bon augure ainsi, et twitté, â œThatâ '™s bon!â</target>
+</segment>
+  </unit>
+  <unit id="tu118" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œHow nice!â€� said Mother, â€œBut I hope they donâ€™t mess up the floor!â€�</source>
+   <target>â -œHow nice!â ' dit Mère, â 'œMais j'espère qu'ils ne ™ pas gâcher le sol!â</target>
+</segment>
+  </unit>
+  <unit id="tu119" type="okp:paragraph">
+   <segment state="final">
+    <source>Then they all took the greatest trouble never to disturb the sparrows. They spoke in low tones as far as possible, and rushed to the door to quiet a vendor when he yelled to announce his wares. Even the grinding and pounding sounded softer these days.</source>
+   <target>Puis ils ont tous pris la plus grande peine de ne jamais déranger les moineaux. Ils parlèrent dans les tons bas autant que possible, et se précipita à la porte pour calmer un vendeur quand il cria d'annoncer ses marchandises. Même le broyage et le martèlement sonnait plus doux ces jours-ci.</target>
+</segment>
+  </unit>
+  <unit id="tu120" type="okp:paragraph">
+   <segment state="final">
+    <source>From below Grandmother and Meena watched the rafter eagerly. All was quiet up there. Blackie flew away often to bring tidbits for Tikku. Meena noticed Blackie was quite a handsome bird with starkly contrasting black and white markings on his face. Yellow Browed Bulbuls, Thrushes or Barbets, when flying past never failed to give him a second glance. Tikku, on the other hand was of a subdued sandy brown hue, with her feathers always a glossy fluff. On occasions when she had rested on the floor before flying up to the rafter, Grandmother, with her dwindling eyesight had mistook her for a powder puff! Naturally, she was startled when Tikku flew up!</source>
+   <target>D'en bas grand-mère et Meena regardé le chevron avec impatience. Tout était calme là-haut. Blackie s'envola souvent pour apporter des friandises pour Tikku. Meena a remarqué Blackie était tout à fait un bel oiseau avec des marques carrément contrastées noir et blanc sur son visage. Bulbuls, Grives ou Barbets à sourcils jaunes, lorsque le survol n'a jamais manqué de lui donner un second coup d'œil. Tikku, d'autre part était d'une teinte tamisée brun sableux, avec ses plumes toujours une peluche brillante. À des occasions où elle s'était reposée sur le sol avant de s'envoler vers le chevron, grand-mère, avec sa vue en déclin l'avait prise pour une bouffée de poudre! Naturellement, elle a été surpris quand Tikku a volé vers le haut!</target>
+</segment>
+  </unit>
+  <unit id="tu121" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source>Meena and Mother left pieces of food each day on a cracked blue porcelain saucer. They left water in a cup that had lost its handle. Blackie and Tikku made it a habit to help themselves of the offered crumbs of food.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> One golden morn when the sun dazzled through the coconut palm fronds, shedding spots of dancing gold light upon theÂ courtyard of the house, tiny chip, chip noises came from above. Meena jumped in glee and shouted to her Mother and Grandmother.</source>
+   <target>Meena et maman laissaient des morceaux de nourriture chaque jour sur une soucoupe en porcelaine bleue fissurée. Ils ont laissé de l'eau dans une tasse qui avait perdu sa poignée. Blackie et Tikku ont pris l'habitude de s'aider eux-mêmes des miettes de nourriture offertes.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> Un matin d'or quand le soleil éblouit à travers les frondes de cocotier, jetant des taches de lumière d'or dansante sur la cour de la maison, minuscules copeaux, bruits de puce est venu d'en haut. Meena sauta dans la joie et cria à sa mère et à sa grand-mère.</target>
+</segment>
+  </unit>
+  <unit id="tu122" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œAmma, amma, paati,paati, the baby birds have hatched! They have hatched! I can hear them, amma!â€�</source>
+   <target>â-œAmma, amma, paati,paati, les bébés oiseaux ont éclos! Ils ont éclos ! Je peux les entendre, amma!â</target>
+</segment>
+  </unit>
+  <unit id="tu123" type="okp:paragraph">
+   <segment state="translated">
+    <source>Mother was busy getting breakfast and lunch ready in the kitchen and she ran out wiping her sweating face with her sari pallu. Grandmother waddled into the room and looked up and clapped her hands for joy.</source>
+   <target>Mère était occupée à préparer le petit déjeuner et le déjeuner dans la cuisine et elle a couru en essuyant son visage en sueur avec son sari pallu. Grand-mère se dandinait dans la chambre et leva les yeux et frappa ses mains pour la joie.</target>
+</segment>
+  </unit>
+  <unit id="tu124" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œWe are very lucky the babies have hatched!â€�</source>
+   <target>â-œNous sommes très chanceux que les bébés aient éclos !â</target>
+</segment>
+  </unit>
+  <unit id="tu125" type="okp:paragraph">
+   <segment state="final">
+    <source>And she made some weird chipping sounds trying to get the attention of the birds. Mother gazed up, smiled and returned to the kitchen muttering,</source>
+   <target>Et elle a fait des bruits bizarres en essayant d'attirer l'attention des oiseaux. Mère regarda, sourit et revint à la cuisine murmurant,</target>
+</segment>
+  </unit>
+  <unit id="tu126" type="okp:paragraph">
+   <segment state="final">
+    <source>â€œ Times are hard for us! May God send us His bountiful blessings! Donâ€™t stand gazing at the birds Meena, get ready and be off to school. Take your lunch, and run to school or you will be late!â€�</source>
+   <target>â-œ Les temps sont durs pour nous! Que Dieu nous envoie Ses généreuses bénédictions ! Donâ ™ pas debout à regarder les oiseaux Meena, se préparer et aller à l'école. Prenez votre déjeuner, et courir à l'école ou vous serez en retard!â</target>
+</segment>
+  </unit>
+  <unit id="tu127" type="okp:paragraph">
+   <segment state="final">
+    <source>Meena tore herself away from staring in delight at the nest and grabbing her lunch box said goodbye to her Grandmother and Mother and disappeared from the house.</source>
+   <target>Meena se dépouilla de regarder dans la joie au nid et saisissant sa boîte à lunch dit au revoir à sa grand-mère et sa mère et disparut de la maison.</target>
+</segment>
+  </unit>
+  <unit id="tu128" type="okp:paragraph">
+   <segment state="translated">
+    <source>Blackie was seen bringing in tiny caterpillars, flies and bark beetle larvae to feed the hungry babies. He made short trips to and fro with a grasshopper, millet, corn or sunflower seed in his diminutive beaks. This went on for nearly three weeks and Meena gathered courage to climb up their bamboo ladder to softly peep into the nest on the rafter. Yes, the soft fluffy little baby sparrows were in there. They tweeted all the time and Grandmother was rather annoyed by and by.</source>
+   <target>Blackie a été vu apportant de minuscules chenilles, des mouches et des larves de scolytes pour nourrir les bébés affamés. Il a fait de courts voyages aller-retour avec une sauterelle, un millet, du maïs ou des graines de tournesol dans son bec minuscule. Cela a continué pendant près de trois semaines et Meena a rassemblé le courage de monter leur échelle de bambou pour jeter doucement un coup d'oeil dans le nid sur le chevron. Oui, les petits moineaux moelleux étaient là. Ils ont tweeté tout le temps et grand-mère a été plutôt ennuyé par et par.</target>
+</segment>
+  </unit>
+  <unit id="tu129" type="okp:paragraph">
+   <segment state="translated">
+    <source>Soon the babies began trying to fly, and Meena finished her homework very early each day just to find time to be with her little pets. Tikku and the babies had got quite used to having Meena watching them and soon allowed her to softly stroke their downs that had now grown into brown feathers.</source>
+   <target>Bientôt, les bébés ont commencé à essayer de voler, et Meena a terminé ses devoirs très tôt chaque jour juste pour trouver le temps d'être avec ses petits animaux de compagnie. Tikku et les bébés s'étaient habitués à ce que Meena les regarde et lui permettaient bientôt de caresser doucement leurs duais qui étaient devenus des plumes brunes.</target>
+</segment>
+  </unit>
+  <unit id="tu130" type="okp:paragraph">
+   <segment state="final">
+    <source>The baby sparrows fell off their nest on and off and Mother or Meena would pick them up gently and place them safely in the nest. The roof being low they did not really hurt themselves and loved being stroked gently by Meena. They did love all the pampering, and at times Meena fed them with tiny grains or kernel even while they were in the nest, and Tikku didnâ€™t mind.</source>
+   <target>Les bébés moineaux tombaient de leur nid et Mère ou Meena les ramassaient doucement et les plaçaient en toute sécurité dans le nid. Le toit étant bas, ils n'ont pas vraiment se blesser et aimé être caressé doucement par Meena. Ils ont aimé tous les dorloter, et parfois Meena les a nourris avec de minuscules grains ou du grain, même pendant qu'ils étaient dans le nid, et Tikku n'a pas l'esprit ™t.</target>
+</segment>
+  </unit>
+  <unit id="tu131" type="okp:paragraph">
+   <segment state="translated">
+    <source>Then one day, much to Meenaâ€™s shock and grief, after they had fluttered outside the house for a few days, the baby sparrows flew away never to return. Blackie and Tikku did return to nest in the evenings, though. They hopped from the rafters to the window sill to peck at the grains and peanut kernel left on the porcelain saucer, then ventured close enough to Grandmother even as she sat fanning herself with a palm frond fan. At times they visited the kitchen and pecked rice and curry leaves lying on the floor. Or watched twitting as Meena sat colouring her picture book or finished her homework.</source>
+   <target>Puis un jour, au grand choc et à la douleur de Meenaâ ™, après qu'ils eurent flotté à l'extérieur de la maison pendant quelques jours, les bébés moineaux s'envolèrent pour ne jamais revenir. Blackie et Tikku sont retournés au nid le soir, cependant. Ils sautèrent des chevrons jusqu'au rebord de la fenêtre pour picorer les grains et le grain d'arachide laissés sur la soucoupe en porcelaine, puis s'aventuraient assez près de grand-mère alors même qu'elle s'assit en s'éventant avec un ventilateur de fronde de palmier. Parfois, ils ont visité la cuisine et picoré riz et feuilles de curry couché sur le sol. Ou regardé twitting comme Meena assis à colorier son livre d'images ou fini ses devoirs.</target>
+</segment>
+  </unit>
+  <unit id="tu132" type="okp:paragraph">
+   <segment state="final">
+    <source>One sullen evening when the sun seemed reluctant to leave turning dejectedly from orange to yellow to cream to a sad pale white, the bamboo gate of their house creaked and swung open. A tall brown man stood there for a few seconds and then unsure of himself walked into the house. He bent at the door and called,</source>
+   <target>Un soir maussade où le soleil semblait réticent à partir tournant tristement d'orange à jaune à la crème à un blanc pâle triste, la porte en bambou de leur maison grinçait et se balançait ouvert. Un grand homme brun est resté là pendant quelques secondes, puis incertain de lui-même est entré dans la maison. Il se pencha à la porte et a appelé,</target>
+</segment>
+  </unit>
+  <unit id="tu133" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œAmma, amma!â€�</source>
+   <target>â-œAmma, amma!â</target>
+</segment>
+  </unit>
+  <unit id="tu134" type="okp:paragraph">
+   <segment state="final">
+    <source>A gasp was heard from within and Grandmother yelled,</source>
+   <target>Un soupir a été entendu de l'intérieur et grand-mère a crié,</target>
+</segment>
+  </unit>
+  <unit id="tu135" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œMy son, my son!â€�</source>
+   <target>â-œMon fils, mon fils!â</target>
+</segment>
+  </unit>
+  <unit id="tu136" type="okp:paragraph">
+   <segment state="final">
+    <source>Mother from the kitchen stepped forward to see who the intruder was. Then she turned a beetroot red and vanished into the kitchen. Meena wondering who the stranger was got up to enquire.</source>
+   <target>La mère de la cuisine s'avança pour voir qui était l'intrus. Puis elle a tourné une betterave rouge et a disparu dans la cuisine. Meena se demandant qui l'étranger a été levé pour s'enquérir.</target>
+</segment>
+  </unit>
+  <unit id="tu137" type="okp:paragraph">
+   <segment state="final">
+    <source>The man stared at Meena and smiled.</source>
+   <target>L'homme regarda Meena et sourit.</target>
+</segment>
+  </unit>
+  <unit id="tu138" type="okp:paragraph">
+   <segment state="final">
+    <source>â€œWhere is your mother? Call your mother, girl! Amma!â€� he exclaimed when Grandmother was near enough.</source>
+   <target>Où est ta mère ? Appelle ta mère, ma fille ! Amma!â il s'écria quand grand-mère était assez près.</target>
+</segment>
+  </unit>
+  <unit id="tu139" type="okp:paragraph">
+   <segment state="translated">
+    <source>Grandmother wept for joy since the man before her was no other than her own son, who had in a drunken frenzy, beaten his wife till she fainted and thinking her dead had fled to a distant city and had not been heard of since.</source>
+   <target>Grand-mère pleura de joie puisque l'homme avant elle n'était autre que son propre fils, qui avait dans une frénésie ivre, battu sa femme jusqu'à ce qu'elle s'évanouit et pensant que ses morts s'étaient enfuis dans une ville lointaine et n'avaient pas été entenduparler depuis.</target>
+</segment>
+  </unit>
+  <unit id="tu140" type="okp:paragraph">
+   <segment state="final">
+    <source>Meena had been born, and grew up a fatherless child. The Grandmother stopped lamenting her sonâ€™s departure after her birth and Mother had busied herself in menial cleaning and cooking in various houses in the vicinity. She had struggled to provide food and shelter for Grandmother and Meena.</source>
+   <target>Meena était née et a grandi sans père. La grand-mère a cessé de se lamenter sur le départ de son ™ fils après sa naissance et sa mère s'était occupée du nettoyage et de la cuisine dans diverses maisons des environs. Elle avait lutté pour fournir de la nourriture et un abri à grand-mère et Meena.</target>
+</segment>
+  </unit>
+  <unit id="tu141" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>When Meena had queried about her Father, Grandmother simply said,<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> â€œHe has deserted us. He is gone forever! Donâ€™t talk about him, girl!â€�</source>
+   <target>Quand Meena avait posé des questions sur son Père, grand-mère a simplement dit: â 'il nous a abandonnés. Il est parti pour toujours ! Donâ ™ pas parlé de lui, fille!â</target>
+</segment>
+  </unit>
+  <unit id="tu142" type="okp:paragraph">
+   <segment state="translated">
+    <source>Her Mother maintained a staunch silence, sighed and changed the topic every time, until Meena had stopped asking her anything about him.</source>
+   <target>Sa Mère a maintenu un silence inébranlable, soupira et changea le sujet à chaque fois, jusqu'à ce que Méena avait cessé de lui demander quoi que ce soit à son sujet.</target>
+</segment>
+  </unit>
+  <unit id="tu143" type="okp:paragraph">
+   <segment state="translated">
+    <source>So when Father did return, and Meena heard Grandmother address him as â€˜sonâ€™ she knew. She eyed him suspiciously though Father smiled and tried to talk to her. She moved away and hid behind Grandmother.</source>
+   <target>Alors, quand Père est revenu, et Meena a entendu grand-mère s'adresser à lui comme â 'sonâ '™ qu'elle savait. Elle le regarda avec méfiance si Père sourit et a essayé de lui parler. Elle s'est éloignée et s'est cachée derrière grand-mère.</target>
+</segment>
+  </unit>
+  <unit id="tu144" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Blackie above tweeted to Tikku and they peeped over the rim of their nest and watched the unexpected scenario below.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> There was a honking heard from outside the courtyard. It was an auto. The driver honked impatiently and walked to the threshold of the house with large suitcases.</source>
+   <target>Blackie ci-dessus tweeté à Tikku et ils ont regardé sur le bord de leur nid et regardé le scénario inattendu ci-dessous.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> Il y avait un klaxon entendu de l'extérieur de la cour. C'était une auto. Le conducteur klaxonna avec impatience et se dirigea vers le seuil de la maison avec de grandes valises.</target>
+</segment>
+  </unit>
+  <unit id="tu145" type="okp:paragraph">
+   <segment state="final">
+    <source>Father paid the driver who drove away into the crowded streets and walked in with his suitcases. Grandmother was surprised to see the sign of opulence since it was obvious he had done himself well in the city.</source>
+   <target>Père a payé le chauffeur qui est parti dans les rues bondées et est entré avec ses valises. Grand-mère a été surprise de voir le signe de l'opulence car il était évident qu'il s'était bien débrouillé dans la ville.</target>
+</segment>
+  </unit>
+  <unit id="tu146" type="okp:paragraph">
+   <segment state="final">
+    <source>So what had happened to Father in the city? He had indeed grown sober once faced with the harsh realities of the city. He had begun by mulling over his disoriented life and the cruelties he had meted his unfortunate wife. He had heard later from one of the villagers seeking work in the city that his wife was indeed alive and had given birth to a girl child. He had wept at the thought of Grandmother and his wife and of course the baby he had not seen.</source>
+   <target>Qu'est-il arrivé à Père dans la ville ? Il était en effet devenu sobre une fois confronté aux dures réalités de la ville. Il avait commencé par réfléchir à sa vie désorientée et aux cruautés qu'il avait rencontrées avec sa malheureuse épouse. Il avait entendu plus tard d'un des villageois cherchant du travail dans la ville que sa femme était en effet en vie et avait donné naissance à une fillette. Il avait pleuré à la pensée de grand-mère et de sa femme et bien sûr le bébé qu'il n'avait pas vu.</target>
+</segment>
+  </unit>
+  <unit id="tu147" type="okp:paragraph">
+   <segment state="translated">
+    <source>He resolved to set his life right and began working hard. He avoided the toddy shops like the plague. He saved money, was cheated twelve times, robbed of all his savings many times and was out of work for six months at a stretch when even the little he had saved was used to keep himself alive.</source>
+   <target>Il a décidé de mettre sa vie à droite et a commencé à travailler dur. Il a évité les magasins toddy comme la peste. Il a économisé de l'argent, a été trompé douze fois, volé de toutes ses économies à plusieurs reprises et a été sans emploi pendant six mois d'affilée lorsque même le peu qu'il avait économisé a été utilisé pour se maintenir en vie.</target>
+</segment>
+  </unit>
+  <unit id="tu148" type="okp:paragraph">
+   <segment state="final">
+    <source>He worked tirelessly unmindful of the bodily fatigue and nights of sleepless labour. He multi- tasked and began saving passionately for his return home. Father struggled thus for seven years. He had decided that when he did choose to return, he would return as a changed man of sound means!</source>
+   <target>Il a travaillé sans relâche sans se soucier de la fatigue corporelle et des nuits de travail sans sommeil. Il a plusieurs tâches et a commencé à épargner avec passion pour son retour à la maison. Père a lutté ainsi pendant sept ans. Il avait décidé que quand il choisirait de revenir, il reviendrait comme un homme changé de moyens sonores!</target>
+</segment>
+  </unit>
+  <unit id="tu149" type="okp:paragraph">
+   <segment state="translated">
+    <source>Mother emerged by and by after grandmother ordered her to bring Father his meal. She busied herself with serving him the meagre meal of rasam, rice, brinjal fry and buttermilk, with downcast eyes.</source>
+   <target>La mère a émergé par et par par grand-mère lui a ordonné d'apporter le père son repas. Elle s'occupa de lui servir le maigre repas de rasam, de riz, de brinjal et de babeurre, les yeux abattus.</target>
+</segment>
+  </unit>
+  <unit id="tu150" type="okp:paragraph">
+   <segment state="translated">
+    <source>She did dart sharp glances at him on and off to size him up. Yes, he was thinner, but looked healthy and strong. He didnâ€™t smell of toddy anymore. He looked clean in a crisp white cotton shirt that was a little crushed and dusty from travel. He wore a thick silver plated wrist watch. Mother was secretly happy to see this new apparition, and wished she didnâ€™t smell of the kitchen and had worn some jasmines in her hair! But had she known he would return today and thus?</source>
+   <target>Elle ne fléchettes regards pointus à lui sur et hors de lui taille. Oui, il était plus mince, mais avait l'air en bonne santé et fort. Il ne sentait plus ™ plus de toddy. Il avait l'air propre dans une chemise en coton blanc croustillant qui était un peu écrasé et poussiéreux de Voyage. Il portait une épaisse montre-bracelet plaqué argent. Mère était secrètement heureuse de voir cette nouvelle apparition, et aurait souhaité qu'elle n'a pas ™ pas l'odeur de la cuisine et avait porté quelques jasmins dans ses cheveux! Mais avait-elle su qu'il reviendrait aujourd'hui et donc ?</target>
+</segment>
+  </unit>
+  <unit id="tu151" type="okp:paragraph">
+   <segment state="final">
+    <source>This is the happy ending to the events that Blackie and Tikku witnessed from atop their rafter which they narrated to the Sparrows at Banyan.</source>
+   <target>C'est la fin heureuse des événements que Blackie et Tikku ont vus du haut de leur chevron qu'ils ont raconté aux Moineaux à Banyan.</target>
+</segment>
+  </unit>
+  <unit id="tu152" type="okp:paragraph">
+   <segment state="final">
+    <source>When we Sparrows heard of this phenomenal change in the house where Blackie and Tikku nested, naturally we all flew there in flocks to see things for ourselves. When some twelve to fifteen of us Sparrows fluttered in Grandmother looked up in astonishment and said,</source>
+   <target>Quand nous, moineaux, avons entendu parler de ce changement phénoménal dans la maison où Blackie et Tikku nichent, naturellement nous avons tous volé là-bas en troupeaux pour voir les choses par nous-mêmes. Quand quelque douze à quinze d'entre nous Moineaux flottait dans Grand-mère leva les yeux dans l'étonnement et dit:</target>
+</segment>
+  </unit>
+  <unit id="tu153" type="okp:paragraph">
+   <segment state="translated">
+    <source>â€œMeena, Meena, see the sparrows! There is quite a flock in here! Come and see, girl!â€�</source>
+   <target>â-œMeena, Meena, voir les moineaux! Il y a tout un troupeau ici ! Venez voir, fille!â</target>
+</segment>
+  </unit>
+  <unit id="tu154" type="okp:paragraph">
+   <segment state="final">
+    <source>Meena was sitting on her Fatherâ€™s lap when she heard her Grandmotherâ€™s excited call. Her Father was reading a story to her and showing her the colourful pictures.</source>
+   <target>Meena était assise sur les genoux de son ™ Père quand elle a entendu l'appel enthousiaste de sa ™ grand-mère. Son père lui lisait une histoire et lui montrait les images colorées.</target>
+</segment>
+  </unit>
+  <unit id="tu155" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Off she went to see the Sparrows and soon Father and Mother joined them, and oh, what a pretty sight they saw! Soft brown sparrows sat in a long row upon the rafters chipping away and Grandmother said,<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> â€œThey are here to bring us more luck! Didnâ€™t I tell you sparrows were a good omen?â€�</source>
+   <target>Elle alla voir les Moineaux et bientôt Père et Mère se joignirent à eux, et oh, quelle jolie vue ils virent ! Doux moineaux bruns assis dans une longue rangée sur les chevrons écailler loin et grand-mère a dit: â 'œIls sont ici pour nous apporter plus de chance! N'ai-™pas vous dire moineaux étaient un bon présage?â</target>
+</segment>
+  </unit>
+  <unit id="tu156" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Mother whispered a prayer to God in thanks for the copious fortune that had invaded them with her husbandâ€™s return. We Sparrows saw for ourselves the four happy smiling upturned faces which watched us from below with equal interest. Later we flew away after bidding farewell to Blackie and Tikku and retired for a fitful sleep upon the gracious branches of Banyan, after this eventful day.<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> __END__</source>
+   <target>Mère murmura une prière à Dieu en remerciement pour la grande fortune qui les avait envahis avec le retour de son mari ™. Nous, moineaux, avons vu par nous-mêmes les quatre visages heureux souriants renversés qui nous regardaient d'en bas avec un intérêt égal. Plus tard, nous nous sommes envolés après avoir fait nos adieux à Blackie et Tikku et nous sommes retirés pour un sommeil en forme sur les branches gracieuses de Banyan, après cette journée mouvementée. __END__</target>
+</segment>
+  </unit>
+  <unit id="tu157" type="okp:paragraph">
+   <segment state="final">
+    <source>By J.Jayashree</source>
+   <target>Par J.Jayashree</target>
+</segment>
+  </unit>
+  <unit id="tu158" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp286]</data>
+    <data id="d2">&lt;/a&gt;</data>
+    <data id="d3">[#$dp287]</data>
+    <data id="d4">[#$dp288]</data>
+    <data id="d5">[#$dp289]</data>
+    <data id="d6">[#$dp290]</data>
+    <data id="d7">[#$dp291]</data>
+    <data id="d8">[#$dp292]</data>
+    <data id="d9">[#$dp293]</data>
+    <data id="d10">[#$dp294]</data>
+   </originalData>
+   <segment state="translated">
+    <source>Read more English Short Story by <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">j.jayashree</pc> in category <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">Family</pc> with tag <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">banyan</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Crow</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">father</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Neem</pc> | <pc id="7" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d8">Percy Shelly</pc> | <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d9">return</pc> | <pc id="9" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d10">tree</pc></source>
+   <target>Lire la suite Histoire courte en anglais par j.jayashree dans la catégorie Famille avec tag banyan (fr) Crow - France père de famille Neem - France Percy Shelly - France retour à la Arbre</target>
+</segment>
+  </unit>
+  <unit id="tu159" type="okp:h4">
+   <segment state="final">
+    <source>About the Author</source>
+   <target>À propos de l'auteur</target>
+</segment>
+  </unit>
+  <unit id="tu160">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"&gt;</data>
+    <data id="d2">[#$dp299]</data>
+    <data id="d3">&lt;/span&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></target>
+</segment>
+  </unit>
+  <unit id="tu162" type="okp:title">
+   <segment state="final">
+    <source>Read stories and poems published by j.jayashree</source>
+   <target>Lire des histoires et des poèmes publiés par j.jayashree</target>
+</segment>
+  </unit>
+  <unit id="tu161" type="okp:h5">
+   <originalData>
+    <data id="d1">[#$dp300]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu162" dataRefEnd="d2" dataRefStart="d1">j.jayashree</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu162" dataRefEnd="d2" dataRefStart="d1">j.jayashree</pc></target>
+</segment>
+  </unit>
+  <unit id="tu163" type="okp:paragraph">
+   <segment state="final">
+    <source>housewife, artist and writer.</source>
+   <target>femme au foyer, artiste et écrivain.</target>
+</segment>
+  </unit>
+  <unit id="tu164" type="okp:h3">
+   <segment state="final">
+    <source>Comments</source>
+   <target>Observations</target>
+</segment>
+  </unit>
+  <unit id="tu165" name="comment-91743-id" type="okp:li">
+   <segment>
+    <source/>
+   <target></target>
+</segment>
+  </unit>
+  <unit id="tu166" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp308]</data>
+    <data id="d2">&lt;span itemprop="name"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;span class="says"&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Sowmya</pc> <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">says</pc></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Sowmya</pc> <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">says</pc></target>
+</segment>
+  </unit>
+  <unit id="tu167" type="okp:paragraph">
+   <segment>
+    <source/>
+   <target></target>
+</segment>
+  </unit>
+  <unit id="tu168">
+   <originalData>
+    <data id="d1">[#$dp312]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">January 30, 2019 at 5:19 pm</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">30 janvier 2019 à 17h19</pc></target>
+</segment>
+  </unit>
+  <unit id="tu169" type="okp:paragraph">
+   <segment state="final">
+    <source>What a refreshing, delightful story!</source>
+   <target>Quelle histoire rafraîchissante et délicieuse!</target>
+</segment>
+  </unit>
+  <unit id="tu170" name="reply-title-id" type="okp:h3">
+   <originalData>
+    <data id="d1">&lt;small&gt;</data>
+    <data id="d2">[#$dp320]</data>
+    <data id="d3">&lt;/a&gt;</data>
+    <data id="d4">&lt;/small&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Leave a Reply <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Cancel reply</pc></pc></source>
+   <target>Laisser une réponse Annuler la réponse</target>
+</segment>
+  </unit>
+  <unit id="tu171" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label&gt;</data>
+    <data id="d2">&lt;/label&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Connect with</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Connectez-vous avec</pc></target>
+</segment>
+  </unit>
+  <unit id="tu173" type="okp:title">
+   <segment state="final">
+    <source>Facebook</source>
+   <target>Facebook</target>
+</segment>
+  </unit>
+  <unit id="tu174" type="okp:alt">
+   <segment state="final">
+    <source>Facebook</source>
+   <target>Facebook</target>
+</segment>
+  </unit>
+  <unit id="tu175" type="okp:title">
+   <segment state="final">
+    <source>Google+</source>
+   <target>Google+</target>
+</segment>
+  </unit>
+  <unit id="tu176" type="okp:alt">
+   <segment state="final">
+    <source>Google+</source>
+   <target>Google+</target>
+</segment>
+  </unit>
+  <unit id="tu177" type="okp:title">
+   <segment state="final">
+    <source>Yahoo</source>
+   <target>Yahoo</target>
+</segment>
+  </unit>
+  <unit id="tu178" type="okp:alt">
+   <segment state="final">
+    <source>Yahoo</source>
+   <target>Yahoo</target>
+</segment>
+  </unit>
+  <unit id="tu179" type="okp:title">
+   <segment state="final">
+    <source>WordPress.com</source>
+   <target>WordPress.com</target>
+</segment>
+  </unit>
+  <unit id="tu180" type="okp:alt">
+   <segment state="final">
+    <source>WordPress.com</source>
+   <target>WordPress.com</target>
+</segment>
+  </unit>
+  <unit id="tu172">
+   <originalData>
+    <data id="d1">[#$dp324]</data>
+    <data id="d2">[#$dp325]</data>
+    <data id="d3">&lt;/a&gt;</data>
+    <data id="d4">[#$dp326]</data>
+    <data id="d5">[#$dp327]</data>
+    <data id="d6">[#$dp328]</data>
+    <data id="d7">[#$dp329]</data>
+    <data id="d8">[#$dp330]</data>
+    <data id="d9">[#$dp331]</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu173" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu174" dataRef="d2"/></pc> <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu175" dataRefEnd="d3" dataRefStart="d4"><ph id="4" canCopy="no" canDelete="no" subFlows="tu176" dataRef="d5"/></pc> <pc id="5" canCopy="no" canDelete="no" subFlowsStart="tu177" dataRefEnd="d3" dataRefStart="d6"><ph id="6" canCopy="no" canDelete="no" subFlows="tu178" dataRef="d7"/></pc> <pc id="7" canCopy="no" canDelete="no" subFlowsStart="tu179" dataRefEnd="d3" dataRefStart="d8"><ph id="8" canCopy="no" canDelete="no" subFlows="tu180" dataRef="d9"/></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu173" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu174" dataRef="d2"/></pc> <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu175" dataRefEnd="d3" dataRefStart="d4"><ph id="4" canCopy="no" canDelete="no" subFlows="tu176" dataRef="d5"/></pc> <pc id="5" canCopy="no" canDelete="no" subFlowsStart="tu177" dataRefEnd="d3" dataRefStart="d6"><ph id="6" canCopy="no" canDelete="no" subFlows="tu178" dataRef="d7"/></pc> <pc id="7" canCopy="no" canDelete="no" subFlowsStart="tu179" dataRefEnd="d3" dataRefStart="d8"><ph id="8" canCopy="no" canDelete="no" subFlows="tu180" dataRef="d9"/></pc></target>
+</segment>
+  </unit>
+  <unit id="tu181">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="client_id" value="208732099191642" /&gt;</data>
+    <data id="d2">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=facebook-callback" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></target>
+</segment>
+  </unit>
+  <unit id="tu182">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=twitter" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu183">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=google" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu184">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=google-plus" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu185">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=yahoo" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu186">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=wordpress" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu187" type="okp:title">
+   <segment state="final">
+    <source>WordPress</source>
+   <target>WordPress</target>
+</segment>
+  </unit>
+  <unit id="tu188" type="okp:paragraph">
+   <segment state="final">
+    <source>Enter your WordPress.com blog URL</source>
+   <target>Entrez votre URL de blog WordPress.com</target>
+</segment>
+  </unit>
+  <unit id="tu189">
+   <originalData>
+    <data id="d1">&lt;br /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu190" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span&gt;</data>
+    <data id="d2">&lt;/span&gt;</data>
+    <data id="d3">&lt;input class="wordpress_blog_url" size="15" value=""/&gt;</data>
+    <data id="d4">&lt;br /&gt;</data>
+    <data id="d5">[#$dp344]</data>
+    <data id="d6">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">http://</pc><ph id="2" canCopy="no" canDelete="no" dataRef="d3"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">.wordpress.com</pc> <ph id="4" canCopy="no" canDelete="no" dataRef="d4"/><ph id="5" canCopy="no" canDelete="no" dataRef="d4"/> <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d6" dataRefStart="d5">Proceed</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">http://</pc><ph id="2" canCopy="no" canDelete="no" dataRef="d3"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">.wordpress.com</pc> <ph id="4" canCopy="no" canDelete="no" dataRef="d4"/><ph id="5" canCopy="no" canDelete="no" dataRef="d4"/> <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d6" dataRefStart="d5">Proceed</pc></target>
+</segment>
+  </unit>
+  <unit id="tu191" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span id="email-notes"&gt;</data>
+    <data id="d2">&lt;/span&gt;</data>
+    <data id="d3">&lt;span class="required"&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address will not be published.</pc> Required fields are marked <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">*</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Votre adresse e-mail ne sera pas publiée.</pc> Les champs requis sont marqués.</target>
+</segment>
+  </unit>
+  <unit id="tu192" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="comment"&gt;</data>
+    <data id="d2">&lt;/label&gt;</data>
+    <data id="d3">&lt;textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"&gt;</data>
+    <data id="d4">&lt;/textarea&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Comment</pc> <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3"/></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">commentaire</pc> <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3"></pc></target>
+</segment>
+  </unit>
+  <unit id="tu193" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="author"&gt;</data>
+    <data id="d2">&lt;span class="required"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/label&gt;</data>
+    <data id="d5">&lt;input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Name <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">*</pc></pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   <target>1 Nom</target>
+</segment>
+  </unit>
+  <unit id="tu194" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="email"&gt;</data>
+    <data id="d2">&lt;span class="required"&gt;</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;/label&gt;</data>
+    <data id="d5">&lt;input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Email <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">*</pc></pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Courrier électronique</pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></target>
+</segment>
+  </unit>
+  <unit id="tu195" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="url"&gt;</data>
+    <data id="d2">&lt;/label&gt;</data>
+    <data id="d3">&lt;input id="url" name="url" type="url" value="" size="30" maxlength="200" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Website</pc> <ph id="2" canCopy="no" canDelete="no" dataRef="d3"/></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">site internet</pc> <ph id="2" canCopy="no" canDelete="no" dataRef="d3"/></target>
+</segment>
+  </unit>
+  <unit id="tu197" type="okp:value">
+   <segment state="final">
+    <source>yes</source>
+   <target>oui</target>
+</segment>
+  </unit>
+  <unit id="tu196" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" [#$tu197] /&gt;</data>
+    <data id="d2">&lt;label for="wp-comment-cookies-consent"&gt;</data>
+    <data id="d3">&lt;/label&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu197" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Save my name, email, and website in this browser for the next time I comment.</pc></source>
+   <target><ph id="1" canCopy="no" canDelete="no" subFlows="tu197" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Enregistrer mon nom, e-mail, et le site Web dans ce navigateur pour la prochaine fois que je commentaire.</pc></target>
+</segment>
+  </unit>
+  <unit id="tu198">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="_mc4wp_subscribe_wp-comment-form" value="0" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu200" type="okp:value">
+   <segment state="final">
+    <source>1</source>
+   <target>1</target>
+</segment>
+  </unit>
+  <unit id="tu199" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label&gt;</data>
+    <data id="d2">&lt;input type="checkbox" name="_mc4wp_subscribe_wp-comment-form" [#$tu200] checked="checked" /&gt;</data>
+    <data id="d3">&lt;span&gt;</data>
+    <data id="d4">&lt;/span&gt;</data>
+    <data id="d5">&lt;/label&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu200" dataRef="d2"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">Subscribe to YSC newsletter</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu200" dataRef="d2"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">Abonnez-vous à la lettre d'information par courriel de YSC</pc></pc></target>
+</segment>
+  </unit>
+  <unit id="tu202" type="okp:value">
+   <segment state="final">
+    <source>Post Comment</source>
+   <target>Commentaire de publication</target>
+</segment>
+  </unit>
+  <unit id="tu201" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input name="submit" type="submit" id="submit" class="submit" [#$tu202] /&gt;</data>
+    <data id="d2">&lt;input type='hidden' name='comment_post_ID' value='31726' id='comment_post_ID' /&gt;</data>
+    <data id="d3">&lt;input type='hidden' name='comment_parent' id='comment_parent' value='0' /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu202" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/> <ph id="3" canCopy="no" canDelete="no" dataRef="d3"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" subFlows="tu202" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/> <ph id="3" canCopy="no" canDelete="no" dataRef="d3"/></target>
+</segment>
+  </unit>
+  <unit id="tu203" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="17a1d73ff6" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu204" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="ak_js" name="ak_js" value="102"/&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu205" type="okp:aria-label">
+   <segment state="final">
+    <source>Primary Sidebar</source>
+   <target>Barre latérale primaire</target>
+</segment>
+  </unit>
+  <unit id="tu207" type="okp:placeholder">
+   <segment state="final">
+    <source>Search this website …</source>
+   <target>Rechercher ce site ...</target>
+</segment>
+  </unit>
+  <unit id="tu208" type="okp:value">
+   <segment state="final">
+    <source>Search</source>
+   <target>rechercher</target>
+</segment>
+  </unit>
+  <unit id="tu206">
+   <originalData>
+    <data id="d1">&lt;input itemprop="query-input" type="search" name="s" [#$tu207] /&gt;</data>
+    <data id="d2">&lt;input type="submit" [#$tu208]  /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu207" dataRef="d1"/><ph id="2" canCopy="no" canDelete="no" subFlows="tu208" dataRef="d2"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" subFlows="tu207" dataRef="d1"/><ph id="2" canCopy="no" canDelete="no" subFlows="tu208" dataRef="d2"/></target>
+</segment>
+  </unit>
+  <unit id="tu209" type="okp:h4">
+   <segment state="final">
+    <source>Write Short Story for Money</source>
+   <target>Écrire une histoire courte pour l'argent</target>
+</segment>
+  </unit>
+  <unit id="tu210">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"&gt;</data>
+    <data id="d2">[#$dp368]</data>
+    <data id="d3">&lt;/span&gt;</data>
+    <data id="d4">&lt;strong&gt;</data>
+    <data id="d5">&lt;/strong&gt;</data>
+    <data id="d6">[#$dp369]</data>
+    <data id="d7">&lt;/a&gt;</data>
+    <data id="d8">&lt;br&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc>Our writer <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d4">Mridula</pc> has won <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d4">INR 14000</pc>. Read <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d6">write short stories for money</pc> <ph id="6" canCopy="no" canDelete="no" dataRef="d8"/>Note: This scheme is called off e.f. 27-Aug-2017.</source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc>Notre écrivain Mridula a remporté INR 14000. Lire écrire des histoires courtes pour de l'argent Note: Ce régime est annulé e.f. 27-août-2017.</target>
+</segment>
+  </unit>
+  <unit id="tu211" type="okp:h4">
+   <segment state="final">
+    <source>Tip of the Day</source>
+   <target>Astuce du jour</target>
+</segment>
+  </unit>
+  <unit id="tu212">
+   <originalData>
+    <data id="d1">[#$dp373]</data>
+    <data id="d2">&lt;/a&gt;</data>
+    <data id="d3">[#$dp374]</data>
+   </originalData>
+   <segment state="translated">
+    <source>Literary superiority makes a short story famous but it must also reach the intended readers. Read easily doable <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">tips for short story authors</pc> to increase their online reader base. [<pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3"> Read all tips</pc>]</source>
+   <target>La supériorité littéraire rend une nouvelle célèbre, mais elle doit aussi atteindre les lecteurs visés. Lisez facilement des conseils faisables pour les auteurs de nouvelles pour augmenter leur base de lecteurs en ligne. [ Lire tous les conseils]</target>
+</segment>
+  </unit>
+  <unit id="tu213" type="okp:h4">
+   <segment state="final">
+    <source>Buy Our Book</source>
+   <target>Acheter notre livre</target>
+</segment>
+  </unit>
+  <unit id="tu215" type="okp:alt">
+   <segment state="translated">
+    <source>yours-lovingly-love-short-story-book</source>
+   <target>yours-lovingly-love-short-story-book</target>
+</segment>
+  </unit>
+  <unit id="tu216" type="okp:title">
+   <segment state="final">
+    <source>Buy on Flipkart</source>
+   <target>Acheter sur Flipkart</target>
+</segment>
+  </unit>
+  <unit id="tu217" type="okp:title">
+   <segment state="final">
+    <source>Buy on Amazon</source>
+   <target>Acheter sur Amazon</target>
+</segment>
+  </unit>
+  <unit id="tu214">
+   <originalData>
+    <data id="d1">[#$dp378]</data>
+    <data id="d2">[#$dp379]</data>
+    <data id="d3">&lt;/a&gt;</data>
+    <data id="d4">[#$dp380]</data>
+    <data id="d5">&lt;!--BULLETIN BOARD END--&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu215" dataRef="d1"/>YourStoryClub.com presents Yours Lovingly, an exquisite collection of short love stories penned by different writers. Buy on <pc id="2" canCopy="no" canDelete="no" subFlowsStart="tu216" dataRefEnd="d3" dataRefStart="d2">Flipkart</pc> | <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu217" dataRefEnd="d3" dataRefStart="d4">Amazon</pc><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" subFlows="tu215" dataRef="d1"/>YourStoryClub.com présente Yours Lovingly, une collection exquise de courtes histoires d'amour écrites par différents écrivains. Acheter sur Flipkart (fr) Amazon<ph id="4" canCopy="no" canDelete="no" dataRef="d5"/></target>
+</segment>
+  </unit>
+  <unit id="tu218" type="okp:h4">
+   <segment state="final">
+    <source>YSC Newsletter</source>
+   <target>Bulletin d'information De YSC</target>
+</segment>
+  </unit>
+  <unit id="tu219">
+   <originalData>
+    <data id="d1">[#$dp384]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Get notified of featured stories and important updates. [<pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Know more</pc>]</source>
+   <target>Faites-vous informer des articles présentés et des mises à jour importantes. [En savoir plus]</target>
+</segment>
+  </unit>
+  <unit id="tu221" type="okp:placeholder">
+   <segment state="final">
+    <source>Your email address</source>
+   <target>Adresse électronique</target>
+</segment>
+  </unit>
+  <unit id="tu220" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="email" id="mc4wp_email" name="EMAIL" [#$tu221] required /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu221" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" subFlows="tu221" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu223" type="okp:value">
+   <segment state="final">
+    <source>Subscribe</source>
+   <target>s'inscrire</target>
+</segment>
+  </unit>
+  <unit id="tu222">
+   <originalData>
+    <data id="d1">&lt;input type="submit" [#$tu223] /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu223" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" subFlows="tu223" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu224">
+   <originalData>
+    <data id="d1">&lt;label style="display: none !important;"&gt;</data>
+    <data id="d2">&lt;input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /&gt;</data>
+    <data id="d3">&lt;/label&gt;</data>
+    <data id="d4">&lt;input type="hidden" name="_mc4wp_timestamp" value="1574340683" /&gt;</data>
+    <data id="d5">&lt;input type="hidden" name="_mc4wp_form_id" value="151770" /&gt;</data>
+    <data id="d6">&lt;input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1">Leave this field empty if you're human: <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc><ph id="3" canCopy="no" canDelete="no" dataRef="d4"/><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/><ph id="5" canCopy="no" canDelete="no" dataRef="d6"/></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1">Laissez ce champ vide si vous êtes humain : <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc><ph id="3" canCopy="no" canDelete="no" dataRef="d4"/><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/><ph id="5" canCopy="no" canDelete="no" dataRef="d6"/></target>
+</segment>
+  </unit>
+  <unit id="tu225" type="okp:h4">
+   <segment state="final">
+    <source>Connect with us</source>
+   <target>Connectez-vous avec nous</target>
+</segment>
+  </unit>
+  <unit id="tu226" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp390]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu227" name="social-email-2-id" type="okp:title">
+   <segment state="final">
+    <source>Email</source>
+   <target>email</target>
+</segment>
+  </unit>
+  <unit id="tu228">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu229" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp395]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu230" name="social-facebook-2-id" type="okp:title">
+   <segment state="final">
+    <source>Facebook</source>
+   <target>Facebook</target>
+</segment>
+  </unit>
+  <unit id="tu231">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu232" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp400]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu233" name="social-gplus-2-id" type="okp:title">
+   <segment state="final">
+    <source>Google+</source>
+   <target>Google+</target>
+</segment>
+  </unit>
+  <unit id="tu234">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu235" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp405]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu236" name="social-linkedin-2-id" type="okp:title">
+   <segment state="final">
+    <source>LinkedIn</source>
+   <target>LinkedIn</target>
+</segment>
+  </unit>
+  <unit id="tu237">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu238" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp410]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu239" name="social-rss-2-id" type="okp:title">
+   <segment state="final">
+    <source>RSS</source>
+   <target>RSS</target>
+</segment>
+  </unit>
+  <unit id="tu240">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu241" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp415]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu242" name="social-stumbleupon-2-id" type="okp:title">
+   <segment state="final">
+    <source>StumbleUpon</source>
+   <target>StumbleUpon</target>
+</segment>
+  </unit>
+  <unit id="tu243">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu244" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp420]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu245" name="social-tumblr-2-id" type="okp:title">
+   <segment state="final">
+    <source>Tumblr</source>
+   <target>Tumblr</target>
+</segment>
+  </unit>
+  <unit id="tu246">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu247" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp425]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu248" name="social-twitter-2-id" type="okp:title">
+   <segment state="final">
+    <source>Twitter</source>
+   <target>Twitter</target>
+</segment>
+  </unit>
+  <unit id="tu249">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu250" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp430]</data>
+   </originalData>
+   <segment state="final">
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu251" name="social-youtube-2-id" type="okp:title">
+   <segment state="final">
+    <source>YouTube</source>
+   <target>YouTube</target>
+</segment>
+  </unit>
+  <unit id="tu252">
+   <originalData>
+    <data id="d1">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+  <unit id="tu253" type="okp:h4">
+   <segment state="final">
+    <source>Author’s Area</source>
+   <target>Zone de l'auteur</target>
+</segment>
+  </unit>
+  <unit id="tu254" name="menu-item-140766-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp438]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Dashboard</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">tableau de bord</pc></target>
+</segment>
+  </unit>
+  <unit id="tu255" name="menu-item-140767-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp441]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Profile</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Profil</pc></target>
+</segment>
+  </unit>
+  <unit id="tu256" name="menu-item-140769-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp444]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Posts</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Messages</pc></target>
+</segment>
+  </unit>
+  <unit id="tu257" name="menu-item-140770-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp447]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Comments</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Observations</pc></target>
+</segment>
+  </unit>
+  <unit id="tu258" type="okp:h4">
+   <segment state="final">
+    <source>How To</source>
+   <target>Comment</target>
+</segment>
+  </unit>
+  <unit id="tu259" name="menu-item-140737-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp452]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Write short story</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Écrire une nouvelle</pc></target>
+</segment>
+  </unit>
+  <unit id="tu260" name="menu-item-140738-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp455]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Change name</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Changer de nom</pc></target>
+</segment>
+  </unit>
+  <unit id="tu261" name="menu-item-140739-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp458]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Change password</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Changer de mot de passe</pc></target>
+</segment>
+  </unit>
+  <unit id="tu262" name="menu-item-140740-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp461]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Add profile image</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Ajouter l'image de profil</pc></target>
+</segment>
+  </unit>
+  <unit id="tu263" type="okp:h4">
+   <segment state="final">
+    <source>Story Contests</source>
+   <target>Concours d'histoires</target>
+</segment>
+  </unit>
+  <unit id="tu264" name="menu-item-140743-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp466]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Love Letter Contest</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Concours de lettres d'amour</pc></target>
+</segment>
+  </unit>
+  <unit id="tu265" name="menu-item-140744-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp469]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Creative Writing</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Rédaction créative</pc></target>
+</segment>
+  </unit>
+  <unit id="tu266" name="menu-item-140745-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp472]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Story from Picture</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Histoire de l'image</pc></target>
+</segment>
+  </unit>
+  <unit id="tu267" name="menu-item-140747-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp475]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Love Story Contest</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Concours Love Story</pc></target>
+</segment>
+  </unit>
+  <unit id="tu268" type="okp:h4">
+   <segment state="final">
+    <source>Featured</source>
+   <target>Vedettes</target>
+</segment>
+  </unit>
+  <unit id="tu269" name="menu-item-140749-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp480]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Story of the Month</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Histoire du mois</pc></target>
+</segment>
+  </unit>
+  <unit id="tu270" name="menu-item-140750-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp483]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Editor’s Choice</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Choix de l'éditeur</pc></target>
+</segment>
+  </unit>
+  <unit id="tu271" name="menu-item-140752-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp486]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Selected Stories</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Histoires sélectionnées</pc></target>
+</segment>
+  </unit>
+  <unit id="tu272" name="menu-item-141407-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp489]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Kids Bedtime Stories</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Histoires kids Bedtime</pc></target>
+</segment>
+  </unit>
+  <unit id="tu273" type="okp:h4">
+   <segment state="final">
+    <source>Hindi</source>
+   <target>Hindi</target>
+</segment>
+  </unit>
+  <unit id="tu274" name="menu-item-140771-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp494]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Stories</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Histoires</pc></target>
+</segment>
+  </unit>
+  <unit id="tu275" name="menu-item-140772-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp497]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Poems</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Poèmes</pc></target>
+</segment>
+  </unit>
+  <unit id="tu276" name="menu-item-140773-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp500]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Articles</pc></source>
+   <target>articles 77 à 85.</target>
+</segment>
+  </unit>
+  <unit id="tu277" name="menu-item-141408-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp503]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Write in Hindi</pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Écrire en hindi</pc></target>
+</segment>
+  </unit>
+  <unit id="tu278" type="okp:h4">
+   <segment state="final">
+    <source>YSC Newsletter</source>
+   <target>Bulletin d'information De YSC</target>
+</segment>
+  </unit>
+  <unit id="tu280" type="okp:placeholder">
+   <segment state="final">
+    <source>Your email address</source>
+   <target>Adresse électronique</target>
+</segment>
+  </unit>
+  <unit id="tu281" type="okp:value">
+   <segment state="final">
+    <source>Subscribe</source>
+   <target>s'inscrire</target>
+</segment>
+  </unit>
+  <unit id="tu279">
+   <originalData>
+    <data id="d1">&lt;label for="subbox" class="screenread"&gt;</data>
+    <data id="d2">&lt;/label&gt;</data>
+    <data id="d3">&lt;input type="email" value="" id="subbox" [#$tu280] name="EMAIL"
+																														required="required" /&gt;</data>
+    <data id="d4">&lt;input type="submit" [#$tu281] id="subbutton" /&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address</pc><ph id="2" canCopy="no" canDelete="no" subFlows="tu280" dataRef="d3"/> <ph id="3" canCopy="no" canDelete="no" subFlows="tu281" dataRef="d4"/></source>
+   <target>Adresse électronique</target>
+</segment>
+  </unit>
+  <unit id="tu282" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp509]</data>
+    <data id="d2">&lt;/a&gt;</data>
+    <data id="d3">[#$dp510]</data>
+    <data id="d4">[#$dp511]</data>
+    <data id="d5">[#$dp512]</data>
+    <data id="d6">[#$dp513]</data>
+    <data id="d7">[#$dp514]</data>
+    <data id="d8">[#$dp515]</data>
+    <data id="d9">[#$dp516]</data>
+    <data id="d10">[#$dp517]</data>
+    <data id="d11">[#$dp518]</data>
+    <data id="d12">[#$dp519]</data>
+    <data id="d13">[#$dp520]</data>
+    <data id="d14">[#$dp521]</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Moral</pc> | <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">Love</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">Romance</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Children</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">Funny</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Suspense</pc> | <pc id="7" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d8">Friendship</pc> | <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d9">School and Colleage</pc> | <pc id="9" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d10">Sci-Fi</pc> | <pc id="10" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d11">Inspirational</pc> | <pc id="11" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d12">Family</pc> | <pc id="12" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d13">Poetry</pc> | <pc id="13" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d14">Travel Experience</pc></source>
+   <target>Morale L'amour et l'amour Romance - France Les enfants et les enfants C'est drôle . Suspense ( L'amitié et l'amitié École et Colleage (fr) Sci-Fi - France Inspirational (en anglais seulement) Famille (famille) Poésie et poésie Expérience de voyage</target>
+</segment>
+  </unit>
+  <unit id="tu283" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp524]</data>
+    <data id="d2">&lt;/a&gt;</data>
+    <data id="d3">[#$dp525]</data>
+    <data id="d4">[#$dp526]</data>
+    <data id="d5">[#$dp527]</data>
+    <data id="d6">[#$dp528]</data>
+    <data id="d7">[#$dp529]</data>
+   </originalData>
+   <segment state="translated">
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Home</pc> | <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">About Us</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">FAQ</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Contact Us</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">Terms of Service</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Privacy Policy</pc></source>
+   <target>Accueil (maison) À propos de nous (en anglais seulement) FAQ ( FAQ » Contactez-nous . Conditions d'utilisation Politique de confidentialité</target>
+</segment>
+  </unit>
+  <unit id="tu284" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp531]</data>
+    <data id="d2">&lt;/a&gt;</data>
+   </originalData>
+   <segment state="translated">
+    <source>Copyright © 2019 · <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">YourStoryClub.com</pc> · - Online Short Story Publisher</source>
+   <target>Droits d'auteur © 2019 YourStoryClub.com . - Éditeur de nouvelles en ligne</target>
+</segment>
+  </unit>
+  <unit id="tu285" type="okp:paragraph">
+   <segment>
+    <source/>
+   <target></target>
+</segment>
+  </unit>
+  <unit id="tu286">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="social_connect_login_form_uri" value="https://yourstoryclub.com/wp-login.php?wpe-login=true" /&gt;</data>
+   </originalData>
+   <segment state="final">
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   <target><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></target>
+</segment>
+  </unit>
+ </file>
+</xliff>

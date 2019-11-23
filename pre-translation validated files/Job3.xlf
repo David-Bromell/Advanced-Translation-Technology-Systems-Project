@@ -1,0 +1,1967 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-US" trgLang="fr-FR" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/C:/Users/adria/Desktop/fuck sake/quotes-suspense-short-story-the-tiger-cat (1).html">
+  <unit id="tu1" type="okp:title">
+   <segment>
+    <source>The Tiger Cat - Science Fiction Story with Suspense</source>
+   </segment>
+  </unit>
+  <unit id="tu2" type="okp:content">
+   <segment>
+    <source>My friend was right. It wasnâ€™t exactly a cat. I had never seen anything like it. It had yellow and black stripes just like a tiger. Read Sci-Fi Short Story.</source>
+   </segment>
+  </unit>
+  <unit id="tu3" type="okp:title">
+   <segment>
+    <source>Your Story Club » Feed</source>
+   </segment>
+  </unit>
+  <unit id="tu4" type="okp:title">
+   <segment>
+    <source>Your Story Club » Comments Feed</source>
+   </segment>
+  </unit>
+  <unit id="tu5" type="okp:title">
+   <segment>
+    <source>Your Story Club » The Tiger Cat Comments Feed</source>
+   </segment>
+  </unit>
+  <unit id="tu6" type="okp:title">
+   <segment>
+    <source>RSD</source>
+   </segment>
+  </unit>
+  <unit id="tu7">
+   <originalData>
+    <data id="d1">[#$dp18]</data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu9" type="okp:title">
+   <segment>
+    <source>Go to Home Page</source>
+   </segment>
+  </unit>
+  <unit id="tu8" name="menu-item-429-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp20]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Home</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu11" type="okp:title">
+   <segment>
+    <source>Read About Us</source>
+   </segment>
+  </unit>
+  <unit id="tu10" name="menu-item-431-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp23]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">About Us</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu13" type="okp:title">
+   <segment>
+    <source>We love to hear from you</source>
+   </segment>
+  </unit>
+  <unit id="tu12" name="menu-item-432-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp26]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu13" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Contact Us</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu15" type="okp:title">
+   <segment>
+    <source>Frequently Asked Questions</source>
+   </segment>
+  </unit>
+  <unit id="tu14" name="menu-item-430-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp29]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu15" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">FAQ</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu17" type="okp:title">
+   <segment>
+    <source>Login</source>
+   </segment>
+  </unit>
+  <unit id="tu16" name="menu-item-login-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp32]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu17" dataRefEnd="d2" dataRefStart="d1">Login</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu19" type="okp:title">
+   <segment>
+    <source>Register for free</source>
+   </segment>
+  </unit>
+  <unit id="tu18" name="menu-item-register-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp34]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu19" dataRefEnd="d2" dataRefStart="d1">Register</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu20" type="okp:h1">
+   <originalData>
+    <data id="d1">[#$dp37]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your Story Club</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu21" type="okp:paragraph">
+   <segment>
+    <source>Short Story Publisher</source>
+   </segment>
+  </unit>
+  <unit id="tu22" name="categories-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu23" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;select  name='cat' id='cat' class='postform'  onchange='return this.form.submit()'></data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu24">
+   <segment>
+    <source>Select Story Category</source>
+   </segment>
+  </unit>
+  <unit id="tu25">
+   <segment>
+    <source>Book Review  (2)</source>
+   </segment>
+  </unit>
+  <unit id="tu26">
+   <segment>
+    <source>Childhood and Kids  (547)</source>
+   </segment>
+  </unit>
+  <unit id="tu27">
+   <segment>
+    <source>Editorial  (13)</source>
+   </segment>
+  </unit>
+  <unit id="tu28">
+   <segment>
+    <source>Family  (1,204)</source>
+   </segment>
+  </unit>
+  <unit id="tu29">
+   <segment>
+    <source>Friends  (447)</source>
+   </segment>
+  </unit>
+  <unit id="tu30">
+   <segment>
+    <source>Funny and Hilarious  (431)</source>
+   </segment>
+  </unit>
+  <unit id="tu31">
+   <segment>
+    <source>Love and Romance  (2,168)</source>
+   </segment>
+  </unit>
+  <unit id="tu32">
+   <segment>
+    <source>Paranormal Experience  (282)</source>
+   </segment>
+  </unit>
+  <unit id="tu33">
+   <segment>
+    <source>Poetry  (1,069)</source>
+   </segment>
+  </unit>
+  <unit id="tu34">
+   <segment>
+    <source>School and College  (238)</source>
+   </segment>
+  </unit>
+  <unit id="tu35">
+   <segment>
+    <source>Science Fiction  (210)</source>
+   </segment>
+  </unit>
+  <unit id="tu36">
+   <segment>
+    <source>Social and Moral  (2,307)</source>
+   </segment>
+  </unit>
+  <unit id="tu37">
+   <segment>
+    <source>Suspense and Thriller  (971)</source>
+   </segment>
+  </unit>
+  <unit id="tu38">
+   <segment>
+    <source>Travel  (54)</source>
+   </segment>
+  </unit>
+  <unit id="tu39">
+   <segment>
+    <source>Your Story  (19)</source>
+   </segment>
+  </unit>
+  <unit id="tu40">
+   <originalData>
+    <data id="d1">&lt;/select></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu41" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu43" type="okp:value">
+   <segment>
+    <source>View</source>
+   </segment>
+  </unit>
+  <unit id="tu42">
+   <originalData>
+    <data id="d1">&lt;br /></data>
+    <data id="d2">&lt;input type="submit" [#$tu43] /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" subFlows="tu43" dataRef="d2"/><ph id="3" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu45" type="okp:title">
+   <segment>
+    <source>Read stories &amp; poems</source>
+   </segment>
+  </unit>
+  <unit id="tu44" name="menu-item-140730-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp67]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu45" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Read</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu47" type="okp:title">
+   <segment>
+    <source>Publish your stories</source>
+   </segment>
+  </unit>
+  <unit id="tu46" name="menu-item-140731-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp70]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu47" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Publish</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu49" type="okp:title">
+   <segment>
+    <source>Read editorials</source>
+   </segment>
+  </unit>
+  <unit id="tu48" name="menu-item-141342-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp73]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu49" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Editorial</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu51" type="okp:title">
+   <segment>
+    <source>Search story from listing</source>
+   </segment>
+  </unit>
+  <unit id="tu50" name="menu-item-141066-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp76]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu51" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Story Archive</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu53" type="okp:title">
+   <segment>
+    <source>Participate in discussion forum</source>
+   </segment>
+  </unit>
+  <unit id="tu52" name="menu-item-140735-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp79]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu53" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Discussion</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu55" type="okp:title">
+   <segment>
+    <source>Read what our writers say about us</source>
+   </segment>
+  </unit>
+  <unit id="tu54" name="menu-item-140736-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp82]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu55" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Testimonials</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu56">
+   <originalData>
+    <data id="d1">&lt;span></data>
+    <data id="d2">[#$dp85]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp86]</data>
+    <data id="d5">[#$dp87]</data>
+    <data id="d6">&lt;span class="breadcrumb_last" aria-current="page"></data>
+    <data id="d7">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source>You are reading story at: <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">yourstoryclub</pc> » <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="5" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">Most Popular Short Stories</pc> » <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d1"><pc id="7" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d5">Science Fiction Short Stories</pc> » <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d6">The Tiger Cat</pc></pc></pc></pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu57" type="okp:h1">
+   <segment>
+    <source>The Tiger Cat</source>
+   </segment>
+  </unit>
+  <unit id="tu58">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"></data>
+    <data id="d2">[#$dp90]</data>
+    <data id="d3">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu59" type="okp:paragraph">
+   <segment>
+    <source>English Short Story published on</source>
+   </segment>
+  </unit>
+  <unit id="tu60">
+   <segment>
+    <source>December 26, 2012</source>
+   </segment>
+  </unit>
+  <unit id="tu61">
+   <originalData>
+    <data id="d1">&lt;span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"></data>
+    <data id="d2">[#$dp93]</data>
+    <data id="d3">&lt;span class="entry-author-name" itemprop="name"></data>
+    <data id="d4">&lt;/span></data>
+    <data id="d5">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>by <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d2"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">arin.abc</pc></pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu62">
+   <originalData>
+    <data id="d1">&lt;strong></data>
+    <data id="d2">&lt;/strong></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Excerpt: </pc>Editor's Choice: What I saw bewildered me to no bounds. My friend was right. It wasnâ€™t exactly a cat. I had never seen anything like it. It had yellow and black stripes just like a tiger.</source>
+   </segment>
+  </unit>
+  <unit id="tu64" type="okp:title">
+   <segment>
+    <source>Stories and poems recommended by our editors</source>
+   </segment>
+  </unit>
+  <unit id="tu63" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp98]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu64" dataRefEnd="d2" dataRefStart="d1">Editorâ€™s Choice</pc>: The Tiger Cat – Sci-Fi Short Story with Suspense</source>
+   </segment>
+  </unit>
+  <unit id="tu66" type="okp:title">
+   <segment>
+    <source>Read this sci-fi full with suspense - The Tiger Cat</source>
+   </segment>
+  </unit>
+  <unit id="tu67" type="okp:alt">
+   <segment>
+    <source>tiger-cat-in-cage</source>
+   </segment>
+  </unit>
+  <unit id="tu65">
+   <originalData>
+    <data id="d1">[#$dp101]</data>
+    <data id="d2">[#$dp102]</data>
+    <data id="d3">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu66 tu67" dataRef="d2"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu68" name="caption-attachment-30393-id" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;br /></data>
+    <data id="d2">[#$dp103]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp104]</data>
+   </originalData>
+   <segment>
+    <source>The Tiger Cat – Suspense Short Story<ph id="1" canCopy="no" canDelete="no" dataRef="d1"/>Photo credit: <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">natnat</pc> from <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">morguefile.com</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu69" type="okp:paragraph">
+   <segment>
+    <source>I looked towards the cage again. I was surprised to see the animal. I had never seen such an animal in my lifetime. I looked at my friend. He was smiling blissfully. He was content.</source>
+   </segment>
+  </unit>
+  <unit id="tu70" type="okp:paragraph">
+   <segment>
+    <source>â€œHow much did you buy it for?â€� I asked.</source>
+   </segment>
+  </unit>
+  <unit id="tu71" type="okp:paragraph">
+   <segment>
+    <source>â€œQuite a lot, my friend, quite a lot!â€� He said.</source>
+   </segment>
+  </unit>
+  <unit id="tu72" type="okp:paragraph">
+   <segment>
+    <source>I was pretty sure that the amount was quite high. Or else he wouldnâ€™t have avoided telling me the amount.</source>
+   </segment>
+  </unit>
+  <unit id="tu73" type="okp:paragraph">
+   <segment>
+    <source>â€œBut why did you buy it? I never knew you had a thing for cats. Or any animals for that matter.â€� I said.</source>
+   </segment>
+  </unit>
+  <unit id="tu74" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;b></data>
+    <data id="d2">&lt;/b></data>
+   </originalData>
+   <segment>
+    <source>â€œFirst of all, Itâ€™s not <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">exactly</pc> a cat. Second of all, look at it. Have you ever seen such an exquisite animal? Look at the stripes. Itâ€™s like a little tiger. A mixture of Cat and the Tiger. But I would like to think it is a tiger.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu75" type="okp:paragraph">
+   <segment>
+    <source>I glanced again towards the cage. What I saw bewildered me to no bounds. My friend was right. It wasnâ€™t exactly a cat. I had never seen anything like it. It had yellow and black stripes just like a tiger. If it were not for its size, anybody would have said that it was a tiger. Yet, itâ€™s size was that of a cat. It was sitting down now. And even the body movements and the sitting down posture, it looked or should I say it mimicked the tiger. It was an amazing creature. The cage was about 4 feet in length and 2.5 feet in height. I thought that the cage was a little too small for a creature like that.</source>
+   </segment>
+  </unit>
+  <unit id="tu76" type="okp:paragraph">
+   <segment>
+    <source>â€œItâ€™s a small tiger.â€� My friend Ganesh exclaimed. It was evident that he was quite taken by the creature. I was not sure where he got it from.</source>
+   </segment>
+  </unit>
+  <unit id="tu77" type="okp:paragraph">
+   <segment>
+    <source>â€œIs it a Tiger Cub?â€� I asked. This thought had occurred to me. I have seen the Tiger cubs. But only on TV. In real life I had never seen one.</source>
+   </segment>
+  </unit>
+  <unit id="tu78" type="okp:paragraph">
+   <segment>
+    <source>â€œNo, no itâ€™s not a tiger cub. Itâ€™s a tiger cat.â€� He laughed.</source>
+   </segment>
+  </unit>
+  <unit id="tu79" type="okp:paragraph">
+   <segment>
+    <source>â€œA Tiger Cat!â€� I exclaimed. â€œGanesh, where did you buy it from? And whom did you buy it from?â€� I asked. My tone was curious and excited.</source>
+   </segment>
+  </unit>
+  <unit id="tu80" type="okp:paragraph">
+   <segment>
+    <source>When Ganesh had called me earlier today and said that he wanted me to see something, an animal like this was the last thing on my mind. I could sense the excitement in Ganeshâ€™s voice. My curiosity got the better of me. And of course I had nothing else to do. So, I got to his house as soon as possible.</source>
+   </segment>
+  </unit>
+  <unit id="tu81" type="okp:paragraph">
+   <segment>
+    <source>â€œA Chinese gentlemen from the Chinatown, he sold me this. Yesterday evening, I had gone there for a dinner party. After the dinner was over, everybody left. I was waiting for a bus to come along. Thatâ€™s when I saw this beauty opposite to the bus stand. I got intrigued by it. So I went to the store. I asked the Chinese gentleman about this animal. He said it was a rare breed. It was a mixture of Tiger and cat. Believe me, it was looking amazing in that golden cage. Such beautiful movements. Such elegance in an animal. I knew I had to buy it.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu82" type="okp:paragraph">
+   <segment>
+    <source>â€œAre you sure, he said it is a mixture of cat and tiger. I mean, I never have even heard of such a cat. But I could be wrong.â€� I said.</source>
+   </segment>
+  </unit>
+  <unit id="tu83" type="okp:paragraph">
+   <segment>
+    <source>â€œItâ€™s a Tiger cat. Thatâ€™s what the Chinese gentleman told me. It brings good luck. I tried to buy it. But he wouldnâ€™t sell it. I kept rising the price. But he wouldnâ€™t care. He said, It is an important member of his family. But I was adamant. I said, I wouldnâ€™t go without taking the animal.â€� My friend hesitated for a moment and then continued. â€œSo in the end, he agreed to sell me this magnificent creature. But when I was taking it away, the Chinese gentleman said that, it doesnâ€™t bring good luck to everybody. There is a hard price to it. But what is a hard price for good luck. Right? So I took it.â€� Ganesh was still grinning. He looked like a man who had just found a treasure of gold.</source>
+   </segment>
+  </unit>
+  <unit id="tu84" type="okp:paragraph">
+   <segment>
+    <source>â€œHave you let it out yet? I mean, has the cat or the tiger cat come out of the cage?â€� I enquired.</source>
+   </segment>
+  </unit>
+  <unit id="tu85" type="okp:paragraph">
+   <segment>
+    <source>Ganesh shook his head. His face gave a wince. â€œThatâ€™s just it. It refuses to come out. I opened the cage door. But it doesnâ€™t want to get out.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu86" type="okp:paragraph">
+   <segment>
+    <source>â€œPerhaps, this new surrounding is upsetting him. Perhaps he is missing his old master.â€� I said.</source>
+   </segment>
+  </unit>
+  <unit id="tu87" type="okp:paragraph">
+   <segment>
+    <source>â€œYes. Perhaps.â€� Ganesh replied.</source>
+   </segment>
+  </unit>
+  <unit id="tu88" type="okp:paragraph">
+   <segment>
+    <source>I had a nagging feeling that something was not right. But I guessed if my friend was happy, who was I to interfere with his life?</source>
+   </segment>
+  </unit>
+  <unit id="tu89" type="okp:paragraph">
+   <segment>
+    <source>I glanced at the cage. I saw the animal. Even itâ€™s face was like a tiger. The more I looked at this amazing creature, the more I got convinced that it was more of a tiger and less of a cat. Only the size of the animal was small. In all other aspects I found the animal to be more tiger and less cat.</source>
+   </segment>
+  </unit>
+  <unit id="tu90" type="okp:paragraph">
+   <segment>
+    <source>â€œWhat does it eat?â€� I asked Ganesh.</source>
+   </segment>
+  </unit>
+  <unit id="tu91" type="okp:paragraph">
+   <segment>
+    <source>â€œThatâ€™s just it. I didnâ€™t ask the Chinese gentleman about his eating habit. So today I got fish from the market. But he is refusing to eat it. He is just turning away his mouth. He is only drinking water for now.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu92" type="okp:paragraph">
+   <segment>
+    <source>â€œBut cats eat fish.â€� I said.</source>
+   </segment>
+  </unit>
+  <unit id="tu93" type="okp:paragraph">
+   <segment>
+    <source>Ganesh nodded and looked at the animal, still smiling he said, â€œBut he doesnâ€™t. I am thinking of giving him chicken. Letâ€™s see whether he likes it or not. But I am sure of one thing though, my luck is changing.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu94" type="okp:paragraph">
+   <segment>
+    <source>After some time, we got up. Ganesh said he was going to the market to bring food for his precious animal, while I left for my home.</source>
+   </segment>
+  </unit>
+  <unit id="tu95" type="okp:paragraph">
+   <segment>
+    <source>After two days, I had taken an early leave from my office. And I was very interested in my friendâ€™s new pet. So I went to the National Library. And I checked for cats. Any type or breed of cats. Very soon I came across this breed. The Tiger Cat! I read up the material. It said, Tiger cats are direct breed of the Tiger found in Asia. However, they are mainly cats. They are very very rare to find. Not even 400 of them exist today. And most of them are found in China. I saw the attached photo of the Tiger Cat. I must say what I saw at Ganeshâ€™s house didnâ€™t actually match with the photo. But I was getting confirmed that what I saw was indeed a Tiger Cat.</source>
+   </segment>
+  </unit>
+  <unit id="tu96" type="okp:paragraph">
+   <segment>
+    <source>3 more days had passed. I was busy with my work and I had completely forgotten about Ganesh and his Tiger cat. Suddenly on the sixth day, Ganesh called. He sounded very worried and scared. It was like he was rambling on and on about his tiger cat. He said, he is going crazy with it. He was unable to go outside, because he didnâ€™t want to let this tiger cat out of sight for one moment. And he was hooked on to it. He just couldnâ€™t take his eyes off it. And something terrible was happening to it. I tried to calm him down and asked him what had happened. But he couldnâ€™t say. He said, he couldnâ€™t cal anyone and he thought about me. He had only shown this creature to me and now he wants my help. I asked him to calm down and said that I would come to his house as soon as possible. Within the next hour, I reached his house. When he opened the door, I saw my friendâ€™s face. He looked tired, scared and highly anxious. He was sweating and it was evident he had not eaten for a long time now.</source>
+   </segment>
+  </unit>
+  <unit id="tu97" type="okp:paragraph">
+   <segment>
+    <source>â€œWhat happened to you?â€� I asked.</source>
+   </segment>
+  </unit>
+  <unit id="tu98" type="okp:paragraph">
+   <segment>
+    <source>â€œCome inside. Quickly. I have to show you something.â€� He said. He was shivering with fear.</source>
+   </segment>
+  </unit>
+  <unit id="tu99" type="okp:paragraph">
+   <segment>
+    <source>There was a slight noise, something like low growl, coming from the other room. It was in this room where he had placed the cage and the Tiger Cat. Suddenly, I felt a shiver along my spine. He grasped me and took me to the other room. I could sense his sweaty palms cold with fear. I could smell a foul smell coming. But I could not identify where this smell was coming from.</source>
+   </segment>
+  </unit>
+  <unit id="tu100" type="okp:paragraph">
+   <segment>
+    <source>As soon as I entered the room, what I saw sent shivers through my body. I was looking at the cage. But what I saw I could not believe. This could not have been possible. Was I seeing things? I saw a large cat or a middle sized tiger inside the cage. The cage now was completely filled by the animalâ€™s body. It was barely able to move. I could see that It was looking at us. The eyes of this animal was green and it was filled with hatred. I was hypnotized for a moment. I could not shift my gaze. I thought I was paralyzed by fear, by the animal. I will be never be able to forget what I saw that day. My friend came close to me and whispered to my ear. His voice was hoarse. And in the hoarse voice, He whispered in to my ear, â€œDo you see? Do you see what has happened to my Cat. I canâ€™t understand what happened to him. It was growing daily. I tried to feed him, but he wouldnâ€™t eat. He would only drink water. And every day I watched him grow. I couldnâ€™t go out. I was scared that if I went out, he would escape. And in 5 days he has grown up to this size. I donâ€™t know how much will he grow in the coming days. Help me!!â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu101" type="okp:paragraph">
+   <segment>
+    <source>He put so much stress on the last two words that he almost screamed in his whisper. I stood my ground like a lamp post. My brain was still trying to put things logically. I knew what had happened was impossible. Yet I was looking at thisâ€¦creature, which had grown in size in 5 days! It was impossible.</source>
+   </segment>
+  </unit>
+  <unit id="tu102" type="okp:paragraph">
+   <segment>
+    <source>I breathed in deeply and with almost a herculean effort I managed to look away. I quickly managed to stagger out of the room. My friend was holding me. He came out too.</source>
+   </segment>
+  </unit>
+  <unit id="tu103" type="okp:paragraph">
+   <segment>
+    <source>I saw a chair and quickly sat down. I was sweating too now. This was incredible. What was I supposed to do now? I closed my eyes and breathed deeply for some time. When I opened my eyes, I thought of something.</source>
+   </segment>
+  </unit>
+  <unit id="tu104" type="okp:paragraph">
+   <segment>
+    <source>â€œDo you remember the place from where you had brought this infernal thing?â€� I asked. There was anger in my voice. And I did not hide it. I had told Ganesh earlier. I had warned him. But he kept insisting on keeping this creature.</source>
+   </segment>
+  </unit>
+  <unit id="tu105" type="okp:paragraph">
+   <segment>
+    <source>â€œYes, yes I remember.â€� Ganesh said. His eyes looked pleading. It was as if he was begging to me to take this problem away. He had suffered enough.</source>
+   </segment>
+  </unit>
+  <unit id="tu106" type="okp:paragraph">
+   <segment>
+    <source>â€œWell. Letâ€™s go there. And find this Chinese gentleman of yours and ask him to take back his animal.â€� I said in a little more commanding voice.</source>
+   </segment>
+  </unit>
+  <unit id="tu107" type="okp:paragraph">
+   <segment>
+    <source>â€œYes. Yes you are right. Letâ€™s go there. We need to find the man. I canâ€™t keep this thing.â€� He said.</source>
+   </segment>
+  </unit>
+  <unit id="tu108" type="okp:paragraph">
+   <segment>
+    <source>We quickly got out of the building. Initially he was feeling a little insecure about leaving the creature alone in his apartment. But I had to convince him, that it was the only way. Since I didnâ€™t know where he bought this animal from, he had to come with me. It took us an hour and a half to reach China town. We quickly moved with in the narrow streets and reached the place. Ganesh suddenly stopped. He looked crestfallen. He was standing infront of a shop. But the shutter was pulled down. And it was evident that the shop was closed. He frantically searched for a door or some sort of opening. But it was all in waste. I went to the adjacent shop and asked about this shop. The shop keeper couldnâ€™t help me. He said he didnâ€™t know where the owner had gone or when will the shop be opening. He simply couldnâ€™t tell us anything. Ganesh was looking everywhere. He was asking everyone on the streets. But no one had any idea about the shop.</source>
+   </segment>
+  </unit>
+  <unit id="tu109" type="okp:paragraph">
+   <segment>
+    <source>â€œPerhaps there is a back entrance. Letâ€™s go in the back to check it out.â€� He said.</source>
+   </segment>
+  </unit>
+  <unit id="tu110" type="okp:paragraph">
+   <segment>
+    <source>In my mind I knew that this will be hopeless. But I couldnâ€™t refuse. We went across and circled the whole neighbourhood, but there was no door. There was no opening or any entrance. I looked at my friend. He looked around in dismay. He looked so distraught that I felt pity for him.</source>
+   </segment>
+  </unit>
+  <unit id="tu111" type="okp:paragraph">
+   <segment>
+    <source>â€œAyushman!â€� Ganesh looked at me and said, â€œI have to tell you something!â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu112" type="okp:paragraph">
+   <segment>
+    <source>I slowly walked to my friend. I had never seen him like this. His face was looking so much older. It was evident that he had not been sleeping properly. In fact, I was quite sure that the last few days, he had not slept at all. He looked quite thinner. As if, within a few days he had lost at least 10 kilos. This new pet of his, was causing him a lot of pain. He looked afraid. He had not eaten too. What had he become?</source>
+   </segment>
+  </unit>
+  <unit id="tu113" type="okp:paragraph">
+   <segment>
+    <source>â€œWhat is it?â€� I said. I talked quite softly.</source>
+   </segment>
+  </unit>
+  <unit id="tu114" type="okp:paragraph">
+   <segment>
+    <source>â€œWell, the Chinese gentleman, from whom I got this cat.â€� He stopped. He looked at both sides of the street. He looked reluctant to talk. Yet he was making an effort to say something. He was struggling with himself.</source>
+   </segment>
+  </unit>
+  <unit id="tu115" type="okp:paragraph">
+   <segment>
+    <source>â€œTell me the problem.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu116" type="okp:paragraph">
+   <segment>
+    <source>â€œWellâ€¦actually he did not sell it to me.â€� My friend said. He did not look at my eyes.</source>
+   </segment>
+  </unit>
+  <unit id="tu117" type="okp:paragraph">
+   <segment>
+    <source>â€œWhat? What are you saying? Did you steal it?â€� I exclaimed. This statement of his did not come as a shock to me. I was kind of expecting it. I knew that something was bothering my friend. Perhaps this was it.</source>
+   </segment>
+  </unit>
+  <unit id="tu118" type="okp:paragraph">
+   <segment>
+    <source>â€œI offered the Chinese gentleman a lot of money. But he did not want to sell it. For a moment he went inside the shop. And that is when I â€¦â€¦â€� He left the sentence unfinished.</source>
+   </segment>
+  </unit>
+  <unit id="tu119" type="okp:paragraph">
+   <segment>
+    <source>â€œAnd that is when you stole it?â€� I asked. I was now holding Ganesh by his shoulders and shook him.</source>
+   </segment>
+  </unit>
+  <unit id="tu120" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;i></data>
+    <data id="d2">&lt;/i></data>
+   </originalData>
+   <segment>
+    <source>â€œI did not steal it. I kept all the money I had on his table. I took the cage and quickly got out of the shop. The cage was heavy. As soon I got out, I got a taxi. <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">I was lucky. </pc>I quickly got in with the cage. The cage fitted in the taxi. So it was easy. And I left.â€� Ganesh finished.</source>
+   </segment>
+  </unit>
+  <unit id="tu121" type="okp:paragraph">
+   <segment>
+    <source>â€œBut thatâ€™s stealing Ganesh. Donâ€™t you understand?â€� I shouted in anger. I was a little irritated. Anger and frustration had crept into me. Only then I realized that what kind of a predicament my friend is in now. I am only feeling his frustration. I took several deep breaths. Ganesh kept looking at me. His eyes looked ever so innocent. I understood that he only wanted to get out of this weird situation. I had to think for him. It was quite obvious that he was unable to think for himself.Â  I had a different idea.</source>
+   </segment>
+  </unit>
+  <unit id="tu122" type="okp:paragraph">
+   <segment>
+    <source>â€œAll right. Listen. I think I have a solution. First, lets buy a bigger cage to fit the thing. Right. â€¦.Right.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu123" type="okp:paragraph">
+   <segment>
+    <source>Ganesh nodded. At this moment he would agree to anything I say, I thought.</source>
+   </segment>
+  </unit>
+  <unit id="tu124" type="okp:paragraph">
+   <segment>
+    <source>â€œOk. â€œ I continued, â€œThen tomorrow, we visit this shop again. If it is closed, then we hire some guys from the zoo, to take this thing in to that bigger cage and from your house to somewhere safe for both of you.â€�</source>
+   </segment>
+  </unit>
+  <unit id="tu125" type="okp:paragraph">
+   <segment>
+    <source>â€œWhat if he doesnâ€™t stop growing?â€� Ganesh had tears in his eyes now. His voice was almost pleading.</source>
+   </segment>
+  </unit>
+  <unit id="tu126" type="okp:paragraph">
+   <segment>
+    <source>â€œHe will stop growing.â€� I answered in an affirmative loud voice. But I was unsure of it myself. What if Ganeshâ€™s right? No I couldnâ€™t even bear to think on that line. I need to think positively.</source>
+   </segment>
+  </unit>
+  <unit id="tu127" type="okp:paragraph">
+   <segment>
+    <source>By evening, we had got a bigger and a stronger cage. I We took this cage to Ganeshâ€™s Apartment. It was un-assembled. The cage had come with rivets and bolts and had to be assembled by the right people. I asked him to wait until the next morning. He followed everything what I said. â€˜What an amazing transformation of a man who was so happy and confident only a week ago.â€� I thought.</source>
+   </segment>
+  </unit>
+  <unit id="tu128" type="okp:paragraph">
+   <segment>
+    <source>I left his apartment and went home. That night I couldnâ€™t sleep. It would not be wrong to say that even I was a little worried with what I saw. How can any animal grow so large in just a few days. There must be a rational explanation to this. But unfortunately I couldnâ€™t find one. I did not know when I slept that night. But it was a long time later.</source>
+   </segment>
+  </unit>
+  <unit id="tu129" type="okp:paragraph">
+   <segment>
+    <source>When I woke the next morning, the first thought that came to my mind was how was Ganesh? I decided to call him right away and ask him about the situation. The phone couldnâ€™t connect. I got ready very quickly and quickly went to his house.</source>
+   </segment>
+  </unit>
+  <unit id="tu130" type="okp:paragraph">
+   <segment>
+    <source>I came up to his door and knocked for a couple of times. But there was no answer. I thought maybe he was sleeping. So I knocked quite loudly the next time. But again there was no answer from inside. My heart gave a miss. Suddenly a cold and an uneasy feeling crept unto me. â€˜Was he alright?â€™</source>
+   </segment>
+  </unit>
+  <unit id="tu131" type="okp:paragraph">
+   <segment>
+    <source>I had started sweating. I knocked on the door a few more times and again there was no answer. I went to his neighbourâ€™s door. A middle aged looking man with a moustache and light beard opened the door. It was very evident he was sleeping and I had disturbed his sleep.</source>
+   </segment>
+  </unit>
+  <unit id="tu132" type="okp:paragraph">
+   <segment>
+    <source>â€œExcuse me, I am sorry to disturb you like this so early in the morning. But did you by any chance see or hear my friend Ganesh?â€� I asked him.</source>
+   </segment>
+  </unit>
+  <unit id="tu133" type="okp:paragraph">
+   <segment>
+    <source>He looked at me. His eyes were slightly open. He was a little confused. But after a second or two, it seems he understood what I said and then he shook his head. I thanked him for his reply and let him proceed with his sleeping. He did now know anything. I looked around. There was no one there. Perhaps Ganesh had gone outside. But then why would he have gone outside? And his door was locked from the inside. He had to be inside. I thumped hard on the door this time. I didnâ€™t care what any one would think. And I was least bothered about the noise. I kept knocking and thumping and in between calling his name. But still there was no answer. The neighbor had opened the door again. There was an irritated look to his face. I quickly explained to him that my friend was in some deep trouble. And that no one was answering his door. The sleep from his eyes vanished. He said he would call the police. Meanwhile, I decided that I wouldnâ€™t wait for that long to wait for the police. Using all my might, I gave a mighty push to the door. It almost broke. But it couldnâ€™t resist the second push. And as soon I entered Ganeshâ€™s room, I saw an old man lying on the floor. My heart beating so hard, I thought it would come out. This was not right. I called loudly Ganeshâ€™s name. But there was no answer. Slowly I moved towards that old man who lying on the floor. It looked as if he was at least 100 years old. His skin was dry and shrunken. The hair was white and gray. I looked at his hands, it was bony. As if only the dry skin was on bone. One of his hands was on his chest. His face was twisted as if he was under a lot of pain. His face looked like a skull covered by very dry skin. There was pain his expressions. I looked at his legs and it was bent in a very awkward way. As if his feet was suffering from severe cramps. The old man was dead. But who was this old man. But where was Ganesh?</source>
+   </segment>
+  </unit>
+  <unit id="tu134" type="okp:paragraph">
+   <segment>
+    <source>Suddenly I thought of the Animal. Where was the beast? I nervously looked around. Was it free? Has it broken free and perhaps Ganesh had run away.</source>
+   </segment>
+  </unit>
+  <unit id="tu135" type="okp:paragraph">
+   <segment>
+    <source>I slowly walked in to the room where Ganesh had kept the Cage along with the Tiger cat. What I saw amazed me to bounds. The golden cage was still there. And in one of the corner of the golden cage, there was a small cat, almost the size of kitten. It was resting and It was contently licking his paw. I could not believe my eyes. I searched the whole apartment, there was no one else. I knew it but I was reluctant to admit it. I slowly walked towards the old man. The dead old man was my friend Ganesh!</source>
+   </segment>
+  </unit>
+  <unit id="tu136" type="okp:paragraph">
+   <segment>
+    <source>__</source>
+   </segment>
+  </unit>
+  <unit id="tu137" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp243]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp244]</data>
+    <data id="d4">[#$dp245]</data>
+    <data id="d5">[#$dp246]</data>
+    <data id="d6">[#$dp247]</data>
+    <data id="d7">[#$dp248]</data>
+    <data id="d8">[#$dp249]</data>
+    <data id="d9">[#$dp250]</data>
+    <data id="d10">[#$dp251]</data>
+    <data id="d11">[#$dp252]</data>
+   </originalData>
+   <segment>
+    <source>Read more English Short Story by <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">arin.abc</pc> in category <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">Science Fiction</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">Suspense and Thriller</pc> with tag <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">cage</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">cat</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">China</pc> | <pc id="7" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d8">Chinatown</pc> | <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d9">Chinese</pc> | <pc id="9" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d10">Editor's Choice</pc> | <pc id="10" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d11">tiger</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu138" type="okp:h4">
+   <segment>
+    <source>About the Author</source>
+   </segment>
+  </unit>
+  <unit id="tu139">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"></data>
+    <data id="d2">[#$dp257]</data>
+    <data id="d3">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu141" type="okp:title">
+   <segment>
+    <source>Read stories and poems published by arin.abc</source>
+   </segment>
+  </unit>
+  <unit id="tu140" type="okp:h5">
+   <originalData>
+    <data id="d1">[#$dp258]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu141" dataRefEnd="d2" dataRefStart="d1">arin.abc</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu142" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu143" type="okp:h3">
+   <segment>
+    <source>Comments</source>
+   </segment>
+  </unit>
+  <unit id="tu144" name="comment-89071-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu145" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp266]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;span class="says"></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Mohsin khan</pc> <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">says</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu146" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu147">
+   <originalData>
+    <data id="d1">[#$dp270]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">August 23, 2018 at 12:10 pm</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu148" type="okp:paragraph">
+   <segment>
+    <source>Story fails to sustain interest of the reader…. half of it is about making readers assure its a cat but looks like tiger. Not a good read.</source>
+   </segment>
+  </unit>
+  <unit id="tu149" name="comment-86490-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu150" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp279]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;span class="says"></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">sarika</pc> <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">says</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu151" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu152">
+   <originalData>
+    <data id="d1">[#$dp283]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">March 23, 2017 at 2:37 pm</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu153" type="okp:paragraph">
+   <segment>
+    <source>ending was sad</source>
+   </segment>
+  </unit>
+  <unit id="tu154" name="comment-7454-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu155" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp292]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;span class="says"></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Ratikant</pc> <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">says</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu156" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu157">
+   <originalData>
+    <data id="d1">[#$dp296]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">January 27, 2013 at 12:36 am</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu158" type="okp:paragraph">
+   <segment>
+    <source>What a story:-)</source>
+   </segment>
+  </unit>
+  <unit id="tu159" name="comment-4804-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu160" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp305]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;span class="says"></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">arin.abc</pc> <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d4">says</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu161" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu162">
+   <originalData>
+    <data id="d1">[#$dp309]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">December 27, 2012 at 1:54 pm</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu163" type="okp:paragraph">
+   <segment>
+    <source>Thank you</source>
+   </segment>
+  </unit>
+  <unit id="tu164" name="comment-4799-id" type="okp:li">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu165" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp318]</data>
+    <data id="d2">&lt;span itemprop="name"></data>
+    <data id="d3">[#$dp319]</data>
+    <data id="d4">&lt;/a></data>
+    <data id="d5">&lt;/span></data>
+    <data id="d6">&lt;span class="says"></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d2"><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">Chief Editor</pc></pc> <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d6">says</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu166" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu167">
+   <originalData>
+    <data id="d1">[#$dp323]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">December 26, 2012 at 11:57 pm</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu168" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp327]</data>
+    <data id="d2">&lt;strong></data>
+    <data id="d3">&lt;/strong></data>
+    <data id="d4">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>This story is selected as <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Editor’s Choice</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu169" name="reply-title-id" type="okp:h3">
+   <originalData>
+    <data id="d1">&lt;small></data>
+    <data id="d2">[#$dp332]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">&lt;/small></data>
+   </originalData>
+   <segment>
+    <source>Leave a Reply <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Cancel reply</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu170" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label></data>
+    <data id="d2">&lt;/label></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Connect with</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu172" type="okp:title">
+   <segment>
+    <source>Facebook</source>
+   </segment>
+  </unit>
+  <unit id="tu173" type="okp:alt">
+   <segment>
+    <source>Facebook</source>
+   </segment>
+  </unit>
+  <unit id="tu174" type="okp:title">
+   <segment>
+    <source>Google+</source>
+   </segment>
+  </unit>
+  <unit id="tu175" type="okp:alt">
+   <segment>
+    <source>Google+</source>
+   </segment>
+  </unit>
+  <unit id="tu176" type="okp:title">
+   <segment>
+    <source>Yahoo</source>
+   </segment>
+  </unit>
+  <unit id="tu177" type="okp:alt">
+   <segment>
+    <source>Yahoo</source>
+   </segment>
+  </unit>
+  <unit id="tu178" type="okp:title">
+   <segment>
+    <source>WordPress.com</source>
+   </segment>
+  </unit>
+  <unit id="tu179" type="okp:alt">
+   <segment>
+    <source>WordPress.com</source>
+   </segment>
+  </unit>
+  <unit id="tu171">
+   <originalData>
+    <data id="d1">[#$dp336]</data>
+    <data id="d2">[#$dp337]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp338]</data>
+    <data id="d5">[#$dp339]</data>
+    <data id="d6">[#$dp340]</data>
+    <data id="d7">[#$dp341]</data>
+    <data id="d8">[#$dp342]</data>
+    <data id="d9">[#$dp343]</data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu172" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu173" dataRef="d2"/></pc> <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu174" dataRefEnd="d3" dataRefStart="d4"><ph id="4" canCopy="no" canDelete="no" subFlows="tu175" dataRef="d5"/></pc> <pc id="5" canCopy="no" canDelete="no" subFlowsStart="tu176" dataRefEnd="d3" dataRefStart="d6"><ph id="6" canCopy="no" canDelete="no" subFlows="tu177" dataRef="d7"/></pc> <pc id="7" canCopy="no" canDelete="no" subFlowsStart="tu178" dataRefEnd="d3" dataRefStart="d8"><ph id="8" canCopy="no" canDelete="no" subFlows="tu179" dataRef="d9"/></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu180">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="client_id" value="208732099191642" /></data>
+    <data id="d2">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=facebook-callback" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></source>
+   </segment>
+  </unit>
+  <unit id="tu181">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=twitter" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu182">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=google" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu183">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=google-plus" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu184">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=yahoo" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu185">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="redirect_uri" value="https://yourstoryclub.com/index.php?social-connect=wordpress" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu186" type="okp:title">
+   <segment>
+    <source>WordPress</source>
+   </segment>
+  </unit>
+  <unit id="tu187" type="okp:paragraph">
+   <segment>
+    <source>Enter your WordPress.com blog URL</source>
+   </segment>
+  </unit>
+  <unit id="tu188">
+   <originalData>
+    <data id="d1">&lt;br /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu189" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span></data>
+    <data id="d2">&lt;/span></data>
+    <data id="d3">&lt;input class="wordpress_blog_url" size="15" value=""/></data>
+    <data id="d4">&lt;br /></data>
+    <data id="d5">[#$dp356]</data>
+    <data id="d6">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">http://</pc><ph id="2" canCopy="no" canDelete="no" dataRef="d3"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">.wordpress.com</pc> <ph id="4" canCopy="no" canDelete="no" dataRef="d4"/><ph id="5" canCopy="no" canDelete="no" dataRef="d4"/> <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d6" dataRefStart="d5">Proceed</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu190" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span id="email-notes"></data>
+    <data id="d2">&lt;/span></data>
+    <data id="d3">&lt;span class="required"></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address will not be published.</pc> Required fields are marked <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">*</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu191" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="comment"></data>
+    <data id="d2">&lt;/label></data>
+    <data id="d3">&lt;textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></data>
+    <data id="d4">&lt;/textarea></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Comment</pc> <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3"></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu192" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="author"></data>
+    <data id="d2">&lt;span class="required"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/label></data>
+    <data id="d5">&lt;input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Name <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">*</pc></pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   </segment>
+  </unit>
+  <unit id="tu193" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="email"></data>
+    <data id="d2">&lt;span class="required"></data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;/label></data>
+    <data id="d5">&lt;input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d1">Email <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">*</pc></pc> <ph id="3" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   </segment>
+  </unit>
+  <unit id="tu194" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label for="url"></data>
+    <data id="d2">&lt;/label></data>
+    <data id="d3">&lt;input id="url" name="url" type="url" value="" size="30" maxlength="200" /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Website</pc> <ph id="2" canCopy="no" canDelete="no" dataRef="d3"/></source>
+   </segment>
+  </unit>
+  <unit id="tu196" type="okp:value">
+   <segment>
+    <source>yes</source>
+   </segment>
+  </unit>
+  <unit id="tu195" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" [#$tu196] /></data>
+    <data id="d2">&lt;label for="wp-comment-cookies-consent"></data>
+    <data id="d3">&lt;/label></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu196" dataRef="d1"/><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Save my name, email, and website in this browser for the next time I comment.</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu197">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" name="_mc4wp_subscribe_wp-comment-form" value="0" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu199" type="okp:value">
+   <segment>
+    <source>1</source>
+   </segment>
+  </unit>
+  <unit id="tu198" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;label></data>
+    <data id="d2">&lt;input type="checkbox" name="_mc4wp_subscribe_wp-comment-form" [#$tu199] checked="checked" /></data>
+    <data id="d3">&lt;span></data>
+    <data id="d4">&lt;/span></data>
+    <data id="d5">&lt;/label></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" subFlows="tu199" dataRef="d2"/><pc id="3" canCopy="no" canDelete="no" dataRefEnd="d4" dataRefStart="d3">Subscribe to YSC newsletter</pc></pc></source>
+   </segment>
+  </unit>
+  <unit id="tu201" type="okp:value">
+   <segment>
+    <source>Post Comment</source>
+   </segment>
+  </unit>
+  <unit id="tu200" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input name="submit" type="submit" id="submit" class="submit" [#$tu201] /></data>
+    <data id="d2">&lt;input type='hidden' name='comment_post_ID' value='30361' id='comment_post_ID' /></data>
+    <data id="d3">&lt;input type='hidden' name='comment_parent' id='comment_parent' value='0' /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu201" dataRef="d1"/> <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/> <ph id="3" canCopy="no" canDelete="no" dataRef="d3"/></source>
+   </segment>
+  </unit>
+  <unit id="tu202" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="437f588d4b" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu203" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="ak_js" name="ak_js" value="97"/></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu204" type="okp:aria-label">
+   <segment>
+    <source>Primary Sidebar</source>
+   </segment>
+  </unit>
+  <unit id="tu206" type="okp:placeholder">
+   <segment>
+    <source>Search this website …</source>
+   </segment>
+  </unit>
+  <unit id="tu207" type="okp:value">
+   <segment>
+    <source>Search</source>
+   </segment>
+  </unit>
+  <unit id="tu205">
+   <originalData>
+    <data id="d1">&lt;input itemprop="query-input" type="search" name="s" [#$tu206] /></data>
+    <data id="d2">&lt;input type="submit" [#$tu207]  /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu206" dataRef="d1"/><ph id="2" canCopy="no" canDelete="no" subFlows="tu207" dataRef="d2"/></source>
+   </segment>
+  </unit>
+  <unit id="tu208" type="okp:h4">
+   <segment>
+    <source>Write Short Story for Money</source>
+   </segment>
+  </unit>
+  <unit id="tu209">
+   <originalData>
+    <data id="d1">&lt;span class="alignleft"></data>
+    <data id="d2">[#$dp380]</data>
+    <data id="d3">&lt;/span></data>
+    <data id="d4">&lt;strong></data>
+    <data id="d5">&lt;/strong></data>
+    <data id="d6">[#$dp381]</data>
+    <data id="d7">&lt;/a></data>
+    <data id="d8">&lt;br></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1"><ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc>Our writer <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d4">Mridula</pc> has won <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d5" dataRefStart="d4">INR 14000</pc>. Read <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d7" dataRefStart="d6">write short stories for money</pc> <ph id="6" canCopy="no" canDelete="no" dataRef="d8"/>Note: This scheme is called off e.f. 27-Aug-2017.</source>
+   </segment>
+  </unit>
+  <unit id="tu210" type="okp:h4">
+   <segment>
+    <source>Tip of the Day</source>
+   </segment>
+  </unit>
+  <unit id="tu211">
+   <originalData>
+    <data id="d1">[#$dp385]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp386]</data>
+   </originalData>
+   <segment>
+    <source>Literary superiority makes a short story famous but it must also reach the intended readers. Read easily doable <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">tips for short story authors</pc> to increase their online reader base. [<pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3"> Read all tips</pc>]</source>
+   </segment>
+  </unit>
+  <unit id="tu212" type="okp:h4">
+   <segment>
+    <source>Buy Our Book</source>
+   </segment>
+  </unit>
+  <unit id="tu214" type="okp:alt">
+   <segment>
+    <source>yours-lovingly-love-short-story-book</source>
+   </segment>
+  </unit>
+  <unit id="tu215" type="okp:title">
+   <segment>
+    <source>Buy on Flipkart</source>
+   </segment>
+  </unit>
+  <unit id="tu216" type="okp:title">
+   <segment>
+    <source>Buy on Amazon</source>
+   </segment>
+  </unit>
+  <unit id="tu213">
+   <originalData>
+    <data id="d1">[#$dp390]</data>
+    <data id="d2">[#$dp391]</data>
+    <data id="d3">&lt;/a></data>
+    <data id="d4">[#$dp392]</data>
+    <data id="d5">&lt;!--BULLETIN BOARD END--></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu214" dataRef="d1"/>YourStoryClub.com presents Yours Lovingly, an exquisite collection of short love stories penned by different writers. Buy on <pc id="2" canCopy="no" canDelete="no" subFlowsStart="tu215" dataRefEnd="d3" dataRefStart="d2">Flipkart</pc> | <pc id="3" canCopy="no" canDelete="no" subFlowsStart="tu216" dataRefEnd="d3" dataRefStart="d4">Amazon</pc><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/></source>
+   </segment>
+  </unit>
+  <unit id="tu217" type="okp:h4">
+   <segment>
+    <source>YSC Newsletter</source>
+   </segment>
+  </unit>
+  <unit id="tu218">
+   <originalData>
+    <data id="d1">[#$dp396]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>Get notified of featured stories and important updates. [<pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Know more</pc>]</source>
+   </segment>
+  </unit>
+  <unit id="tu220" type="okp:placeholder">
+   <segment>
+    <source>Your email address</source>
+   </segment>
+  </unit>
+  <unit id="tu219" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="email" id="mc4wp_email" name="EMAIL" [#$tu220] required /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu220" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu222" type="okp:value">
+   <segment>
+    <source>Subscribe</source>
+   </segment>
+  </unit>
+  <unit id="tu221">
+   <originalData>
+    <data id="d1">&lt;input type="submit" [#$tu222] /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" subFlows="tu222" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu223">
+   <originalData>
+    <data id="d1">&lt;label style="display: none !important;"></data>
+    <data id="d2">&lt;input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></data>
+    <data id="d3">&lt;/label></data>
+    <data id="d4">&lt;input type="hidden" name="_mc4wp_timestamp" value="1574340683" /></data>
+    <data id="d5">&lt;input type="hidden" name="_mc4wp_form_id" value="151770" /></data>
+    <data id="d6">&lt;input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d1">Leave this field empty if you're human: <ph id="2" canCopy="no" canDelete="no" dataRef="d2"/></pc><ph id="3" canCopy="no" canDelete="no" dataRef="d4"/><ph id="4" canCopy="no" canDelete="no" dataRef="d5"/><ph id="5" canCopy="no" canDelete="no" dataRef="d6"/></source>
+   </segment>
+  </unit>
+  <unit id="tu224" type="okp:h4">
+   <segment>
+    <source>Connect with us</source>
+   </segment>
+  </unit>
+  <unit id="tu225" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp402]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu226" name="social-email-2-id" type="okp:title">
+   <segment>
+    <source>Email</source>
+   </segment>
+  </unit>
+  <unit id="tu227">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu228" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp407]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu229" name="social-facebook-2-id" type="okp:title">
+   <segment>
+    <source>Facebook</source>
+   </segment>
+  </unit>
+  <unit id="tu230">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu231" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp412]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu232" name="social-gplus-2-id" type="okp:title">
+   <segment>
+    <source>Google+</source>
+   </segment>
+  </unit>
+  <unit id="tu233">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu234" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp417]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu235" name="social-linkedin-2-id" type="okp:title">
+   <segment>
+    <source>LinkedIn</source>
+   </segment>
+  </unit>
+  <unit id="tu236">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu237" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp422]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu238" name="social-rss-2-id" type="okp:title">
+   <segment>
+    <source>RSS</source>
+   </segment>
+  </unit>
+  <unit id="tu239">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu240" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp427]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu241" name="social-stumbleupon-2-id" type="okp:title">
+   <segment>
+    <source>StumbleUpon</source>
+   </segment>
+  </unit>
+  <unit id="tu242">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu243" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp432]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu244" name="social-tumblr-2-id" type="okp:title">
+   <segment>
+    <source>Tumblr</source>
+   </segment>
+  </unit>
+  <unit id="tu245">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu246" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp437]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu247" name="social-twitter-2-id" type="okp:title">
+   <segment>
+    <source>Twitter</source>
+   </segment>
+  </unit>
+  <unit id="tu248">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu249" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp442]</data>
+   </originalData>
+   <segment>
+    <source><sc id="1" canOverlap="no" isolated="yes" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu250" name="social-youtube-2-id" type="okp:title">
+   <segment>
+    <source>YouTube</source>
+   </segment>
+  </unit>
+  <unit id="tu251">
+   <originalData>
+    <data id="d1">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><ec id="1" isolated="yes" canOverlap="no" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+  <unit id="tu252" type="okp:h4">
+   <segment>
+    <source>Author’s Area</source>
+   </segment>
+  </unit>
+  <unit id="tu253" name="menu-item-140766-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp450]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Dashboard</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu254" name="menu-item-140767-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp453]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Profile</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu255" name="menu-item-140769-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp456]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Posts</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu256" name="menu-item-140770-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp459]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Comments</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu257" type="okp:h4">
+   <segment>
+    <source>How To</source>
+   </segment>
+  </unit>
+  <unit id="tu258" name="menu-item-140737-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp464]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Write short story</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu259" name="menu-item-140738-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp467]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Change name</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu260" name="menu-item-140739-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp470]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Change password</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu261" name="menu-item-140740-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp473]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Add profile image</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu262" type="okp:h4">
+   <segment>
+    <source>Story Contests</source>
+   </segment>
+  </unit>
+  <unit id="tu263" name="menu-item-140743-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp478]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Love Letter Contest</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu264" name="menu-item-140744-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp481]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Creative Writing</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu265" name="menu-item-140745-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp484]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Story from Picture</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu266" name="menu-item-140747-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp487]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Love Story Contest</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu267" type="okp:h4">
+   <segment>
+    <source>Featured</source>
+   </segment>
+  </unit>
+  <unit id="tu268" name="menu-item-140749-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp492]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Story of the Month</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu269" name="menu-item-140750-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp495]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Editor’s Choice</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu270" name="menu-item-140752-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp498]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Selected Stories</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu271" name="menu-item-141407-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp501]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Kids Bedtime Stories</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu272" type="okp:h4">
+   <segment>
+    <source>Hindi</source>
+   </segment>
+  </unit>
+  <unit id="tu273" name="menu-item-140771-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp506]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Stories</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu274" name="menu-item-140772-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp509]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Poems</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu275" name="menu-item-140773-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp512]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Articles</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu276" name="menu-item-141408-id" type="okp:li">
+   <originalData>
+    <data id="d1">[#$dp515]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Write in Hindi</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu277" type="okp:h4">
+   <segment>
+    <source>YSC Newsletter</source>
+   </segment>
+  </unit>
+  <unit id="tu279" type="okp:placeholder">
+   <segment>
+    <source>Your email address</source>
+   </segment>
+  </unit>
+  <unit id="tu280" type="okp:value">
+   <segment>
+    <source>Subscribe</source>
+   </segment>
+  </unit>
+  <unit id="tu278">
+   <originalData>
+    <data id="d1">&lt;label for="subbox" class="screenread"></data>
+    <data id="d2">&lt;/label></data>
+    <data id="d3">&lt;input type="email" value="" id="subbox" [#$tu279] name="EMAIL"
+																														required="required" /></data>
+    <data id="d4">&lt;input type="submit" [#$tu280] id="subbutton" /></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address</pc><ph id="2" canCopy="no" canDelete="no" subFlows="tu279" dataRef="d3"/> <ph id="3" canCopy="no" canDelete="no" subFlows="tu280" dataRef="d4"/></source>
+   </segment>
+  </unit>
+  <unit id="tu281" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp521]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp522]</data>
+    <data id="d4">[#$dp523]</data>
+    <data id="d5">[#$dp524]</data>
+    <data id="d6">[#$dp525]</data>
+    <data id="d7">[#$dp526]</data>
+    <data id="d8">[#$dp527]</data>
+    <data id="d9">[#$dp528]</data>
+    <data id="d10">[#$dp529]</data>
+    <data id="d11">[#$dp530]</data>
+    <data id="d12">[#$dp531]</data>
+    <data id="d13">[#$dp532]</data>
+    <data id="d14">[#$dp533]</data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Moral</pc> | <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">Love</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">Romance</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Children</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">Funny</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Suspense</pc> | <pc id="7" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d8">Friendship</pc> | <pc id="8" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d9">School and Colleage</pc> | <pc id="9" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d10">Sci-Fi</pc> | <pc id="10" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d11">Inspirational</pc> | <pc id="11" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d12">Family</pc> | <pc id="12" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d13">Poetry</pc> | <pc id="13" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d14">Travel Experience</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu282" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp536]</data>
+    <data id="d2">&lt;/a></data>
+    <data id="d3">[#$dp537]</data>
+    <data id="d4">[#$dp538]</data>
+    <data id="d5">[#$dp539]</data>
+    <data id="d6">[#$dp540]</data>
+    <data id="d7">[#$dp541]</data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Home</pc> | <pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d3">About Us</pc> | <pc id="3" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d4">FAQ</pc> | <pc id="4" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d5">Contact Us</pc> | <pc id="5" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d6">Terms of Service</pc> | <pc id="6" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d7">Privacy Policy</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu283" type="okp:paragraph">
+   <originalData>
+    <data id="d1">[#$dp543]</data>
+    <data id="d2">&lt;/a></data>
+   </originalData>
+   <segment>
+    <source>Copyright © 2019 · <pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">YourStoryClub.com</pc> · - Online Short Story Publisher</source>
+   </segment>
+  </unit>
+  <unit id="tu284" type="okp:paragraph">
+   <segment>
+    <source></source>
+   </segment>
+  </unit>
+  <unit id="tu285">
+   <originalData>
+    <data id="d1">&lt;input type="hidden" id="social_connect_login_form_uri" value="https://yourstoryclub.com/wp-login.php?wpe-login=true" /></data>
+   </originalData>
+   <segment>
+    <source><ph id="1" canCopy="no" canDelete="no" dataRef="d1"/></source>
+   </segment>
+  </unit>
+ </file>
+</xliff>
