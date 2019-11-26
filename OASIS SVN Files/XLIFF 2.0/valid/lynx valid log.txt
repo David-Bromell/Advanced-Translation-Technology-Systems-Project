@@ -1,0 +1,91 @@
+-------------------------------------------------------------------------------
+Okapi Lynx - Validation and Testing Tool for XLIFF 2
+Library version: 1.1.10
+-------------------------------------------------------------------------------
+Java version: 1.8.0_221
+Platform: Windows 10, x86, 10.0
+Java VM memory: free=15,438 KB, total=15,936 KB
+-------------------------------------------------------------------------------
+
+C:\Users\David\Desktop>cd C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid
+
+C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid>lynx -v withMatches.xlf withModulesAttributesInEc.xlf withNotes.xlf withReferences.xlf withReorderedCodes.xlf withTBXExtension.xlf withValidation.xlf withXmlLang.xlf withXmlSpace.xlf allExtensions.xlf almostEmpty.xlf emptySkeletonWithHref.xlf everything-core.xlf nonEmptySkeletonWithoutHref.xlf sourceOnly.xlf testTranslateWithTarget.xlf toJoin.xlf toSegment.xlf toSegmentAndOrder.xlf typeSubTypeValues.xlf withCDataSections.xlf withCommentAnnotations.xlf withGlossary.xlf
+-------------------------------------------------------------------------------
+Okapi Lynx - Validation and Testing Tool for XLIFF 2
+Library version: 1.1.10
+-------------------------------------------------------------------------------
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withMatches.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withModulesAttributesInEc.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withNotes.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withReferences.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withReorderedCodes.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withTBXExtension.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The prefix 'tbx' in 'f=f1/tbx=tbx44' is not recognized.
+Recognized prefixes are: f, g, u, n, d, t and the following modules or extension prefixes '{gls=[urn:oasis:names:tc:xliff:glossary:2.0], its=[http://www.w3.org/2005/11/its], res=[urn:oasis:names:tc:xliff:resourcedata:2.0], fs=[urn:oasis:names:tc:xliff:fs:2.0], ctr=[urn:oasis:names:tc:xliff:changetracking:2.0], val=[urn:oasis:names:tc:xliff:validation:2.0], mtc=[urn:oasis:names:tc:xliff:matches:2.0], slr=[urn:oasis:names:tc:xliff:sizerestriction:2.0], mda=[urn:oasis:names:tc:xliff:metadata:2.0]}'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withValidation.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withXmlLang.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withXmlSpace.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\allExtensions.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\almostEmpty.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\emptySkeletonWithHref.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\everything-core.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\nonEmptySkeletonWithoutHref.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\sourceOnly.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\testTranslateWithTarget.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\toJoin.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\toSegment.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\toSegmentAndOrder.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\typeSubTypeValues.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withCDataSections.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withCommentAnnotations.xlf
+Schemas validation successful.
+Core processing validation successful.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid\withGlossary.xlf
+Schemas validation successful.
+Core processing validation successful.
+ERROR (java.lang.RuntimeException)
+One or more errors detected (count=1).
+
+C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\valid>
