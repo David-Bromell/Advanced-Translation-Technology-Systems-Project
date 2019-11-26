@@ -1,0 +1,634 @@
+-------------------------------------------------------------------------------
+Okapi Lynx - Validation and Testing Tool for XLIFF 2
+Library version: 1.1.10
+-------------------------------------------------------------------------------
+Java version: 1.8.0_221
+Platform: Windows 10, x86, 10.0
+Java VM memory: free=15,438 KB, total=15,936 KB
+-------------------------------------------------------------------------------
+C:\Users\David\Documents\GitHub>cd C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid
+
+C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid>lynx -v bad_DifferentXmlSpace.xlf bad_DuplicateExtElemIdsInFile.xlf bad_DuplicateExtElemIdsInGroup.xlf bad_DuplicateExtElemIdsInUnit.xlf bad_DuplicateNoteIdsInFile.xlf bad_DuplicateNoteIdsInGroup.xlf bad_DuplicateNoteIdsInUnit.xlf bad_EcBeforeSc.xlf bad_EmBeforeSm.xlf bad_EmptySkeletonWithoutHref.xlf bad_FileIdNotUnique.xlf bad_GroupIdNotUnique.xlf bad_GroupWithoutId.xlf bad_IgnorableIdNotUnique.xlf bad_IgnorableWithoutSource.xlf bad_InvalidCommentAnnotation1.xlf bad_InvalidCommentAnnotation2.xlf bad_InvalidCommentAnnotation3.xlf bad_InvalidCommentAnnotation4.xlf bad_InvalidDataRef.xlf bad_InvalidDataRefEnd.xlf bad_InvalidDataRefStart.xlf bad_InvalidDirAttributeOnSource.xlf bad_InvalidExtensionAttributeOnPc.xlf bad_InvalidExtensionAttributeOnSegment.xlf bad_InvalidExtensionAttributeOnSource.xlf bad_InvalidExtensionAttributeOnTarget.xlf bad_InvalidExtensionElementInData.xlf bad_InvalidExtensionElementInFile.xlf bad_InvalidExtensionElementInOriginalData.xlf bad_InvalidExtensionElementInSegment.xlf bad_InvalidExtensionElementOutsideFile.xlf bad_InvalidFragIdBadOrder.xlf bad_InvalidFragIdDuplicatedPrefix.xlf bad_InvalidFragIdMissplacedLeaf.xlf bad_InvalidFragIdNoSingleLeaf.xlf bad_InvalidFragIdPrefixNotNmtoken.xlf bad_InvalidFragIdPrefixTooShort.xlf bad_InvalidFragIdSyntax.xlf bad_InvalidFragIdUnknownPrefix.xlf bad_InvalidFSAttribute.xlf bad_InvalidFSAttributeOnEc.xlf bad_InvalidFSAttributeValue.xlf bad_InvalidHexRangeOnCp.xlf bad_InvalidHexValueOnCp.xlf bad_InvalidId1.xlf bad_InvalidId2.xlf bad_InvalidId3.xlf bad_InvalidIsolatedOnEc.xlf bad_InvalidIsolatedOnSc.xlf bad_InvalidNoteRefInUnit.xlf bad_InvalidNotesInFile.xlf bad_InvalidNotesInGroup.xlf bad_InvalidNotesInUnit.xlf bad_InvalidStateValue.xlf bad_InvalidTranslateInSegment.xlf bad_InvalidTypeSubTypeValues.xlf bad_InvalidTypeValue.xlf bad_InvalidValidation.xlf bad_InvalidXmlLangInheritedFromFile.xlf bad_InvalidXmlLangInheritedFromGroup.xlf bad_InvalidXmlLangInheritedFromUnit.xlf bad_InvalidXmlLangOnFile.xlf bad_InvalidXmlLangOnGroup.xlf bad_InvalidXmlLangOnUnit.xlf bad_IsolatedEcWithId.xlf bad_MissingIsolatedOnEc.xlf bad_MissingIsolatedOnSc.xlf bad_MissingNonRemovable1.xlf bad_MissingNonRemovable2.xlf bad_MissingReorderFirstNo.xlf bad_NoFile.xlf bad_NonEmptySkeletonWithHref.xlf bad_NonIsolatedEcWithStartRef.xlf bad_NotesWithoutNote.xlf bad_NoTrgLang.xlf bad_NoTrgLangWithIgnorable.xlf bad_NoUnitOrGroupInFile.xlf bad_OrderNotUnique1.xlf bad_OrderNotUnique2.xlf bad_OriginalDataWithoutData.xlf bad_PartIdNotUnique.xlf bad_RefAndValueInComment.xlf bad_SegmentIdNotUnique.xlf bad_SegmentWithoutSource.xlf bad_SrcLangNotWellFormed.xlf bad_SubFlowWithInvalidReference.xlf bad_SubFlowWithInvalidValue.xlf bad_SubStateWithoutState.xlf bad_SubTypeWithoutType.xlf bad_TrgLangNotWellFormed.xlf bad_TwoSourceInUnit.xlf bad_UnitWithoutSegment.xlf bad_UnknownDataRefEndValue.xlf bad_UnknownDataRefStartValue.xlf bad_UnknownDataRefValue.xlf bad_WrongLangOnTarget.xlf bad_WrongReordering1.xlf bad_WrongReordering2.xlf bad_WrongSourceLang.xlf bad_WrongTargetLang.xlf bad_XmlLangNotWellFormed.xlf bad_YesCanReorderInEcForFirstNoInSc.xlf bad_canReorderContext1.xlf bad_canReorderContext2.xlf bad_canReorderContext3.xlf bad_CommentWithValueAndRef.xlf bad_ConfusedIsolatedOnEc.xlf bad_CopyOfWithBadReference.xlf bad_CopyOfWithNoCopyReference.xlf bad_CopyOfWithOriginalData.xlf bad_DataIdNotUnique.xlf  bad_DataRefWithoutOriginalData.xlf bad_DifferentCanCopyInScAndEc.xlf bad_DifferentCanDeleteInScAndEc.xlf bad_DifferentCanOverlapInScAndEc.xlf bad_DifferentCanReorderInScAndEc.xlf bad_DifferentCopyOfInScAndEc.xlf bad_DifferentDirInScAndEc.xlf bad_DifferentSubTypeInScAndEc.xlf bad_DifferentTypeInScAndEc.xlf
+-------------------------------------------------------------------------------
+Okapi Lynx - Validation and Testing Tool for XLIFF 2
+Library version: 1.1.10
+-------------------------------------------------------------------------------
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentXmlSpace.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}segment':
+Source and target must be set to the same whitespace handling option.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DuplicateExtElemIdsInFile.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{myNS}elem2':
+Duplicate id 'x1' for the module or extension 'myNS'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DuplicateExtElemIdsInGroup.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{myNS}elem2':
+Duplicate id 'x1' for the module or extension 'myNS'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DuplicateExtElemIdsInUnit.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{myNS}elem2':
+Duplicate id 'x1' for the module or extension 'myNS'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DuplicateNoteIdsInFile.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}note':
+Duplicate id 'n1' for a <note> element.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DuplicateNoteIdsInGroup.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}note':
+Duplicate id 'n1' for a <note> element.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DuplicateNoteIdsInUnit.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}note':
+Duplicate id 'n1' for a <note> element.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_EcBeforeSc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Closing code tag id='1' is placed before its corresponding opening tag.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_EmBeforeSm.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.XLIFFException)
+Opening tag for id='1' not found.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_EmptySkeletonWithoutHref.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}skeleton':
+You must have a content in <skeleton> if there is no href attribute.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_FileIdNotUnique.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='null'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}file':
+The value '1twice' is used as the id of two or more <file> elements.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_GroupIdNotUnique.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='1twice', <group> id='1twice'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}group':
+Duplicated group id value '1twice' detected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_GroupWithoutId.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_GroupWithoutId.xlf; lineNumber: 4; columnNumber: 10; cvc-complex-type.4: Attribute 'id' must appear on element 'group'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_IgnorableIdNotUnique.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ignorable':
+The id value 'i1twice' is used more than once for <segment> or <ignorable>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_IgnorableWithoutSource.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_IgnorableWithoutSource.xlf; lineNumber: 10; columnNumber: 13; cvc-complex-type.2.4.a: Invalid content was found starting with element 'target'. One of '{"urn:oasis:names:tc:xliff:document:2.0":source}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidCommentAnnotation1.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+A comment annotation must have value or ref specified.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidCommentAnnotation2.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+The ref value of a comment annotation must be a note, but '#n1' is not.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidCommentAnnotation3.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+The ref value of a comment annotation must be a note in the same unit, but '#f=f1/n=n1' is not.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidCommentAnnotation4.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+The ref value of a comment annotation must be a note in the same unit, but '#g=g1/n=n1' is not.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidDataRef.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+No original data found for the id 'bad'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidDataRefEnd.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+No original data found for the id 'bad'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidDataRefStart.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+No original data found for the id 'bad'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidDirAttributeOnSource.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidDirAttributeOnSource.xlf; lineNumber: 6; columnNumber: 23; cvc-complex-type.3.2.2: Attribute 'dir' is not allowed to appear in element 'source'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionAttributeOnPc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}pc':
+Invalid extension attribute ({myNS}badAttr). Only attributes from core and modules can be used in inline codes.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionAttributeOnSegment.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionAttributeOnSegment.xlf; lineNumber: 7; columnNumber: 38; cvc-complex-type.3.2.2: Attribute 'my:badAttr' is not allowed to appear in element 'segment'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionAttributeOnSource.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionAttributeOnSource.xlf; lineNumber: 8; columnNumber: 31; cvc-complex-type.3.2.2: Attribute 'my:badAttr' is not allowed to appear in element 'source'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionAttributeOnTarget.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionAttributeOnTarget.xlf; lineNumber: 8; columnNumber: 31; cvc-complex-type.3.2.2: Attribute 'my:badAttr' is not allowed to appear in element 'target'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionElementInData.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionElementInData.xlf; lineNumber: 6; columnNumber: 64; cvc-complex-type.2.4.a: Invalid content was found starting with element 'my:badElem'. One of '{"urn:oasis:names:tc:xliff:document:2.0":cp}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionElementInFile.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionElementInFile.xlf; lineNumber: 11; columnNumber: 31; cvc-complex-type.2.4.a: Invalid content was found starting with element 'my:badElem'. One of '{"urn:oasis:names:tc:xliff:document:2.0":unit, "urn:oasis:names:tc:xliff:document:2.0":group}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionElementInOriginalData.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionElementInOriginalData.xlf; lineNumber: 7; columnNumber: 30; cvc-complex-type.2.4.a: Invalid content was found starting with element 'my:badElem'. One of '{"urn:oasis:names:tc:xliff:document:2.0":data}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionElementInSegment.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionElementInSegment.xlf; lineNumber: 7; columnNumber: 33; cvc-complex-type.2.4.a: Invalid content was found starting with element 'my:badElem'. One of '{"urn:oasis:names:tc:xliff:document:2.0":target}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidExtensionElementOutsideFile.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidExtensionElementOutsideFile.xlf; lineNumber: 15; columnNumber: 30; cvc-complex-type.2.4.a: Invalid content was found starting with element 'my:badElem'. One of '{"urn:oasis:names:tc:xliff:document:2.0":file}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdBadOrder.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The selector with the prefix 'f' is at an invalid position in 'u=u1/f=f1/gls=g1'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdDuplicatedPrefix.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+Duplicated selector 'u' in 'u=f1/u=1/gls=g1'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdMissplacedLeaf.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The selector with the prefix 'u' is at an invalid position in 'f=f1/d=d1/u=1'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdNoSingleLeaf.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+Duplicated un-prefixed selector in 'c1/c2'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdPrefixNotNmtoken.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The module or extension prefix 'r$d' is not an NMTOKEN.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdPrefixTooShort.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The module or extension prefix 'z' must be longer than 1 character.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdSyntax.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+Duplicated un-prefixed selector in 'n/n1'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFragIdUnknownPrefix.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The prefix 'my' in 'f=f1/u=1/my=myid1' is not recognized.
+Recognized prefixes are: f, g, u, n, d, t and the following modules or extension prefixes '{gls=[urn:oasis:names:tc:xliff:glossary:2.0], its=[http://www.w3.org/2005/11/its], res=[urn:oasis:names:tc:xliff:resourcedata:2.0], fs=[urn:oasis:names:tc:xliff:fs:2.0], ctr=[urn:oasis:names:tc:xliff:changetracking:2.0], val=[urn:oasis:names:tc:xliff:validation:2.0], mtc=[urn:oasis:names:tc:xliff:matches:2.0], slr=[urn:oasis:names:tc:xliff:sizerestriction:2.0], mda=[urn:oasis:names:tc:xliff:metadata:2.0]}'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFSAttribute.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}group':
+Attribute '{urn:oasis:names:tc:xliff:fs:2.0}Bad' is not allowed in 'group'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFSAttributeOnEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+Invalid module attribute {urn:oasis:names:tc:xliff:fs:2.0}fs. It is allowed in <ec> only when the element is isolated.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidFSAttributeValue.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidFSAttributeValue.xlf; lineNumber: 5; columnNumber: 35; cvc-enumeration-valid: Value 'BadValue' is not facet-valid with respect to enumeration '[a, b, bdo, big, blockquote, body, br, button, caption, center, cite, code, col, colgroup, dd, del, div, dl, dt, em, h1, h2, h3, h4, h5, h6, head, hr, html, i, img, label, legend, li, ol, p, pre, q, s, samp, select, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul]'. It must be a value from the enumeration.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidHexRangeOnCp.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}cp':
+Code-point U+00A0 is valid in XML and must not be encoded with <cp/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidHexValueOnCp.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidHexValueOnCp.xlf; lineNumber: 6; columnNumber: 30; cvc-datatype-valid.1.2.1: 'notOK' is not a valid value for 'hexBinary'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidId1.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidId1.xlf; lineNumber: 4; columnNumber: 17; cvc-datatype-valid.1.2.1: '/1' is not a valid value for 'NMTOKEN'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidId2.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidId2.xlf; lineNumber: 5; columnNumber: 21; cvc-datatype-valid.1.2.1: '#1' is not a valid value for 'NMTOKEN'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidId3.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidId3.xlf; lineNumber: 6; columnNumber: 26; cvc-datatype-valid.1.2.1: '\1' is not a valid value for 'NMTOKEN'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidIsolatedOnEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+Missing attribute 'id'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidIsolatedOnSc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Invalid isolated='yes' for opening code id='1'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidNoteRefInUnit.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+The ref value of a comment annotation must be a note in the same unit, but '#f=f1/n=n1' is not.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidNotesInFile.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidNotesInFile.xlf; lineNumber: 9; columnNumber: 10; cvc-complex-type.2.4.a: Invalid content was found starting with element 'notes'. One of '{"urn:oasis:names:tc:xliff:document:2.0":unit, "urn:oasis:names:tc:xliff:document:2.0":group}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidNotesInGroup.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidNotesInGroup.xlf; lineNumber: 10; columnNumber: 11; cvc-complex-type.2.4.a: Invalid content was found starting with element 'notes'. One of '{"urn:oasis:names:tc:xliff:document:2.0":unit, "urn:oasis:names:tc:xliff:document:2.0":group}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidNotesInUnit.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidNotesInUnit.xlf; lineNumber: 8; columnNumber: 11; cvc-complex-type.2.4.a: Invalid content was found starting with element 'notes'. One of '{"urn:oasis:names:tc:xliff:document:2.0":segment, "urn:oasis:names:tc:xliff:document:2.0":ignorable}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidStateValue.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidStateValue.xlf; lineNumber: 5; columnNumber: 30; cvc-enumeration-valid: Value 'badState' is not facet-valid with respect to enumeration '[initial, translated, reviewed, final]'. It must be a value from the enumeration.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidTranslateInSegment.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidTranslateInSegment.xlf; lineNumber: 5; columnNumber: 35; cvc-complex-type.3.2.2: Attribute 'translate' is not allowed to appear in element 'segment'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidTypeSubTypeValues.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+When subType is 'xlf:var', type must be 'fmt'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidTypeValue.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_InvalidTypeValue.xlf; lineNumber: 13; columnNumber: 29; cvc-enumeration-valid: Value 'badType' is not facet-valid with respect to enumeration '[fmt, ui, quote, link, image, other]'. It must be a value from the enumeration.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidValidation.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:validation:2.0}validationBad':
+Invalid element '{urn:oasis:names:tc:xliff:validation:2.0}validationBad'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidXmlLangInheritedFromFile.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidXmlLangInheritedFromGroup.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidXmlLangInheritedFromUnit.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidXmlLangOnFile.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidXmlLangOnGroup.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_InvalidXmlLangOnUnit.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_IsolatedEcWithId.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+Missing attribute 'id'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_MissingIsolatedOnEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+Missing attribute 'startRef'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_MissingIsolatedOnSc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Missing isolated='yes' for opening code id='1'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_MissingNonRemovable1.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Code id='4' (STANDALONE) is non-removable but missing from the target content.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_MissingNonRemovable2.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Code id='1' (STANDALONE) is non-removable but missing from the target content.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_MissingReorderFirstNo.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Marker id='1' in has canReorder='no' but starts a sequence and should have canReorder='firstNo'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NoFile.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_NoFile.xlf; lineNumber: 3; columnNumber: 9; cvc-complex-type.2.4.b: The content of element 'xliff' is not complete. One of '{"urn:oasis:names:tc:xliff:document:2.0":file}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NonEmptySkeletonWithHref.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}skeleton':
+You must not have a content in <skeleton> if there is an href attribute.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NonIsolatedEcWithStartRef.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+Missing attribute 'startRef'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NotesWithoutNote.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_NotesWithoutNote.xlf; lineNumber: 5; columnNumber: 11; cvc-complex-type.2.4.b: The content of element 'notes' is not complete. One of '{"urn:oasis:names:tc:xliff:document:2.0":note}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NoTrgLang.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}target':
+No target language defined in a file with a target entry.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NoTrgLangWithIgnorable.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}target':
+No target language defined in a file with a target entry.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_NoUnitOrGroupInFile.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_NoUnitOrGroupInFile.xlf; lineNumber: 4; columnNumber: 9; cvc-complex-type.2.4.b: The content of element 'file' is not complete. One of '{"urn:oasis:names:tc:xliff:document:2.0":skeleton, WC[##other:"urn:oasis:names:tc:xliff:document:2.0"], "urn:oasis:names:tc:xliff:document:2.0":notes, "urn:oasis:names:tc:xliff:document:2.0":unit, "urn:oasis:names:tc:xliff:document:2.0":group}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_OrderNotUnique1.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The parts 1 and 2 have the same target order: '1'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_OrderNotUnique2.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The parts 1 and 2 have the same target order: '2'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_OriginalDataWithoutData.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_OriginalDataWithoutData.xlf; lineNumber: 6; columnNumber: 19; cvc-complex-type.2.4.b: The content of element 'originalData' is not complete. One of '{"urn:oasis:names:tc:xliff:document:2.0":data}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_PartIdNotUnique.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ignorable':
+The id value '1twice' is used more than once for <segment> or <ignorable>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_RefAndValueInComment.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+A comment annotation must use either the value or the ref attribute, not both.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SegmentIdNotUnique.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}segment':
+The id value 's1twice' is used more than once for <segment> or <ignorable>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SegmentWithoutSource.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_SegmentWithoutSource.xlf; lineNumber: 6; columnNumber: 13; cvc-complex-type.2.4.a: Invalid content was found starting with element 'target'. One of '{"urn:oasis:names:tc:xliff:document:2.0":source}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SrcLangNotWellFormed.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The source language value 'e' is invalid.
+The language subtag e is not a valid language subtag.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SubFlowWithInvalidReference.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='351d0b92-afc0-4172-a4a6-55f06f5e8dca'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}file':
+There is a reference to a subFlow id='badRef' with no corresponding <unit>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SubFlowWithInvalidValue.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_SubFlowWithInvalidValue.xlf; lineNumber: 19; columnNumber: 75; cvc-datatype-valid.1.2.1: 'tu7,' is not a valid value for 'NMTOKEN'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SubStateWithoutState.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}segment':
+If <segment> has a subState, state must be set explicitly.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_SubTypeWithoutType.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}pc':
+An inline code with a subType attribute must also have a type attribute.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_TrgLangNotWellFormed.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.InvalidParameterException)
+The target language value 'f r' is invalid.
+The language subtag f r is not a valid language subtag.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_TwoSourceInUnit.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_TwoSourceInUnit.xlf; lineNumber: 7; columnNumber: 13; cvc-complex-type.2.4.a: Invalid content was found starting with element 'source'. One of '{"urn:oasis:names:tc:xliff:document:2.0":target}' is expected.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_UnitWithoutSegment.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+No <segment> in <unit>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_UnknownDataRefEndValue.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The id '1' is already used for a segment or an ignorable element in the unit id='1'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_UnknownDataRefStartValue.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The id '1' is already used for a segment or an ignorable element in the unit id='1'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_UnknownDataRefValue.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The id '1' is already used for a segment or an ignorable element in the unit id='1'
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_WrongLangOnTarget.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}target':
+Invalid target language ('ja') set or inherited. It should be 'fr'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_WrongReordering1.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Marker id='3' in has canReorder='no' but starts a sequence and should have canReorder='firstNo'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_WrongReordering2.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The sequence of inline codes that cannot be re-ordered starting with the tag id='1' has been modified.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_WrongSourceLang.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}source':
+Invalid source language ('ja') set or inherited. It should be 'en'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_WrongTargetLang.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}target':
+Invalid target language ('de') set or inherited. It should be 'fr'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_XmlLangNotWellFormed.xlf
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error systemId: file:/C:/Users/David/Documents/GitHub/Advanced-Translation-Technology-Systems-Project/OASIS%20SVN%20Files/XLIFF%202.0/invalid/bad_XmlLangNotWellFormed.xlf; lineNumber: 7; columnNumber: 28; cvc-datatype-valid.1.2.3: 'f r' is not a valid value of union type '#AnonType_lang'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_YesCanReorderInEcForFirstNoInSc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'yes' for 'canReorder' in <ec/> is not matching the value 'firstNo' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_canReorderContext1.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ph':
+Both canCopy and canDelete must be set to 'no' if canReorder is not set to 'yes'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_canReorderContext2.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ph':
+If canReorder is not set to 'yes' then canCopy and canDelete must be set to 'no'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_canReorderContext3.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ph':
+If canReorder is not set to 'yes' then canCopy and canDelete must be set to 'no'.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_CommentWithValueAndRef.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}mrk':
+A comment annotation must use either the value or the ref attribute, not both.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_ConfusedIsolatedOnEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+You cannot have both id and startRef attributes on a <ec/> element.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_CopyOfWithBadReference.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The code id='2' is a copy of a code that does not exists (copyOf='not1').
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_CopyOfWithNoCopyReference.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The code id='2' is a copy of a code that must not be copied (copyOf='1').
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_CopyOfWithOriginalData.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+Code id='2' cannot, at the same time, be a copy of code id='1' and have original data (data id='d1').
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DataIdNotUnique.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}data':
+Duplicated id 'd1twice' in original data table.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DataRefWithoutOriginalData.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='u1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}unit':
+The code id='1' refers to the <data> id='d1', but no <originalData> is declared.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentCanCopyInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'yes' for 'canCopy' in <ec/> is not matching the value 'no' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentCanDeleteInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'yes' for 'canDelete' in <ec/> is not matching the value 'no' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentCanOverlapInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'yes' for 'canOverlap' in <ec/> is not matching the value 'no' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentCanReorderInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'yes' for 'canReorder' in <ec/> is not matching the value 'no' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentCopyOfInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value '2' for 'copyOf' in <ec/> is not matching the value '1' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentDirInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'ltr' for 'dir' in <ec/> is not matching the value 'rtl' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentSubTypeInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'xlf:i' for 'subType' in <ec/> is not matching the value 'xlf:b' in <sc/>.
+Input: C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid\bad_DifferentTypeInScAndEc.xlf
+Schemas validation successful.
+ERROR (net.sf.okapi.lib.xliff2.reader.XLIFFReaderException)
+Error in <file> id='f1', <unit> id='1'
+Last element read: '{urn:oasis:names:tc:xliff:document:2.0}ec':
+The value 'ui' for 'type' in <ec/> is not matching the value 'fmt' in <sc/>.
+ERROR (java.lang.RuntimeException)
+One or more errors detected (count=121).
+
+C:\Users\David\Documents\GitHub\Advanced-Translation-Technology-Systems-Project\OASIS SVN Files\XLIFF 2.0\invalid>
