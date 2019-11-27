@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="2.0" srcLang="en-US" trgLang="fr-FR" its:version="2.0">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="2.1" srcLang="en-US" trgLang="fr-FR" its:version="2.0">
  <file id="f1" original="/C:/Users/adria/Downloads/quotes-friends-short-story-7-in-a-bus.html">
   <unit id="tu1" type="okp:title">
-   <segment state="final">
+   <segment  state="final">
     <source>7 in a Bus - Friends Short Story</source>
    <target>7 in a Bus - Friends Short Story</target>
 </segment>
@@ -60,8 +60,8 @@
     <data id="d4">&lt;/a&gt;</data>
    </originalData>
    <segment state="final">
-    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Home</pc></pc></source>
-   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Accueil</pc></pc></target>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1" subFlowsEnd="tu9"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Home</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu9" dataRefEnd="d4" dataRefStart="d1" subFlowsEnd="tu9"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Accueil</pc></pc></target>
 </segment>
   </unit>
   <unit id="tu11" type="okp:title">
@@ -78,8 +78,8 @@
     <data id="d4">&lt;/a&gt;</data>
    </originalData>
    <segment state="final">
-    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">About Us</pc></pc></source>
-   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Qui sommes-nous</pc></pc></target>
+    <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1" subFlowsEnd="tu11"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">About Us</pc></pc></source>
+   <target><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1" subFlowsEnd="tu11"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">Qui sommes-nous</pc></pc></target>
 </segment>
   </unit>
   <unit id="tu13" type="okp:title">
@@ -1826,7 +1826,7 @@
     <data id="d4">&lt;input type="submit" [#$tu228] id="subbutton" /&gt;</data>
    </originalData>
    <segment state="translated">
-    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Your email address</pc><ph id="2" canCopy="no" canDelete="no" subFlows="tu227" dataRef="d3"/> <ph id="3" canCopy="no" canDelete="no" subFlows="tu228" dataRef="d4"/></source>
+    <source><pc id="1" canCopy="no" canDelete="yes" dataRefEnd="d2" dataRefStart="d1">Your email address</pc><ph id="2" canCopy="no" canDelete="yes" subFlows="tu227" dataRef="d3"/> <ph id="3" canCopy="no" canDelete="yes" subFlows="tu228" dataRef="d4"/></source>
    <target>Saisissez votre adresse électronique</target>
 </segment>
   </unit>

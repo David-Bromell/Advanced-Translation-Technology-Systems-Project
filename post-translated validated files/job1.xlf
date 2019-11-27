@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="2.0" srcLang="en-US" trgLang="fr-FR" its:version="2.0">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="2.1" srcLang="en-US" trgLang="fr-FR" its:version="2.0">
  <file id="f1" original="/C:/Users/adria/Desktop/fuck sake/quotes-family-short-story-sparrows (1).html">
   <unit id="tu1" type="okp:title">
    <segment state="final">
@@ -13,6 +13,12 @@
    <target>Histoire courte de famille : Nous sommes un lot respectueux de l'environnement et faire de notre mieux pour vivre en paix et en amitié avec d'autres oiseaux, insectes, animaux et l'homme autour de nous..</target>
 </segment>
   </unit>
+   <unit id="tu2" type="okp:content">
+     <segment state="final">
+       <source>Family Short Story: We are an eco friendly lot and try our best to live in peace and friendship with other birds, insects, animals and the human around us..</source>
+       <target>Histoire courte de famille : Nous sommes un lot respectueux de l'environnement et faire de notre mieux pour vivre en paix et en amitié avec d'autres oiseaux, insectes, animaux et l'homme autour de nous..</target>
+     </segment>
+   </unit>
   <unit id="tu3" type="okp:title">
    <segment state="final">
     <source>Your Story Club » Feed</source>
@@ -76,6 +82,7 @@
     <data id="d2">&lt;span itemprop="name"&gt;</data>
     <data id="d3">&lt;/span&gt;</data>
     <data id="d4">&lt;/a&gt;</data>
+     <data id="d4">&lt;/a&gt;</data>
    </originalData>
    <segment state="final">
     <source><pc id="1" canCopy="no" canDelete="no" subFlowsStart="tu11" dataRefEnd="d4" dataRefStart="d1"><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d3" dataRefStart="d2">About Us</pc></pc></source>
